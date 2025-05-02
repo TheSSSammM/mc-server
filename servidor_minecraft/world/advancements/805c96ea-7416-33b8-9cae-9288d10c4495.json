@@ -951,6 +951,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-05-02 22:17:31 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/deathworm_white_leggings": {
     "criteria": {
       "has_item": "2025-05-02 21:59:17 +0000"
