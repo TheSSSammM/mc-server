@@ -964,6 +964,12 @@
     },
     "done": true
   },
+  "legendary_monsters:locate_ruined_pyramid": {
+    "criteria": {
+      "ruined_pyramid": "2025-05-02 22:44:38 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/deathworm_white_leggings": {
     "criteria": {
       "has_item": "2025-05-02 21:59:17 +0000"
@@ -1024,6 +1030,12 @@
     },
     "done": true
   },
+  "betterdeserttemples:temple_entry": {
+    "criteria": {
+      "in_better_desert_temple": "2025-05-02 22:48:26 +0000"
+    },
+    "done": true
+  },
   "call_of_yucutan:obtain_both_discs": {
     "criteria": {
       "awake": "2025-05-02 22:33:50 +0000"
@@ -1033,6 +1045,12 @@
   "call_of_yucutan:sacrifice_items": {
     "criteria": {
       "sacrifice_items_0": "2025-05-02 22:41:29 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-05-02 22:43:49 +0000"
     },
     "done": true
   },

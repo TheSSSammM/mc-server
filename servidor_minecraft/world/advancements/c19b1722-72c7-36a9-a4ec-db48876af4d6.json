@@ -1,4 +1,16 @@
 {
+  "legendary_monsters:defeat_dune_sentinel": {
+    "criteria": {
+      "ambusher": "2025-05-02 22:46:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-05-02 22:44:42 +0000"
+    },
+    "done": true
+  },
   "call_of_yucutan:interact_with_mirror": {
     "criteria": {
       "interact_with_mirror_0": "2025-05-02 22:33:19 +0000"
@@ -17,6 +29,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-05-02 22:51:49 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_ruined_pyramid": {
+    "criteria": {
+      "ruined_pyramid": "2025-05-02 22:45:37 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
     "criteria": {
       "has_gunpowder": "2025-05-02 22:35:39 +0000"
@@ -29,9 +53,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-05-02 22:50:08 +0000"
+    },
+    "done": true
+  },
   "tombstone:recipes/from_grave_key": {
     "criteria": {
       "has_ingredient": "2025-05-02 22:26:02 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed": "2025-05-02 22:44:39 +0000"
     },
     "done": true
   },
@@ -41,9 +77,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-05-02 22:51:49 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/root": {
     "criteria": {
       "useitem": "2025-05-02 22:07:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-05-02 22:44:42 +0000"
     },
     "done": true
   },
@@ -80,6 +128,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "scrubland": "2025-05-02 22:09:23 +0000",
+      "bayou": "2025-05-02 22:45:31 +0000",
       "prairie": "2025-05-02 22:22:29 +0000"
     },
     "done": false
@@ -94,7 +143,8 @@
     "criteria": {
       "minecraft:pillager": "2025-05-02 22:16:16 +0000",
       "minecraft:vindicator": "2025-05-02 22:17:50 +0000",
-      "minecraft:creeper": "2025-05-02 22:35:36 +0000"
+      "minecraft:creeper": "2025-05-02 22:35:36 +0000",
+      "minecraft:husk": "2025-05-02 22:48:49 +0000"
     },
     "done": false
   },
@@ -107,6 +157,12 @@
   "biomesoplenty:recipes/transportation/umbran_boat": {
     "criteria": {
       "in_water": "2025-05-02 22:25:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-02 22:47:20 +0000"
     },
     "done": true
   },
@@ -200,6 +256,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/deathworm_red_boots": {
+    "criteria": {
+      "has_item": "2025-05-02 22:47:20 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:grant_patchouli": {
     "criteria": {
       "tick": "2025-05-02 21:33:09 +0000"
@@ -221,6 +283,12 @@
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-05-02 22:25:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_leggings": {
+    "criteria": {
+      "has_item": "2025-05-02 22:47:20 +0000"
     },
     "done": true
   },
@@ -256,9 +324,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/deathworm_red_helmet": {
+    "criteria": {
+      "has_item": "2025-05-02 22:47:20 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2025-05-02 22:16:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2025-05-02 22:44:42 +0000"
     },
     "done": true
   },
@@ -268,9 +348,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-05-02 22:44:42 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/first_grave": {
     "criteria": {
       "coded_trigger": "2025-05-02 22:26:00 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:temple_entry": {
+    "criteria": {
+      "in_better_desert_temple": "2025-05-02 22:48:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-05-02 22:44:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-05-02 22:51:49 +0000"
     },
     "done": true
   },
@@ -304,6 +408,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-05-02 22:44:42 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/pine_boat": {
     "criteria": {
       "in_water": "2025-05-02 22:25:40 +0000"
@@ -325,6 +435,12 @@
   "mca:root": {
     "criteria": {
       "village_savanna": "2025-05-02 22:04:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-05-02 22:44:42 +0000"
     },
     "done": true
   },
@@ -352,9 +468,16 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-05-02 22:50:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2025-05-02 22:08:43 +0000",
+      "minecraft:desert": "2025-05-02 22:44:32 +0000",
       "minecraft:jungle": "2025-05-02 22:32:24 +0000",
       "minecraft:savanna": "2025-05-02 22:04:54 +0000",
       "minecraft:plains": "2025-05-02 21:33:10 +0000"
@@ -407,6 +530,12 @@
   "legendary_monsters:nether_root": {
     "criteria": {
       "custom_test_name": "2025-05-02 21:33:09 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-05-02 22:49:31 +0000"
     },
     "done": true
   },
