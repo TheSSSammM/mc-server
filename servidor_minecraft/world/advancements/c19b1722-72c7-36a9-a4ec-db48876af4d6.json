@@ -1,4 +1,10 @@
 {
+  "call_of_yucutan:interact_with_mirror": {
+    "criteria": {
+      "interact_with_mirror_0": "2025-05-02 22:33:19 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_meal": {
     "criteria": {
       "has_item": "2025-05-02 22:14:45 +0000"
@@ -8,6 +14,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_axe": "2025-05-02 22:17:03 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
+    "criteria": {
+      "has_gunpowder": "2025-05-02 22:35:39 +0000"
     },
     "done": true
   },
@@ -81,7 +93,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-05-02 22:16:16 +0000",
-      "minecraft:vindicator": "2025-05-02 22:17:50 +0000"
+      "minecraft:vindicator": "2025-05-02 22:17:50 +0000",
+      "minecraft:creeper": "2025-05-02 22:35:36 +0000"
     },
     "done": false
   },
@@ -315,6 +328,12 @@
     },
     "done": true
   },
+  "call_of_yucutan:obtain_both_discs": {
+    "criteria": {
+      "awake": "2025-05-02 22:39:58 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_axe": "2025-05-02 22:17:03 +0000"
@@ -342,9 +361,21 @@
     },
     "done": false
   },
+  "call_of_yucutan:sacrifice_items": {
+    "criteria": {
+      "sacrifice_items_0": "2025-05-02 22:41:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-05-02 22:11:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-05-02 22:35:39 +0000"
     },
     "done": true
   },
@@ -366,6 +397,12 @@
       "golden_apple": "2025-05-02 22:02:49 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-05-02 22:35:39 +0000"
+    },
+    "done": true
   },
   "legendary_monsters:nether_root": {
     "criteria": {

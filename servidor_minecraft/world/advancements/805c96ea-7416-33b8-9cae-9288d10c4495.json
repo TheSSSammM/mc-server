@@ -946,6 +946,12 @@
     },
     "done": true
   },
+  "call_of_yucutan:interact_with_mirror": {
+    "criteria": {
+      "interact_with_mirror_0": "2025-05-02 22:33:20 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/deathworm_white_helmet": {
     "criteria": {
       "has_item": "2025-05-02 21:59:17 +0000"
@@ -988,6 +994,12 @@
     },
     "done": true
   },
+  "call_of_yucutan:get_burnt_by_light": {
+    "criteria": {
+      "get_burnt_by_light_0": "2025-05-02 22:34:17 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/deathworm_red_leggings": {
     "criteria": {
       "has_item": "2025-05-02 21:52:53 +0000"
@@ -1009,6 +1021,24 @@
   "iceandfire:recipes/combat/deathworm_red_helmet": {
     "criteria": {
       "has_item": "2025-05-02 21:52:53 +0000"
+    },
+    "done": true
+  },
+  "call_of_yucutan:obtain_both_discs": {
+    "criteria": {
+      "awake": "2025-05-02 22:33:50 +0000"
+    },
+    "done": false
+  },
+  "call_of_yucutan:sacrifice_items": {
+    "criteria": {
+      "sacrifice_items_0": "2025-05-02 22:41:29 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-05-02 22:37:04 +0000"
     },
     "done": true
   },
