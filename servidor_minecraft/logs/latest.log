@@ -1,119 +1,1165 @@
-[02May2025 15:48:24.709] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[02May2025 15:48:24.714] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1026-azure
-[02May2025 15:48:24.809] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Configuration file /workspaces/mc-server/servidor_minecraft/config/fml.toml is not correct. Correcting
-[02May2025 15:48:24.810] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSkipGLVersions] was corrected from null to []
-[02May2025 15:48:24.811] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowLogHelpMessage] was corrected from null to true
-[02May2025 15:48:24.812] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSquir] was corrected from null to false
-[02May2025 15:48:24.812] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowShowCPU] was corrected from null to false
-[02May2025 15:48:24.828] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[02May2025 15:48:24.875] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/mc-server/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[02May2025 15:48:25.093] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/mc-server/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[02May2025 15:48:25.094] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/mc-server/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[02May2025 15:48:25.096] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/mc-server/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[02May2025 15:48:25.097] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/mc-server/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[02May2025 15:48:25.208] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[02May2025 15:48:26.493] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[02May2025 15:48:32.105] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[02May2025 15:48:32.107] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[02May2025 15:48:32.686] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[02May2025 15:48:33.164] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[02May2025 15:48:33.791] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[02May2025 15:48:33.825] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/mc-server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23101!/assets/.mcassetsroot' uses unexpected schema
-[02May2025 15:48:33.826] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/mc-server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23101!/data/.mcassetsroot' uses unexpected schema
-[02May2025 15:48:35.459] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
-[02May2025 15:48:35.597] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1271 advancements
-[02May2025 15:48:36.227] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[02May2025 15:48:36.227] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[02May2025 15:48:36.227] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[02May2025 15:48:36.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[02May2025 15:48:36.371] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[02May2025 15:48:36.393] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[02May2025 15:48:36.460] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02May2025 15:48:36.460] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[02May2025 15:48:36.460] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02May2025 15:48:36.461] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[02May2025 15:48:36.482] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/forge-server.toml is not correct. Correcting
-[02May2025 15:48:36.483] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SimpleCommentedConfig:{}. 
-[02May2025 15:48:36.484] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringBlockEntities was corrected from null to its default, false. 
-[02May2025 15:48:36.484] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringEntities was corrected from null to its default, false. 
-[02May2025 15:48:36.484] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fullBoundingBoxLadders was corrected from null to its default, false. 
-[02May2025 15:48:36.485] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBaseSummonChance was corrected from null to its default, 0.1. 
-[02May2025 15:48:36.485] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBabyChance was corrected from null to its default, 0.05. 
-[02May2025 15:48:36.486] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.permissionHandler was corrected from null to its default, forge:default_handler. 
-[02May2025 15:48:36.486] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advertiseDedicatedServerToLan was corrected from null to its default, true. 
-[02May2025 15:48:36.515] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[02May2025 15:48:42.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[02May2025 15:48:43.790] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02May2025 15:48:43.791] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02May2025 15:48:43.813] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02May2025 15:48:44.320] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02May2025 15:48:44.820] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02May2025 15:48:45.318] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
-[02May2025 15:48:45.831] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
-[02May2025 15:48:46.323] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[02May2025 15:48:46.825] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
-[02May2025 15:48:47.316] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
-[02May2025 15:48:47.820] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
-[02May2025 15:48:48.321] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 7%
-[02May2025 15:48:48.815] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
-[02May2025 15:48:49.315] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 11%
-[02May2025 15:48:49.840] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 13%
-[02May2025 15:48:50.317] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
-[02May2025 15:48:50.836] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 17%
-[02May2025 15:48:51.343] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 19%
-[02May2025 15:48:51.836] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 21%
-[02May2025 15:48:52.313] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 22%
-[02May2025 15:48:52.819] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 24%
-[02May2025 15:48:53.323] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 27%
-[02May2025 15:48:53.816] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 30%
-[02May2025 15:48:54.323] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 31%
-[02May2025 15:48:54.824] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 33%
-[02May2025 15:48:55.314] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 36%
-[02May2025 15:48:55.817] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 39%
-[02May2025 15:48:56.327] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 41%
-[02May2025 15:48:56.815] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 42%
-[02May2025 15:48:57.339] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 44%
-[02May2025 15:48:57.840] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 47%
-[02May2025 15:48:58.318] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 50%
-[02May2025 15:48:58.838] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 54%
-[02May2025 15:48:59.322] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 54%
-[02May2025 15:48:59.814] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 56%
-[02May2025 15:49:00.314] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 59%
-[02May2025 15:49:00.814] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 62%
-[02May2025 15:49:01.334] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 65%
-[02May2025 15:49:01.833] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 68%
-[02May2025 15:49:02.315] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 71%
-[02May2025 15:49:02.816] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 75%
-[02May2025 15:49:03.221] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[02May2025 15:49:03.316] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 78%
-[02May2025 15:49:04.019] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 78%
-[02May2025 15:49:04.314] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 80%
-[02May2025 15:49:04.816] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
-[02May2025 15:49:05.314] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 85%
-[02May2025 15:49:05.842] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 89%
-[02May2025 15:49:06.327] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 91%
-[02May2025 15:49:06.814] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 94%
-[02May2025 15:49:07.315] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 98%
-[02May2025 15:49:07.530] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 24717 ms
-[02May2025 15:49:07.530] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (31.055s)! For help, type "help"
-[02May2025 15:49:07.545] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[02May2025 15:49:07.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[02May2025 15:49:07.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: home/codespace/.python/current/bin/python3 /workspaces/mc-server/msx.py<--[HERE]
-[02May2025 15:49:16.151] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4d7f1d32[id=<null>,name=MrSamTex536,properties={},legacy=false] (/127.31.102.135:43847) lost connection: Disconnected
-[02May2025 15:49:51.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[02May2025 15:49:51.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: off<--[HERE]
-[02May2025 15:51:03.245] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@76fd6a53[id=<null>,name=MrSamTex536,properties={},legacy=false] (/127.31.102.135:55789) lost connection: Disconnected
-[02May2025 15:51:08.145] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@271ff361[id=<null>,name=MrSamTex536,properties={},legacy=false] (/127.31.102.135:52501) lost connection: Disconnected
-[02May2025 15:51:20.295] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1b04f3d9[id=<null>,name=MrSamTex536,properties={},legacy=false] (/127.31.102.135:43705) lost connection: Disconnected
-[02May2025 15:51:47.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[02May2025 15:51:47.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reset<--[HERE]
-[02May2025 15:53:28.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[02May2025 15:53:28.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[02May2025 15:53:28.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[02May2025 15:53:28.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[02May2025 15:53:30.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[02May2025 15:53:30.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[02May2025 15:53:30.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02May2025 15:53:30.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02May2025 15:53:30.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02May2025 15:53:30.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02May2025 21:07:02.621] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[02May2025 21:07:02.626] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1026-azure
+[02May2025 21:07:03.257] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[02May2025 21:07:03.307] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/mc-server/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[02May2025 21:07:03.645] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/mc-server/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[02May2025 21:07:03.647] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/mc-server/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[02May2025 21:07:03.648] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/mc-server/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[02May2025 21:07:03.649] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/mc-server/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[02May2025 21:07:04.073] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[02May2025 21:07:04.074] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 7 dependencies adding them to mods collection
+[02May2025 21:07:06.562] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[02May2025 21:07:06.715] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[02May2025 21:07:06.980] [main/WARN] [mixin/]: Reference map 'mixins.call_of_yucutan.refmap.json' for mixins.call_of_yucutan.json could not be read. If this is a development environment you can ignore this message
+[02May2025 21:07:07.008] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 95 options available, 0 override(s) found
+[02May2025 21:07:07.067] [main/WARN] [mixin/]: Reference map 'Aquamirae.refmap.json' for aquamirae.mixins.json could not be read. If this is a development environment you can ignore this message
+[02May2025 21:07:08.278] [main/WARN] [mixin/]: Error loading class: dev/shadowsoffire/apotheosis/ench/table/ApothEnchantmentMenu (java.lang.ClassNotFoundException: dev.shadowsoffire.apotheosis.ench.table.ApothEnchantmentMenu)
+[02May2025 21:07:08.279] [main/WARN] [mixin/]: @Mixin target dev.shadowsoffire.apotheosis.ench.table.ApothEnchantmentMenu was not found origins_classes.mixins.json:common.apotheosis.ApotheosisEnchantmentMenuMixin
+[02May2025 21:07:08.281] [main/WARN] [mixin/]: Error loading class: vectorwing/farmersdelight/common/block/entity/container/CookingPotResultSlot (java.lang.ClassNotFoundException: vectorwing.farmersdelight.common.block.entity.container.CookingPotResultSlot)
+[02May2025 21:07:08.282] [main/WARN] [mixin/]: @Mixin target vectorwing.farmersdelight.common.block.entity.container.CookingPotResultSlot was not found origins_classes.mixins.json:common.farmersdelight.CookingPotResultSlotMixin
+[02May2025 21:07:08.284] [main/WARN] [mixin/]: Error loading class: vectorwing/farmersdelight/common/item/SkilletItem (java.lang.ClassNotFoundException: vectorwing.farmersdelight.common.item.SkilletItem)
+[02May2025 21:07:08.284] [main/WARN] [mixin/]: @Mixin target vectorwing.farmersdelight.common.item.SkilletItem was not found origins_classes.mixins.json:common.farmersdelight.SkilletItemMixin
+[02May2025 21:07:08.312] [main/WARN] [mixin/]: Error loading class: se/mickelus/tetra/blocks/workbench/WorkbenchTile (java.lang.ClassNotFoundException: se.mickelus.tetra.blocks.workbench.WorkbenchTile)
+[02May2025 21:07:08.312] [main/WARN] [mixin/]: @Mixin target se.mickelus.tetra.blocks.workbench.WorkbenchTile was not found origins_classes.mixins.json:common.tetra.WorkbenchTileMixin
+[02May2025 21:07:09.216] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[02May2025 21:07:16.022] [main/WARN] [mixin/]: @Final field f_26027_:Lnet/minecraft/world/entity/ai/targeting/TargetingConditions; in guardvillagers.mixins.json:DefendVillageGoalGolemMixin should be final
+[02May2025 21:07:17.676] [modloading-worker-0/INFO] [Easy NPC/]: Initializing Easy NPC (Forge) ...
+[02May2025 21:07:17.678] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Debug Manager ...
+[02May2025 21:07:17.684] [modloading-worker-0/WARN] [Easy NPC/]: [Debug Manager] Detected debug log level for Easy NPC with ALL!
+[02May2025 21:07:17.684] [modloading-worker-0/WARN] [Easy NPC/]: [Debug Manager] Adjusting log level for Easy NPC from ALL to INFO, for performance reasons!
+[02May2025 21:07:17.685] [modloading-worker-0/INFO] [Easy NPC/]: [Debug Manager] Add new logger config for Easy NPC with level INFO ...
+[02May2025 21:07:17.694] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Constants ...
+[02May2025 21:07:17.696] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Configuration ...
+[02May2025 21:07:17.701] [modloading-worker-0/INFO] [Easy NPC/]: [Config] Updated configuration path to /workspaces/mc-server/servidor_minecraft/config/easy_npc
+[02May2025 21:07:17.701] [modloading-worker-0/INFO] [Easy NPC/]: [Config] Registering common configuration ...
+[02May2025 21:07:17.715] [modloading-worker-0/INFO] [Easy NPC/]: [Config] Render Entity Type Support Configuration
+
+ Please note that this configuration file only includes confirmed entity types.
+ If an entity type is not listed here, it doesn't mean it's automatically supported or unsupported!
+ is up to date: {minecraft:giant=true, dannys_expansion:mundane_slime=false, botania:pool_minecart=false, botania:ender_air=false, minecraft:end_crystal=false, simple_mobs:rumble=false, minecraft:experience_bottle=false, minecraft:glow_squid=true, minecraft:trader_llama=true, orcz:decaystrikecustom=false, simple_mobs:staff_usage=false, minecraft:horse=true, the_bumblezone:purple_spike_entity=false, minecraft:llama=true, minecraft:husk=true, minecraft:cave_spider=true, minecraft:enderman=true, minecraft:dolphin=true, frostiful:freezing_wind=false, minecraft:shulker_bullet=false, simple_mobs:projecttest=false, minecraft:donkey=true, minecraft:area_effect_cloud=false, minecraft:ghast=false, frostiful:packed_snowball=false, twigs:pebble=false, handcrafted:fancy_painting=false, moretotems:summoned_zombie=false, minecraft:piglin_brute=true, minecraft:creeper=true, minecraft:glow_item_frame=false, minecraft:bee=true, botania:mana_storm=false, minecraft:illusioner=true, minecraft:player=false, minecraft:wither_skull=false, minecraft:mooshroom=true, smallships:galley=false, create:stationary_contraption=false, minecraft:eye_of_ender=false, minecraft:villager=true, ad_astra:tier_1_rocket=false, botania:magic_landmine=false, minecraft:stray=true, smallships:cog=false, minecraft:falling_block=false, minecraft:drowned=true, minecraft:axolotl=true, botania:doppleganger=false, botania:flame_ring=false, botania:ender_air_bottle=false, minecraft:tnt=false, ae2:tiny_tnt_primed=false, botania:magic_missile=false, create:crafting_blueprint=false, create:contraption=false, minecraft:strider=true, smallships:brigg=false, minecraft:guardian=true, minecraft:parrot=true, minecraft:arrow=false, lootr:lootr_minecart=false, the_bumblezone:pollen_puff=false, minecraft:chest_minecart=false, minecraft:wither=true, minecraft:ender_pearl=false, create:super_glue=false, minecraft:wandering_trader=true, handcrafted:seat=false, simple_mobs:dragon_smoke=false, minecraft:wither_skeleton=true, botania:thorn_chakram=false, minecraft:iron_golem=true, botania:pixie=false, dummmmmmy:target_dummy=false, minecraft:elder_guardian=true, graveyard:skull=false, minecraft:mule=true, the_bumblezone:bee_stinger=false, the_bumblezone:thrown_stinger_spear=false, minecraft:armor_stand=false, aquamirae:pillagers_patrol=false, minecraft:vindicator=true, botania:mana_burst=false, minecraft:evoker=true, minecraft:slime=false, minecraft:leash_knot=false, botania:babylon_weapon=false, minecraft:pufferfish=true, terraform:boat=false, swampier_swamps:swamp_gas=false, minecraft:experience_orb=false, ad_astra:tier_3_rocket=false, minecraft:fox=true, botania:thrown_item=false, the_bumblezone:cosmic_crystal_entity=false, graveyard:ghouling=false, botania:player_mover=false, minecraft:silverfish=true, minecraft:endermite=true, minecraft:firework_rocket=false, minecraft:chicken=true, minecraft:zombie=true, the_bumblezone:sentry_watcher=false, minecraft:spawner_minecart=false, botania:spark=false, botania:falling_star=false, minecraft:hoglin=true, minecraft:boat=false, minecraft:trident=false, friendsandfoes:player_illusion=false, minecraft:polar_bear=true, minecraft:phantom=false, ad_astra:tier_4_rocket=false, minecraft:zombified_piglin=true, minecraft:witch=true, ad_astra:tier_2_rocket=false, minecraft:pig=true, minecraft:turtle=true, moretotems:summoned_bee=false, minecraft:sheep=true, minecraft:ender_dragon=false, minecraft:goat=true, minecraft:item_frame=false, create:carriage_contraption=false, minecraft:vex=true, minecraft:minecart=false, minecraft:item=false, minecraft:dragon_fireball=false, minecraft:cod=true, minecraft:skeleton=true, ad_astra:space_painting=false, create:seat=false, simple_mobs:staff_interact=false, minecraft:ravager=true, minecraft:squid=true, minecraft:skeleton_horse=true, minecraft:cow=true, minecraft:potion=false, ad_astra:lander=false, minecraft:salmon=true, minecraft:snow_golem=true, minecraft:shulker=true, friendsandfoes:ice_chunk=false, minecraft:hopper_minecart=false, the_bumblezone:honey_crystal_shard=false, simple_mobs:lightning_spear=false, minecraft:rabbit=true, minecraft:painting=false, minecraft:pillager=true, the_bumblezone:electric_ring_entity=false, minecraft:zoglin=true, minecraft:lightning_bolt=false, frostiful:frost_spell=false, minecraft:fishing_bobber=false, minecraft:tnt_minecart=false, simple_mobs:ground_spike=false, minecraft:command_block_minecart=false, minecraft:bat=false, the_bumblezone:dirt_pellet=false, minecraft:fireball=false, minecraft:llama_spit=false, minecraft:furnace_minecart=false, minecraft:evoker_fangs=false, minecraft:piglin=true, minecraft:snowball=false, minecraft:spectral_arrow=false, orcz:wither_strikeringcustom=false, simple_mobs:elemental_chain=false, minecraft:blaze=true, ad_astra:ice_spit=false, techreborn:nuke=false, minecraft:egg=false, minecraft:zombie_horse=true, minecraft:magma_cube=false, minecraft:small_fireball=false, frostiful:thrown_icicle=false, minecraft:spider=true, ad_astra:tier_1_rover=false, minecraft:marker=false, majruszsdifficulty:cursed_armor=false, minecraft:text_display=false, farmersdelight:rotten_tomato=false, minecraft:cat=true, armourers_workshop:mannequin=false, create:gantry_contraption=false, minecraft:tropical_fish=true, botania:corporea_spark=false, minecraft:ocelot=true, minecraft:wolf=true, minecraft:panda=true, minecraft:zombie_villager=true}
+[02May2025 21:07:17.724] [modloading-worker-0/INFO] [Easy NPC/]: [Config] Registering server configuration ...
+[02May2025 21:07:17.724] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Common Data Files ...
+[02May2025 21:07:17.726] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Common data folders ...
+[02May2025 21:07:17.726] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Entity Data Serializers ...
+[02May2025 21:07:17.816] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[02May2025 21:07:17.847] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@39c85c1a on thread Thread[modloading-worker-0,5,main]
+[02May2025 21:07:17.851] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[02May2025 21:07:17.847] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.RenderLayer
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:97) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:48) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:26) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:32) ~[eventbus-6.0.5.jar%2352!/:6.0.5+6.0.5+master.eb8e549b]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at java.lang.ClassLoader.defineClass0(Native Method) ~[?:?]
+	at java.lang.System$2.defineClass(System.java:2324) ~[?:?]
+	at java.lang.invoke.MethodHandles$Lookup$ClassDefiner.defineClass(MethodHandles.java:2439) ~[?:?]
+	at java.lang.invoke.MethodHandles$Lookup$ClassDefiner.defineClassAsLookup(MethodHandles.java:2420) ~[?:?]
+	at java.lang.invoke.MethodHandles$Lookup.defineHiddenClass(MethodHandles.java:2127) ~[?:?]
+	at java.lang.invoke.InnerClassLambdaMetafactory.generateInnerClass(InnerClassLambdaMetafactory.java:407) ~[?:?]
+	at java.lang.invoke.InnerClassLambdaMetafactory.spinInnerClass(InnerClassLambdaMetafactory.java:315) ~[?:?]
+	at java.lang.invoke.InnerClassLambdaMetafactory.buildCallSite(InnerClassLambdaMetafactory.java:228) ~[?:?]
+	at java.lang.invoke.LambdaMetafactory.metafactory(LambdaMetafactory.java:341) ~[?:?]
+	at java.lang.invoke.BootstrapMethodInvoker.invoke(BootstrapMethodInvoker.java:134) ~[?:?]
+	at java.lang.invoke.CallSite.makeSite(CallSite.java:315) ~[?:?]
+	at java.lang.invoke.MethodHandleNatives.linkCallSiteImpl(MethodHandleNatives.java:281) ~[?:?]
+	at java.lang.invoke.MethodHandleNatives.linkCallSite(MethodHandleNatives.java:271) ~[?:?]
+	at com.obscuria.obscureapi.client.renderer.PatreonLayer$Mode.<clinit>(PatreonLayer.java:55) ~[obscure_api-15.jar%23170!/:com.obscuria]
+	at com.obscuria.obscureapi.ObscureAPIConfig$Client.<clinit>(ObscureAPIConfig.java:28) ~[obscure_api-15.jar%23170!/:com.obscuria]
+	at com.obscuria.obscureapi.ObscureAPIConfig.register(ObscureAPIConfig.java:46) ~[obscure_api-15.jar%23170!/:com.obscuria]
+	at com.obscuria.obscureapi.ObscureAPI.<init>(ObscureAPI.java:69) ~[obscure_api-15.jar%23170!/:com.obscuria]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:481) ~[?:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:70) ~[javafmllanguage-1.20.1-47.3.7.jar%23189!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:124) ~[fmlcore-1.20.1-47.3.7.jar%23188!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[02May2025 21:07:17.862] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
+[02May2025 21:07:17.935] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer ActionEventSet with id 28
+[02May2025 21:07:17.935] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer CustomAttributes with id 29
+[02May2025 21:07:17.935] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer DialogDataSet with id 30
+[02May2025 21:07:17.936] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer DisplayAttributeSet with id 31
+[02May2025 21:07:17.937] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer EntityAttributes with id 32
+[02May2025 21:07:17.937] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer MerchantOffers with id 33
+[02May2025 21:07:17.937] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer ModelPose with id 34
+[02May2025 21:07:17.937] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer ObjectiveDataSet with id 35
+[02May2025 21:07:17.937] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer CustomPosition with id 36
+[02May2025 21:07:17.938] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer Profession with id 37
+[02May2025 21:07:17.938] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer RenderDataSet with id 38
+[02May2025 21:07:17.938] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer CustomRotation with id 39
+[02May2025 21:07:17.938] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer CustomScale with id 40
+[02May2025 21:07:17.938] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer SkinDataEntry with id 41
+[02May2025 21:07:17.938] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer SoundDataSet with id 42
+[02May2025 21:07:17.939] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer HashSet:UUID with id 43
+[02May2025 21:07:17.939] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer HashSet:String with id 44
+[02May2025 21:07:17.939] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer TradingDataSet with id 45
+[02May2025 21:07:17.939] [modloading-worker-0/INFO] [Easy NPC/]: Registered entity data serializer UUID with id 46
+[02May2025 21:07:17.939] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Compatibility Handler ...
+[02May2025 21:07:17.942] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Compat Handler ...
+[02May2025 21:07:17.942] [modloading-worker-0/INFO] [Easy NPC/]: [Compat Manager] Epic Fight mod with id 'epicfight' loaded: false
+[02May2025 21:07:17.943] [modloading-worker-0/INFO] [Easy NPC/]: [Compat Manager] Cobblemon mod with id 'cobblemon' loaded: false
+[02May2025 21:07:17.943] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Command Argument Types ...
+[02May2025 21:07:17.952] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Entity Types ...
+[02May2025 21:07:17.970] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Blocks ...
+[02May2025 21:07:17.979] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Blocks Entity Types ...
+[02May2025 21:07:17.979] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Items ...
+[02May2025 21:07:17.991] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Menu Types ...
+[02May2025 21:07:18.022] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Menu Handler ...
+[02May2025 21:07:18.025] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Network Handler ...
+[02May2025 21:07:18.026] [modloading-worker-0/INFO] [Easy NPC/]: Registering server network handler for Server -> Client messages.
+[02May2025 21:07:18.032] [modloading-worker-0/INFO] [Easy NPC/]: 🗣 Register Easy NPC Client Network Message Handler ...
+[02May2025 21:07:18.588] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/mc-server/servidor_minecraft/config/guardvillagers-common.toml is not correct. Correcting
+[02May2025 21:07:18.820] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[02May2025 21:07:18.820] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[02May2025 21:07:18.919] [modloading-worker-0/INFO] [io.github.apace100.apoli.Apoli/]: Apoli 1.20.1-2.9.0.8 has initialized. Ready to power up your game!
+[02May2025 21:07:19.040] [modloading-worker-0/INFO] [Calio/]: Calio 1.20.1-1.11.0.5 initializing...
+[02May2025 21:07:19.090] [modloading-worker-0/INFO] [io.github.apace100.origins.Origins/]: Origins 1.20.1-1.10.0.9 is initializing. Have fun!
+[02May2025 21:07:19.155] [modloading-worker-0/INFO] [dev.limonblaze.originsclasses.OriginsClasses/]: Origins:Classes 1.2.1 has initialized. Time for work!
+[02May2025 21:07:20.172] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[02May2025 21:07:23.822] [main/INFO] [Easy NPC/]: - Registering Synched Attack Data for EasyNPCBaseEntity.
+[02May2025 21:07:23.823] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.AttackData
+[02May2025 21:07:23.823] [main/INFO] [Easy NPC/]: - Registering Synched Attribute Data for EasyNPCBaseEntity.
+[02May2025 21:07:23.823] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.AttributeData
+[02May2025 21:07:23.824] [main/INFO] [Easy NPC/]: - Registering Synched Custom Attribute Data for EasyNPCBaseEntity.
+[02May2025 21:07:23.824] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.CustomAttributeData
+[02May2025 21:07:23.824] [main/INFO] [Easy NPC/]: - Registering Synched Display Attribute Data for EasyNPCBaseEntity.
+[02May2025 21:07:23.824] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.DisplayAttributeData
+[02May2025 21:07:23.824] [main/INFO] [Easy NPC/]: - Registering Synched Navigation Data for EasyNPCBaseEntity.
+[02May2025 21:07:23.825] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.NavigationData
+[02May2025 21:07:23.825] [main/INFO] [Easy NPC/]: - Registering Synched Owner Data for EasyNPCBaseEntity.
+[02May2025 21:07:23.825] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.OwnerData
+[02May2025 21:07:23.825] [main/INFO] [Easy NPC/]: - Registering Synched Profession Data for EasyNPCBaseEntity.
+[02May2025 21:07:23.825] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ProfessionData
+[02May2025 21:07:23.825] [main/INFO] [Easy NPC/]: - Registering Synched Render Data for EasyNPCBaseEntity.
+[02May2025 21:07:23.826] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.RenderData
+[02May2025 21:07:23.826] [main/INFO] [Easy NPC/]: - Registering Synched Skin Data for EasyNPCBaseEntity.
+[02May2025 21:07:23.826] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.SkinData
+[02May2025 21:07:23.826] [main/INFO] [Easy NPC/]: - Registering Synched Sound Data for EasyNPCBaseEntity.
+[02May2025 21:07:23.826] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.SoundData
+[02May2025 21:07:23.826] [main/INFO] [Easy NPC/]: - Registering Synched Trading Data for EasyNPCBaseEntity.
+[02May2025 21:07:23.827] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
+[02May2025 21:07:23.827] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
+[02May2025 21:07:23.827] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
+[02May2025 21:07:23.827] [main/INFO] [Easy NPC/]: - Registering Synched Variant Data for EasyNPCBaseEntity.
+[02May2025 21:07:23.827] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.VariantData
+[02May2025 21:07:23.828] [main/INFO] [Easy NPC/]: - Registering Synched Model Data for EasyNPCBaseModelEntity.
+[02May2025 21:07:23.828] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
+[02May2025 21:07:23.828] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
+[02May2025 21:07:23.828] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
+[02May2025 21:07:23.829] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
+[02May2025 21:07:23.829] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
+[02May2025 21:07:23.829] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
+[02May2025 21:07:23.829] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
+[02May2025 21:07:23.829] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
+[02May2025 21:07:23.829] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
+[02May2025 21:07:23.830] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelData
+[02May2025 21:07:23.830] [main/INFO] [Easy NPC/]: - Registering Synched Model Position Data for EasyNPCBaseModelEntity.
+[02May2025 21:07:23.830] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelPositionData
+[02May2025 21:07:23.831] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelPositionData
+[02May2025 21:07:23.831] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelPositionData
+[02May2025 21:07:23.831] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelPositionData
+[02May2025 21:07:23.831] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelPositionData
+[02May2025 21:07:23.831] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelPositionData
+[02May2025 21:07:23.832] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelPositionData
+[02May2025 21:07:23.832] [main/INFO] [Easy NPC/]: - Registering Synched Model Rotation Data for EasyNPCBaseModelEntity.
+[02May2025 21:07:23.832] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
+[02May2025 21:07:23.832] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
+[02May2025 21:07:23.832] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
+[02May2025 21:07:23.833] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
+[02May2025 21:07:23.833] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
+[02May2025 21:07:23.833] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
+[02May2025 21:07:23.833] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
+[02May2025 21:07:23.834] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
+[02May2025 21:07:23.834] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelRotationData
+[02May2025 21:07:23.834] [main/INFO] [Easy NPC/]: - Registering Synched Model Visibility Data for EasyNPCBaseModelEntity.
+[02May2025 21:07:23.835] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[02May2025 21:07:23.835] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[02May2025 21:07:23.835] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[02May2025 21:07:23.835] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[02May2025 21:07:23.835] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[02May2025 21:07:23.836] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[02May2025 21:07:23.837] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[02May2025 21:07:23.837] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[02May2025 21:07:23.838] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[02May2025 21:07:23.838] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[02May2025 21:07:23.838] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ModelVisibilityData
+[02May2025 21:07:23.839] [main/INFO] [Easy NPC/]: - Registering Synched Scale Data for EasyNPCBaseModelEntity.
+[02May2025 21:07:23.839] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ScaleData
+[02May2025 21:07:23.839] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ScaleData
+[02May2025 21:07:23.839] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.EasyNPCBaseModelEntity from interface de.markusbordihn.easynpc.entity.easynpc.data.ScaleData
+[02May2025 21:07:23.999] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:24.000] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:24.000] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:24.000] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:24.000] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:24.000] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:24.001] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:24.001] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[02May2025 21:07:24.002] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:24.003] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:24.003] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:24.003] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:24.003] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:24.004] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:24.004] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:24.004] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:24.004] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:24.004] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:24.004] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:24.005] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[02May2025 21:07:24.005] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:24.009] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:24.009] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[02May2025 21:07:24.009] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:24.009] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[02May2025 21:07:24.010] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[02May2025 21:07:24.010] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:24.010] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:24.010] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:24.010] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:24.010] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:24.012] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:24.017] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:24.017] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:24.019] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:24.019] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:24.020] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:24.021] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.GrimReaperEntity from class forge.net.mca.util.network.datasync.CEnumParameter
+[02May2025 21:07:24.122] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/mc-server/servidor_minecraft/config/guardvillagers-common.toml is not correct. Correcting
+[02May2025 21:07:24.912] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
+[02May2025 21:07:25.346] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.20.1-47.3.7.jar%23188!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.7.jar%23188!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	... 6 more
+[02May2025 21:07:25.349] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [guardvillagers] Starting version check at https://raw.githubusercontent.com/seymourimadeit/guardvillagers/master/update.json
+[02May2025 21:07:25.361] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [guardvillagers] Found status: BETA Current: 1.20.1-1.6.10 Target: 1.20-1.6.5
+[02May2025 21:07:25.362] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[02May2025 21:07:25.387] [modloading-worker-0/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@7793bd32]
+[02May2025 21:07:25.396] [modloading-worker-0/INFO] [com.sk89q.worldedit.forge.ForgeWorldEdit/]: WorldEdit for Forge (version 7.2.15+6463-5ca4dff) is loaded
+[02May2025 21:07:25.399] [main/INFO] [Easy NPC/]: 🗣 Register Easy NPC Network Handler for net.minecraftforge.network.simple.SimpleChannel@500e15ee with version 23
+[02May2025 21:07:25.401] [main/INFO] [Easy NPC/]: 🗣 Register Easy NPC Network Handler ...
+[02May2025 21:07:25.401] [main/INFO] [Easy NPC/]: Registering network messages for BOTH side ...
+[02May2025 21:07:25.402] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering client network message ExportClientPresetMessage with easy_npc:preset_export_client (0)
+[02May2025 21:07:25.404] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering client network message OpenMenuCallbackMessage with easy_npc:open_menu_callback_message (1)
+[02May2025 21:07:25.405] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering client network message SyncDataMessage with easy_npc:sync_data (2)
+[02May2025 21:07:25.405] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message AddOrUpdateObjectiveMessage with easy_npc:add_objective (3)
+[02May2025 21:07:25.408] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeActionEventMessage with easy_npc:change_action_event (4)
+[02May2025 21:07:25.410] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeAdvancedTradingMessage with easy_npc:change_advanced_trading (5)
+[02May2025 21:07:25.411] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeBasicTradingMessage with easy_npc:change_basic_trading (6)
+[02May2025 21:07:25.413] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeCombatAttributeMessage with easy_npc:change_combat_attribute (7)
+[02May2025 21:07:25.415] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeDisplayAttributeMessage with easy_npc:change_display_attribute (8)
+[02May2025 21:07:25.417] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeEntityAttributeMessage with easy_npc:change_entity_attribute (9)
+[02May2025 21:07:25.418] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeEntityBaseAttributeMessage with easy_npc:change_entity_base_attribute (10)
+[02May2025 21:07:25.419] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeEnvironmentalAttributeMessage with easy_npc:change_environmental_attribute (11)
+[02May2025 21:07:25.421] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeInteractionAttributeMessage with easy_npc:change_interaction_attribute (12)
+[02May2025 21:07:25.423] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeModelEquipmentVisibilityMessage with easy_npc:change_model_equipment_visibility (13)
+[02May2025 21:07:25.424] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeModelLockRotationMessage with easy_npc:change_model_lock_rotation (14)
+[02May2025 21:07:25.425] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeModelPoseMessage with easy_npc:change_model_pose (15)
+[02May2025 21:07:25.427] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeModelPositionMessage with easy_npc:change_model_position (16)
+[02May2025 21:07:25.428] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeModelRotationMessage with easy_npc:change_model_rotation (17)
+[02May2025 21:07:25.429] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeModelVisibilityMessage with easy_npc:change_model_visibility (18)
+[02May2025 21:07:25.430] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeMovementAttributeMessage with easy_npc:change_movement_attribute (19)
+[02May2025 21:07:25.432] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeNameMessage with easy_npc:change_name (20)
+[02May2025 21:07:25.433] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangePoseMessage with easy_npc:change_pose (21)
+[02May2025 21:07:25.434] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangePositionMessage with easy_npc:change_position (22)
+[02May2025 21:07:25.435] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeProfessionMessage with easy_npc:change_profession (23)
+[02May2025 21:07:25.437] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeRendererMessage with easy_npc:change_renderer (24)
+[02May2025 21:07:25.438] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeScaleMessage with easy_npc:change_scale (25)
+[02May2025 21:07:25.440] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeSkinMessage with easy_npc:change_skin (26)
+[02May2025 21:07:25.441] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeSpawnerSettingMessage with easy_npc:change_spawner_settings (27)
+[02May2025 21:07:25.443] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ChangeTradingTypeMessage with easy_npc:change_trading_type (28)
+[02May2025 21:07:25.444] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ExecuteActionEventMessage with easy_npc:trigger_action_event (29)
+[02May2025 21:07:25.445] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ExecuteDialogButtonActionMessage with easy_npc:dialog_button_action (30)
+[02May2025 21:07:25.446] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ExportPresetMessage with easy_npc:export_preset (31)
+[02May2025 21:07:25.447] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ExportWorldPresetMessage with easy_npc:export_world_preset (32)
+[02May2025 21:07:25.448] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message ImportPresetMessage with easy_npc:import_preset (33)
+[02May2025 21:07:25.451] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message OpenActionDataEditorMessage with easy_npc:open_action_data_editor (34)
+[02May2025 21:07:25.452] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message OpenActionDataEntryEditorMessage with easy_npc:open_action_data_entry_editor (35)
+[02May2025 21:07:25.453] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message OpenConfigurationMessage with easy_npc:open_configuration_screen (36)
+[02May2025 21:07:25.454] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message OpenDialogButtonEditorMessage with easy_npc:open_dialog_button_editor (37)
+[02May2025 21:07:25.455] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message OpenDialogEditorMessage with easy_npc:open_dialog_editor (38)
+[02May2025 21:07:25.456] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message OpenMenuMessage with easy_npc:open_menu_message (39)
+[02May2025 21:07:25.457] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message OpenDialogTextEditorMessage with easy_npc:open_dialog_text_editor (40)
+[02May2025 21:07:25.460] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message RemoveDialogButtonMessage with easy_npc:remove_dialog_button (41)
+[02May2025 21:07:25.463] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message RemoveDialogMessage with easy_npc:remove_dialog (42)
+[02May2025 21:07:25.464] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message RemoveNPCMessage with easy_npc:remove_npc (43)
+[02May2025 21:07:25.466] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message RemoveObjectiveMessage with easy_npc:remove_objective (44)
+[02May2025 21:07:25.467] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message RequestDataSyncMessage with easy_npc:request_data_sync (45)
+[02May2025 21:07:25.469] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message RespawnNPCMessage with easy_npc:respawn_npc (46)
+[02May2025 21:07:25.470] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message SaveDialogButtonMessage with easy_npc:save_dialog_button (47)
+[02May2025 21:07:25.471] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message SaveDialogMessage with easy_npc:save_dialog (48)
+[02May2025 21:07:25.473] [main/INFO] [Easy NPC/]: [NetworkHandler] Registering server network message SaveDialogSetMessage with easy_npc:save_dialog_set (49)
+[02May2025 21:07:25.516] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[02May2025 21:07:25.518] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[02May2025 21:07:25.518] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[02May2025 21:07:25.518] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[02May2025 21:07:25.519] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[02May2025 21:07:25.520] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[02May2025 21:07:25.520] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[02May2025 21:07:25.576] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
+[02May2025 21:07:25.636] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[02May2025 21:07:25.639] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[02May2025 21:07:25.648] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.9.4 Target: null
+[02May2025 21:07:25.648] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aquamirae] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/aquamirae/versions.json
+[02May2025 21:07:25.656] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.20.1-47.3.7.jar%23188!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.7.jar%23188!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	... 6 more
+[02May2025 21:07:25.686] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.686] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.687] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.687] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.687] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.687] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.688] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.688] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.688] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.688] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.688] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.688] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.689] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.689] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.689] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.689] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.689] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.690] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.690] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.690] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.690] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.690] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.690] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.691] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.691] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.691] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.691] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.691] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.692] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.692] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.692] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.692] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.693] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.693] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.693] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.693] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.693] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.693] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.694] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.694] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.694] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.694] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.695] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.695] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.695] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.695] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.695] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.696] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.696] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.696] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.696] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.696] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.697] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.697] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.697] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.697] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.698] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.698] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.698] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.698] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.698] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.698] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.699] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.699] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.699] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.699] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.699] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.699] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.700] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.700] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.700] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.700] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.700] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.701] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.701] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.701] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.701] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.701] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.702] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.702] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.702] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.702] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.702] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.703] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.703] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.703] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.703] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.703] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.704] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.704] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.704] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.704] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.705] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.705] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.705] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.705] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.705] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.706] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.706] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.706] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.706] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.706] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.707] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.707] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.707] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.707] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.708] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.708] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.708] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.708] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.708] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.709] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.709] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.710] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.710] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.710] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.710] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.710] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.711] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.711] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.711] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.711] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.712] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.712] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.712] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.712] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.713] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.713] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.713] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.713] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.713] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.714] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:25.714] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:25.714] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.601] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02May2025 21:07:27.800] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.800] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.800] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.800] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.801] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.801] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.801] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.801] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.801] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.801] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.802] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.802] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.802] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.802] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.802] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.802] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.802] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.803] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.803] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.803] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.803] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.803] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.803] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.803] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.803] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.804] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.804] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.804] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.804] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.804] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.804] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.804] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.805] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.805] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.805] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.805] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.805] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.805] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.805] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.805] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.806] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.806] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.806] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.806] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.806] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.806] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.806] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.807] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.807] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.807] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.807] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.807] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.807] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.807] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.808] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.808] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.808] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.808] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.808] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.808] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.808] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.809] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.809] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.809] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.809] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.809] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.810] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.810] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.810] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.810] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.810] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.810] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.811] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.811] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.811] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.811] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.811] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.812] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.812] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.812] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.812] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.813] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.813] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.813] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.813] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.813] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.814] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.814] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.814] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.815] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.815] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.815] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.815] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.816] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.816] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.816] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.816] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.817] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.817] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.817] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.817] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.818] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.818] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.818] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.818] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.818] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.819] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.819] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.819] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.819] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.820] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.820] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.820] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.820] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.821] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.821] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.822] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.823] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.823] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.824] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.824] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.824] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.824] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.825] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.826] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.826] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.826] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.826] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.827] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.827] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.827] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.828] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.828] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.828] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.948] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.948] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.948] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.948] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.948] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.949] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.949] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.949] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.949] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.950] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.950] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.950] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.950] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.950] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.951] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.951] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.951] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.951] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.951] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.952] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.952] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.952] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.952] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.952] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.953] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.953] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.953] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.953] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.953] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.953] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.953] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.953] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.954] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.954] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.954] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.954] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.954] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.954] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.955] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.955] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.955] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.955] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.955] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.955] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.955] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.955] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.956] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.956] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.956] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.956] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.956] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.956] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.957] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.957] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.957] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.957] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.957] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.957] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.957] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.957] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.958] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.958] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.958] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.958] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.958] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.958] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.958] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.959] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.959] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.959] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.959] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.959] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.959] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.959] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.960] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.960] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.960] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.960] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.960] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.960] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.960] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.960] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.961] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.961] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.961] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.961] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.961] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.961] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.961] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.961] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.962] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.962] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.962] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.962] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.962] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.962] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.962] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.963] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.963] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.963] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.963] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.963] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.963] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.963] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.964] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.964] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.964] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.964] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.964] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.964] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.964] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.964] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.965] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.965] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.965] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.965] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.965] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.965] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.966] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.966] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.966] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.966] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.966] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.966] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.966] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.967] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.967] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.967] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.967] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.967] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.967] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.967] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:27.967] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[02May2025 21:07:27.968] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[02May2025 21:07:29.187] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/mc-server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23187!/assets/.mcassetsroot' uses unexpected schema
+[02May2025 21:07:29.188] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/mc-server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23187!/data/.mcassetsroot' uses unexpected schema
+[02May2025 21:07:29.898] [main/INFO] [bettervillage/]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
+[02May2025 21:07:31.171] [main/INFO] [Easy NPC/]: 🗣 Register Easy NPC /easy_npc commands for Easy NPC ...
+[02May2025 21:07:31.636] [main/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
+[02May2025 21:07:31.699] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[02May2025 21:07:31.717] [main/INFO] [Calio/]: CDRM Initialized with 16 registries
+[02May2025 21:07:31.853] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag legendary_monsters:ancient_stronghold_biomes as it is missing following references: minecraft:spruce_forest (from legendarymonsters-1.9.4 MC 1.20.1.jar)
+[02May2025 21:07:33.141] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:alexsmobs:gameplay/seal_reward}.pools[0].entries[0]->{minecraft:gameplay/fishing/junk}.pools[1].condition[0]: Parameters [<parameter minecraft:origin>] are not provided in this context
+[02May2025 21:07:33.182] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:ancient_dripstone_brick_stairs_left
+com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:ancient_dripstone_brick'
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:219) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.20.1-47.3.7-universal.jar%23192!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:148) ~[forge-1.20.1-47.3.7-universal.jar%23192!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_288218_(Ingredient.java:194) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_44210_(ShapedRecipe.java:278) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:306) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.3.7-universal.jar%23192!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[02May2025 21:07:33.193] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:purified_soul
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:brewing'
+	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:169) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[02May2025 21:07:33.200] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe irons_spellbooks:curios/concentration_amulet
+com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingot'
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:219) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.20.1-47.3.7-universal.jar%23192!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:148) ~[forge-1.20.1-47.3.7-universal.jar%23192!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_288218_(Ingredient.java:194) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_44210_(ShapedRecipe.java:278) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:306) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.3.7-universal.jar%23192!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[02May2025 21:07:33.216] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:dinosaur_bone_meal
+com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_bone_meal'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23192!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23192!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151274_(ShapedRecipe.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:311) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.3.7-universal.jar%23192!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[02May2025 21:07:33.269] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 11 recipes
+[02May2025 21:07:33.408] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement cloudstorage:cloudstorage/static_balloon: Failed to parse 'location' field
+[02May2025 21:07:33.476] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2639 advancements
+[02May2025 21:07:33.630] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
+[02May2025 21:07:33.636] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[02May2025 21:07:33.652] [main/ERROR] [bettervillage/]: Ice And Fire compatibility is not enabled for Better Village and Ice And Fire is present in your mod list.
+     - Please install the datapack for better compatibility between Better Villages and Ice And Fire.
+     - You can find the datapack URL in the `compatibility` section of the Better Villages description.
+     - URL=https://www.curseforge.com/minecraft/mc-mods/better-village-forge
+[02May2025 21:07:34.929] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[02May2025 21:07:34.929] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[02May2025 21:07:34.929] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[02May2025 21:07:34.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[02May2025 21:07:35.210] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[02May2025 21:07:35.243] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[02May2025 21:07:35.323] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02May2025 21:07:35.324] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[02May2025 21:07:35.324] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02May2025 21:07:35.325] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[02May2025 21:07:35.647] [Server thread/INFO] [citadel/]: Added to village structure pool
+[02May2025 21:07:35.647] [Server thread/INFO] [citadel/]: Added to village structure pool
+[02May2025 21:07:35.647] [Server thread/INFO] [citadel/]: Added to village structure pool
+[02May2025 21:07:35.647] [Server thread/INFO] [citadel/]: Added to village structure pool
+[02May2025 21:07:35.648] [Server thread/INFO] [citadel/]: Added to village structure pool
+[02May2025 21:07:35.661] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[02May2025 21:07:36.237] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[02May2025 21:07:36.237] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[02May2025 21:07:37.120] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Allay['entity.easy_npc.allay'/178, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[02May2025 21:07:37.123] [Server thread/INFO] [Easy NPC/]: Register default handler for Allay['entity.easy_npc.allay'/178, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant DEFAULT ...
+[02May2025 21:07:37.132] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Cat['entity.easy_npc.cat'/179, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[02May2025 21:07:37.136] [Server thread/INFO] [Easy NPC/]: Register default handler for Cat['entity.easy_npc.cat'/179, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant BLACK ...
+[02May2025 21:07:37.138] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Chicken['entity.easy_npc.chicken'/180, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[02May2025 21:07:37.142] [Server thread/INFO] [Easy NPC/]: Register default handler for Chicken['entity.easy_npc.chicken'/180, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WHITE ...
+[02May2025 21:07:37.143] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Zombie['entity.easy_npc.drowned'/181, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[02May2025 21:07:37.147] [Server thread/INFO] [Easy NPC/]: Register default handler for Zombie['entity.easy_npc.drowned'/181, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant DROWNED ...
+[02May2025 21:07:37.151] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Illager['entity.easy_npc.evoker'/182, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[02May2025 21:07:37.154] [Server thread/INFO] [Easy NPC/]: Register default handler for Illager['entity.easy_npc.evoker'/182, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant EVOKER_CROSSED_ARMS ...
+[02May2025 21:07:37.157] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Fairy['entity.easy_npc.fairy'/183, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[02May2025 21:07:37.159] [Server thread/INFO] [Easy NPC/]: Register default handler for Fairy['entity.easy_npc.fairy'/183, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant GREEN ...
+[02May2025 21:07:37.163] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Horse['entity.easy_npc.horse'/184, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[02May2025 21:07:37.164] [Server thread/INFO] [Easy NPC/]: Register default handler for Horse['entity.easy_npc.horse'/184, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WHITE ...
+[02May2025 21:07:37.167] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/185, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[02May2025 21:07:37.170] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/185, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[02May2025 21:07:37.176] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for HumanoidSlim['entity.easy_npc.humanoid_slim'/186, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[02May2025 21:07:37.180] [Server thread/INFO] [Easy NPC/]: Register default handler for HumanoidSlim['entity.easy_npc.humanoid_slim'/186, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ALEX ...
+[02May2025 21:07:37.183] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Zombie['entity.easy_npc.husk'/187, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[02May2025 21:07:37.184] [Server thread/INFO] [Easy NPC/]: Register default handler for Zombie['entity.easy_npc.husk'/187, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant HUSK ...
+[02May2025 21:07:37.186] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Illager['entity.easy_npc.illusioner'/188, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[02May2025 21:07:37.188] [Server thread/INFO] [Easy NPC/]: Register default handler for Illager['entity.easy_npc.illusioner'/188, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ILLUSIONER_CROSSED_ARMS ...
+[02May2025 21:07:37.190] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for IronGolem['entity.easy_npc.iron_golem'/189, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[02May2025 21:07:37.191] [Server thread/INFO] [Easy NPC/]: Register default handler for IronGolem['entity.easy_npc.iron_golem'/189, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant IRON_GOLEM ...
+[02May2025 21:07:37.193] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Orc['entity.easy_npc.orc'/190, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[02May2025 21:07:37.194] [Server thread/INFO] [Easy NPC/]: Register default handler for Orc['entity.easy_npc.orc'/190, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant DEFAULT ...
+[02May2025 21:07:37.198] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Orc['entity.easy_npc.orc_warrior'/191, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[02May2025 21:07:37.200] [Server thread/INFO] [Easy NPC/]: Register default handler for Orc['entity.easy_npc.orc_warrior'/191, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WARRIOR ...
+[02May2025 21:07:37.202] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Pig['entity.easy_npc.pig'/192, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[02May2025 21:07:37.205] [Server thread/INFO] [Easy NPC/]: Register default handler for Pig['entity.easy_npc.pig'/192, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant DEFAULT ...
+[02May2025 21:07:37.206] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Piglin['entity.easy_npc.piglin'/193, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[02May2025 21:07:37.207] [Server thread/INFO] [Easy NPC/]: Register default handler for Piglin['entity.easy_npc.piglin'/193, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant PIGLIN ...
+[02May2025 21:07:37.210] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Piglin['entity.easy_npc.piglin_brute'/194, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[02May2025 21:07:37.211] [Server thread/INFO] [Easy NPC/]: Register default handler for Piglin['entity.easy_npc.piglin_brute'/194, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant PIGLIN_BRUTE ...
+[02May2025 21:07:37.214] [Server thread/INFO] [Easy NPC/]: - Registering Synched Attack Data for PiglinRaw.
+[02May2025 21:07:37.215] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.PiglinRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.AttackData
+[02May2025 21:07:37.215] [Server thread/INFO] [Easy NPC/]: - Registering Synched Attribute Data for PiglinRaw.
+[02May2025 21:07:37.215] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.PiglinRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.AttributeData
+[02May2025 21:07:37.215] [Server thread/INFO] [Easy NPC/]: - Registering Synched Custom Attribute Data for PiglinRaw.
+[02May2025 21:07:37.216] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.PiglinRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.CustomAttributeData
+[02May2025 21:07:37.216] [Server thread/INFO] [Easy NPC/]: - Registering Synched Display Attribute Data for PiglinRaw.
+[02May2025 21:07:37.216] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.PiglinRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.DisplayAttributeData
+[02May2025 21:07:37.216] [Server thread/INFO] [Easy NPC/]: - Registering Synched Navigation Data for PiglinRaw.
+[02May2025 21:07:37.216] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.PiglinRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.NavigationData
+[02May2025 21:07:37.217] [Server thread/INFO] [Easy NPC/]: - Registering Synched Owner Data for PiglinRaw.
+[02May2025 21:07:37.217] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.PiglinRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.OwnerData
+[02May2025 21:07:37.217] [Server thread/INFO] [Easy NPC/]: - Registering Synched Profession Data for PiglinRaw.
+[02May2025 21:07:37.217] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.PiglinRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.ProfessionData
+[02May2025 21:07:37.223] [Server thread/INFO] [Easy NPC/]: - Registering Synched Render Data for PiglinRaw.
+[02May2025 21:07:37.225] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.PiglinRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.RenderData
+[02May2025 21:07:37.228] [Server thread/INFO] [Easy NPC/]: - Registering Synched Skin Data for PiglinRaw.
+[02May2025 21:07:37.229] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.PiglinRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.SkinData
+[02May2025 21:07:37.231] [Server thread/INFO] [Easy NPC/]: - Registering Synched Sound Data for PiglinRaw.
+[02May2025 21:07:37.231] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.PiglinRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.SoundData
+[02May2025 21:07:37.232] [Server thread/INFO] [Easy NPC/]: - Registering Synched Trading Data for PiglinRaw.
+[02May2025 21:07:37.232] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.PiglinRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
+[02May2025 21:07:37.232] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.PiglinRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
+[02May2025 21:07:37.235] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.PiglinRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
+[02May2025 21:07:37.236] [Server thread/INFO] [Easy NPC/]: - Registering Synched Variant Data for PiglinRaw.
+[02May2025 21:07:37.236] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.PiglinRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.VariantData
+[02May2025 21:07:37.237] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for PiglinRaw['entity.easy_npc.piglin_raw'/195, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[02May2025 21:07:37.344] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Piglin['entity.easy_npc.piglin_zombified'/196, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[02May2025 21:07:37.345] [Server thread/INFO] [Easy NPC/]: Register default handler for Piglin['entity.easy_npc.piglin_zombified'/196, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ZOMBIFIED_PIGLIN ...
+[02May2025 21:07:37.346] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Illager['entity.easy_npc.pillager'/197, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[02May2025 21:07:37.346] [Server thread/INFO] [Easy NPC/]: Register default handler for Illager['entity.easy_npc.pillager'/197, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant PILLAGER ...
+[02May2025 21:07:37.347] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.skeleton'/198, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[02May2025 21:07:37.351] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.skeleton'/198, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant SKELETON ...
+[02May2025 21:07:37.352] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Horse['entity.easy_npc.skeleton_horse'/199, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[02May2025 21:07:37.352] [Server thread/INFO] [Easy NPC/]: Register default handler for Horse['entity.easy_npc.skeleton_horse'/199, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant SKELETON ...
+[02May2025 21:07:37.353] [Server thread/INFO] [Easy NPC/]: - Registering Synched Attack Data for SkeletonRaw.
+[02May2025 21:07:37.356] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.SkeletonRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.AttackData
+[02May2025 21:07:37.357] [Server thread/INFO] [Easy NPC/]: - Registering Synched Attribute Data for SkeletonRaw.
+[02May2025 21:07:37.357] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.SkeletonRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.AttributeData
+[02May2025 21:07:37.358] [Server thread/INFO] [Easy NPC/]: - Registering Synched Custom Attribute Data for SkeletonRaw.
+[02May2025 21:07:37.358] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.SkeletonRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.CustomAttributeData
+[02May2025 21:07:37.359] [Server thread/INFO] [Easy NPC/]: - Registering Synched Display Attribute Data for SkeletonRaw.
+[02May2025 21:07:37.359] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.SkeletonRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.DisplayAttributeData
+[02May2025 21:07:37.359] [Server thread/INFO] [Easy NPC/]: - Registering Synched Navigation Data for SkeletonRaw.
+[02May2025 21:07:37.359] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.SkeletonRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.NavigationData
+[02May2025 21:07:37.359] [Server thread/INFO] [Easy NPC/]: - Registering Synched Owner Data for SkeletonRaw.
+[02May2025 21:07:37.360] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.SkeletonRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.OwnerData
+[02May2025 21:07:37.362] [Server thread/INFO] [Easy NPC/]: - Registering Synched Profession Data for SkeletonRaw.
+[02May2025 21:07:37.363] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.SkeletonRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.ProfessionData
+[02May2025 21:07:37.363] [Server thread/INFO] [Easy NPC/]: - Registering Synched Render Data for SkeletonRaw.
+[02May2025 21:07:37.363] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.SkeletonRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.RenderData
+[02May2025 21:07:37.363] [Server thread/INFO] [Easy NPC/]: - Registering Synched Skin Data for SkeletonRaw.
+[02May2025 21:07:37.363] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.SkeletonRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.SkinData
+[02May2025 21:07:37.364] [Server thread/INFO] [Easy NPC/]: - Registering Synched Sound Data for SkeletonRaw.
+[02May2025 21:07:37.364] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.SkeletonRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.SoundData
+[02May2025 21:07:37.364] [Server thread/INFO] [Easy NPC/]: - Registering Synched Trading Data for SkeletonRaw.
+[02May2025 21:07:37.364] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.SkeletonRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
+[02May2025 21:07:37.365] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.SkeletonRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
+[02May2025 21:07:37.365] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.SkeletonRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
+[02May2025 21:07:37.365] [Server thread/INFO] [Easy NPC/]: - Registering Synched Variant Data for SkeletonRaw.
+[02May2025 21:07:37.365] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.SkeletonRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.VariantData
+[02May2025 21:07:37.369] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for SkeletonRaw['entity.easy_npc.skeleton_raw'/200, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[02May2025 21:07:37.374] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.stray'/201, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[02May2025 21:07:37.376] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.stray'/201, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STRAY ...
+[02May2025 21:07:37.377] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Villager['Default (None)'/202, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[02May2025 21:07:37.379] [Server thread/INFO] [Easy NPC/]: Register default handler for Villager['Default (None)'/202, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant DEFAULT ...
+[02May2025 21:07:37.381] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Illager['entity.easy_npc.vindicator'/203, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[02May2025 21:07:37.383] [Server thread/INFO] [Easy NPC/]: Register default handler for Illager['entity.easy_npc.vindicator'/203, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant VINDICATOR_CROSSED_ARMS ...
+[02May2025 21:07:37.383] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Skeleton['entity.easy_npc.wither_skeleton'/204, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[02May2025 21:07:37.387] [Server thread/INFO] [Easy NPC/]: Register default handler for Skeleton['entity.easy_npc.wither_skeleton'/204, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant WITHER_SKELETON ...
+[02May2025 21:07:37.387] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Wolf['entity.easy_npc.wolf'/205, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[02May2025 21:07:37.388] [Server thread/INFO] [Easy NPC/]: Register default handler for Wolf['entity.easy_npc.wolf'/205, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant DEFAULT ...
+[02May2025 21:07:37.388] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Zombie['entity.easy_npc.zombie'/206, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[02May2025 21:07:37.389] [Server thread/INFO] [Easy NPC/]: Register default handler for Zombie['entity.easy_npc.zombie'/206, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ZOMBIE ...
+[02May2025 21:07:37.389] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Horse['entity.easy_npc.zombie_horse'/207, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[02May2025 21:07:37.391] [Server thread/INFO] [Easy NPC/]: Register default handler for Horse['entity.easy_npc.zombie_horse'/207, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ZOMBIE ...
+[02May2025 21:07:37.392] [Server thread/INFO] [Easy NPC/]: - Registering Synched Attack Data for ZombieRaw.
+[02May2025 21:07:37.393] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.ZombieRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.AttackData
+[02May2025 21:07:37.394] [Server thread/INFO] [Easy NPC/]: - Registering Synched Attribute Data for ZombieRaw.
+[02May2025 21:07:37.394] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.ZombieRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.AttributeData
+[02May2025 21:07:37.394] [Server thread/INFO] [Easy NPC/]: - Registering Synched Custom Attribute Data for ZombieRaw.
+[02May2025 21:07:37.394] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.ZombieRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.CustomAttributeData
+[02May2025 21:07:37.394] [Server thread/INFO] [Easy NPC/]: - Registering Synched Display Attribute Data for ZombieRaw.
+[02May2025 21:07:37.395] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.ZombieRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.DisplayAttributeData
+[02May2025 21:07:37.401] [Server thread/INFO] [Easy NPC/]: - Registering Synched Navigation Data for ZombieRaw.
+[02May2025 21:07:37.401] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.ZombieRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.NavigationData
+[02May2025 21:07:37.402] [Server thread/INFO] [Easy NPC/]: - Registering Synched Owner Data for ZombieRaw.
+[02May2025 21:07:37.402] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.ZombieRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.OwnerData
+[02May2025 21:07:37.402] [Server thread/INFO] [Easy NPC/]: - Registering Synched Profession Data for ZombieRaw.
+[02May2025 21:07:37.402] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.ZombieRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.ProfessionData
+[02May2025 21:07:37.402] [Server thread/INFO] [Easy NPC/]: - Registering Synched Render Data for ZombieRaw.
+[02May2025 21:07:37.403] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.ZombieRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.RenderData
+[02May2025 21:07:37.403] [Server thread/INFO] [Easy NPC/]: - Registering Synched Skin Data for ZombieRaw.
+[02May2025 21:07:37.404] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.ZombieRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.SkinData
+[02May2025 21:07:37.404] [Server thread/INFO] [Easy NPC/]: - Registering Synched Sound Data for ZombieRaw.
+[02May2025 21:07:37.404] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.ZombieRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.SoundData
+[02May2025 21:07:37.405] [Server thread/INFO] [Easy NPC/]: - Registering Synched Trading Data for ZombieRaw.
+[02May2025 21:07:37.405] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.ZombieRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
+[02May2025 21:07:37.406] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.ZombieRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
+[02May2025 21:07:37.408] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.ZombieRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.TradingData
+[02May2025 21:07:37.409] [Server thread/INFO] [Easy NPC/]: - Registering Synched Variant Data for ZombieRaw.
+[02May2025 21:07:37.409] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.markusbordihn.easynpc.entity.easynpc.raw.ZombieRaw from interface de.markusbordihn.easynpc.entity.easynpc.data.VariantData
+[02May2025 21:07:37.409] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for ZombieRaw['entity.easy_npc.zombie_raw'/208, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[02May2025 21:07:37.416] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for ZombieVillager['Default (None)'/209, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[02May2025 21:07:37.417] [Server thread/INFO] [Easy NPC/]: Register default handler for ZombieVillager['Default (None)'/209, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant DEFAULT ...
+[02May2025 21:07:37.729] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.CribEntity from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:37.729] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.CribEntity from class forge.net.mca.util.network.datasync.CEnumParameter
+[02May2025 21:07:37.730] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.CribEntity from class forge.net.mca.util.network.datasync.CEnumParameter
+[02May2025 21:07:37.898] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:37.901] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:37.901] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:37.904] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:37.905] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:37.906] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:37.907] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:37.908] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[02May2025 21:07:37.909] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:37.909] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:37.909] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:37.909] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:37.909] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:37.910] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:37.915] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:37.916] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:37.916] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:37.917] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:37.917] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:37.918] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[02May2025 21:07:37.918] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:37.918] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:37.920] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[02May2025 21:07:37.921] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:37.922] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[02May2025 21:07:37.923] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[02May2025 21:07:37.923] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:37.924] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:37.924] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:37.924] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:37.925] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:37.925] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:37.925] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:37.925] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:37.925] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:37.931] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:37.932] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[02May2025 21:07:42.765] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[02May2025 21:07:44.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[02May2025 21:07:44.917] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[02May2025 21:07:45.820] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02May2025 21:07:45.884] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02May2025 21:07:45.906] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02May2025 21:07:45.906] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02May2025 21:07:46.556] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[02May2025 21:07:46.560] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02May2025 21:07:46.864] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02May2025 21:07:47.347] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02May2025 21:07:47.840] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[02May2025 21:07:48.797] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[02May2025 21:07:50.389] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02May2025 21:07:50.392] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02May2025 21:07:50.400] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02May2025 21:07:50.401] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02May2025 21:07:50.405] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02May2025 21:07:50.406] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02May2025 21:07:50.515] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[02May2025 21:07:50.843] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02May2025 21:07:51.430] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02May2025 21:07:51.880] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02May2025 21:07:52.343] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 30%
+[02May2025 21:07:52.842] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 73%
+[02May2025 21:07:53.169] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8827 ms
+[02May2025 21:07:53.170] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (17.827s)! For help, type "help"
+[02May2025 21:07:53.215] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[02May2025 21:07:53.218] [Server thread/INFO] [Easy NPC/]: 🗣 Register Easy NPC Server is starting Events ...
+[02May2025 21:07:53.218] [Server thread/INFO] [Easy NPC/]: 🗣 Register Easy NPC Server data folders ...
+[02May2025 21:07:53.219] [Server thread/INFO] [Easy NPC/]: 🗣 Register Easy NPC Pose data folders ...
+[02May2025 21:07:53.220] [Server thread/INFO] [Easy NPC/]: 🗣 Register Easy NPC custom pose data ...
+[02May2025 21:07:53.224] [Server thread/WARN] [Easy NPC/]: Skin model pose file /workspaces/mc-server/servidor_minecraft/config/easy_npc/pose/humanoid_slim/humanoid_slim_poses.json already exists, skipping copy!
+[02May2025 21:07:53.230] [Server thread/INFO] [Easy NPC/]: 🗣 Register Easy NPC custom poses from /workspaces/mc-server/servidor_minecraft/config/easy_npc/pose ...
+[02May2025 21:07:53.231] [Server thread/INFO] [Easy NPC/]: Found custom pose file /workspaces/mc-server/servidor_minecraft/config/easy_npc/pose/humanoid_slim/humanoid_slim_poses.json ...
+[02May2025 21:07:53.235] [Server thread/INFO] [Easy NPC/]: [Pose Manager] Registering pose data easy_npc:pose/humanoid_slim/crouching with Animation{name='Crouching', loop='hold_on_last_frame', animation_length=null, bones={Head=Bone{position=[0.0, -4.2, 0.0], rotation=[-7.5, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, Body=Bone{position=[0.0, -3.2, 0.0], rotation=[20.0, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, RightArm=Bone{position=[0.0, -3.2, 1.0], rotation=[40.0, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, LeftArm=Bone{position=[0.0, -3.2, 1.0], rotation=[40.0, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, RightLeg=Bone{position=[0.0, 0.0, 4.0], rotation=[-25.0, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, LeftLeg=Bone{position=[0.0, 0.0, 3.0], rotation=[-10.0, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}}}
+[02May2025 21:07:53.236] [Server thread/INFO] [Easy NPC/]: [Pose Manager] Registering pose data easy_npc:pose/humanoid_slim/standing with Animation{name='Standing', loop='hold_on_last_frame', animation_length=null, bones={Head=Bone{position=[0.0, 0.0, 0.0], rotation=[0.0, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, Body=Bone{position=[0.0, 0.0, 0.0], rotation=[0.0, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, RightArm=Bone{position=[0.0, 0.0, 0.0], rotation=[0.0, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, LeftArm=Bone{position=[0.0, 0.0, 0.0], rotation=[0.0, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, RightLeg=Bone{position=[0.0, 0.0, 0.0], rotation=[0.0, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, LeftLeg=Bone{position=[0.0, 0.0, 0.0], rotation=[0.0, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}}}
+[02May2025 21:07:53.236] [Server thread/INFO] [Easy NPC/]: [Pose Manager] Registering pose data easy_npc:pose/humanoid_slim/sitting with Animation{name='Sitting', loop='hold_on_last_frame', animation_length=null, bones={Head=Bone{position=[0.0, -10.5, 0.0], rotation=[0.0, 0.0, -2.5], scale=null, keyframePosition=null, keyframeRotation=null}, Body=Bone{position=[0.0, -10.5, 0.0], rotation=null, scale=null, keyframePosition=null, keyframeRotation=null}, RightArm=Bone{position=[0.0, -10.5, 0.0], rotation=[-35.0, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, LeftArm=Bone{position=[0.0, -10.5, 0.0], rotation=[-35.0, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, RightLeg=Bone{position=[0.0, -10.0, 0.0], rotation=[-90.0, 15.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, LeftLeg=Bone{position=[0.0, -10.0, 0.0], rotation=[-90.0, -10.5, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}}}
+[02May2025 21:07:53.236] [Server thread/INFO] [Easy NPC/]: [Pose Manager] Registering pose data easy_npc:pose/humanoid_slim/chilling with Animation{name='Chilling', loop='hold_on_last_frame', animation_length=null, bones={Head=Bone{position=[0.0, -12.5, 2.0], rotation=[-2.5, 0.0, 2.5], scale=null, keyframePosition=null, keyframeRotation=null}, Body=Bone{position=[0.0, -12.25, 3.0], rotation=[-20.0, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, RightArm=Bone{position=[0.0, -12.5, 2.0], rotation=[17.5, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, LeftArm=Bone{position=[0.0, -12.5, 2.0], rotation=[20.0, 0.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, RightLeg=Bone{position=[0.0, -10.0, 0.0], rotation=[-90.0, 15.0, -5.0], scale=null, keyframePosition=null, keyframeRotation=null}, LeftLeg=Bone{position=[0.0, -10.0, 0.75], rotation=[-90.0, -10.5, 5.0], scale=null, keyframePosition=null, keyframeRotation=null}}}
+[02May2025 21:07:53.237] [Server thread/INFO] [Easy NPC/]: [Pose Manager] Registering pose data easy_npc:pose/humanoid_slim/rest with Animation{name='Rest', loop='hold_on_last_frame', animation_length=null, bones={Head=Bone{position=[0.0, -12.0, 0.0], rotation=[5.0, 0.0, 5.0], scale=null, keyframePosition=null, keyframeRotation=null}, Body=Bone{position=[0.0, -12.0, 0.0], rotation=[0.0, 0.0, 2.5], scale=null, keyframePosition=null, keyframeRotation=null}, RightArm=Bone{position=[-1.0, -11.0, 0.0], rotation=[-75.0, -30.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, LeftArm=Bone{position=[0.0, -12.0, 0.0], rotation=[-52.5, -5.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, RightLeg=Bone{position=[-3.0, -2.0, -2.0], rotation=[-32.5, -20.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}, LeftLeg=Bone{position=[6.75, -10.0, 0.0], rotation=[-90.0, 40.0, 0.0], scale=null, keyframePosition=null, keyframeRotation=null}}}
+[02May2025 21:07:53.239] [Server thread/INFO] [Easy NPC/]: 🗣 Register Easy NPC Backup data folders ...
+[02May2025 21:07:53.241] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[02May2025 21:07:53.242] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[02May2025 21:09:07.196] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[02May2025 21:09:07.241] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[02May2025 21:09:07.292] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[02May2025 21:09:07.344] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[02May2025 21:09:07.395] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[02May2025 21:09:07.450] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[02May2025 21:09:07.504] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[02May2025 21:09:07.555] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[02May2025 21:09:07.606] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[02May2025 21:09:07.658] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[02May2025 21:09:07.709] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[02May2025 21:09:07.760] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[02May2025 21:09:07.900] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[02May2025 21:09:07.901] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[02May2025 21:09:07.937] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[02May2025 21:09:07.978] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[02May2025 21:09:11.573] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MrSamTex536[/127.31.102.135:53581] logged in with entity id 932 at (-550.3498854498665, 78.1087717208489, 975.4178628835957)
+[02May2025 21:09:11.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSamTex536 joined the game
+[02May2025 21:09:13.672] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2086ms or 41 ticks behind
