@@ -5989,3 +5989,109 @@ java.lang.IllegalArgumentException: No enum constant net.minecraft.world.level.b
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
 [02May2025 21:56:14.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSamTex536 has made the advancement [Rigged from the Start]
+[02May2025 21:58:00.661] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[02May2025 21:58:01.337] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02May2025 21:58:01.346] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02May2025 21:58:10.183] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[02May2025 21:58:11.056] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[02May2025 22:01:20.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSamTex536: Teleported MrSamTex536 to PULS309]
+[02May2025 22:02:04.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PULS309> y esto?
+[02May2025 22:02:12.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> un globo viviente xd
+[02May2025 22:02:21.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> puede ser mascota
+[02May2025 22:02:28.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PULS309> yyyy soy steve. oopsie
+[02May2025 22:02:31.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PULS309> aaaa
+[02May2025 22:02:37.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PULS309> bueno, mas interesante q las moscas
+[02May2025 22:02:43.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> claro puse para que puedan jugar no premiuns
+[02May2025 22:02:55.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> pero si lpo desactivo si tenemos skin
+[02May2025 22:03:01.321] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02May2025 22:03:01.330] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02May2025 22:03:08.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> te puse admin
+[02May2025 22:03:14.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PULS309> oooh graciaas
+[02May2025 22:03:20.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> por lo que puedes ponerte en creativo
+[02May2025 22:03:23.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PULS309> espera tonces voy a probar algo
+[02May2025 22:03:43.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PULS309> aa vrga
+[02May2025 22:03:47.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> ves esto?
+[02May2025 22:03:49.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PULS309> era tick freeze
+[02May2025 22:03:56.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> es una waystone
+[02May2025 22:04:00.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PULS309> es, em, algo
+[02May2025 22:04:04.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> es como un viaje rapido
+[02May2025 22:04:16.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> si encuentras otro puedes transportarte
+[02May2025 22:04:24.203] [Server thread/ERROR] [net.minecraft.world.level.levelgen.structure.pieces.PiecesContainer/]: Exception loading structure piece with id minecraft:rupo
+java.lang.IllegalArgumentException: No enum constant net.minecraft.world.level.block.Mirror.
+	at java.lang.Enum.valueOf(Enum.java:273) ~[?:?]
+	at net.minecraft.world.level.block.Mirror.valueOf(Mirror.java:11) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.world.level.levelgen.structure.structures.RuinedPortalPiece.m_229165_(RuinedPortalPiece.java:121) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.world.level.levelgen.structure.structures.RuinedPortalPiece.m_229185_(RuinedPortalPiece.java:101) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.world.level.levelgen.structure.TemplateStructurePiece.<init>(TemplateStructurePiece.java:60) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.world.level.levelgen.structure.structures.RuinedPortalPiece.<init>(RuinedPortalPiece.java:101) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.world.level.levelgen.structure.pieces.StructurePieceType$StructureTemplateType.m_207333_(StructurePieceType.java:101) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.world.level.levelgen.structure.pieces.PiecesContainer.m_192753_(PiecesContainer.java:73) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.world.level.levelgen.structure.StructureStart.m_226857_(StructureStart.java:57) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.world.level.chunk.storage.ChunkSerializer.m_188254_(ChunkSerializer.java:454) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.world.level.chunk.storage.ChunkSerializer.m_188230_(ChunkSerializer.java:199) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.server.level.ChunkMap.m_288112_(ChunkMap.java:578) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_6367_(ServerChunkCache.java:541) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_7245_(ServerChunkCache.java:549) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.server.level.ServerChunkCache.m_8466_(ServerChunkCache.java:269) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:758) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02May2025 22:04:35.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSamTex536: Teleported 2 entities to PULS309]
+[02May2025 22:04:48.173] [Server thread/ERROR] [net.minecraft.world.level.levelgen.structure.pieces.PiecesContainer/]: Exception loading structure piece with id minecraft:rupo
+java.lang.IllegalArgumentException: No enum constant net.minecraft.world.level.block.Mirror.
+	at java.lang.Enum.valueOf(Enum.java:273) ~[?:?]
+	at net.minecraft.world.level.block.Mirror.valueOf(Mirror.java:11) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.world.level.levelgen.structure.structures.RuinedPortalPiece.m_229165_(RuinedPortalPiece.java:121) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.world.level.levelgen.structure.structures.RuinedPortalPiece.m_229185_(RuinedPortalPiece.java:101) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.world.level.levelgen.structure.TemplateStructurePiece.<init>(TemplateStructurePiece.java:60) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.world.level.levelgen.structure.structures.RuinedPortalPiece.<init>(RuinedPortalPiece.java:101) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.world.level.levelgen.structure.pieces.StructurePieceType$StructureTemplateType.m_207333_(StructurePieceType.java:101) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.world.level.levelgen.structure.pieces.PiecesContainer.m_192753_(PiecesContainer.java:73) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.world.level.levelgen.structure.StructureStart.m_226857_(StructureStart.java:57) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.world.level.chunk.storage.ChunkSerializer.m_188254_(ChunkSerializer.java:454) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.world.level.chunk.storage.ChunkSerializer.m_188230_(ChunkSerializer.java:199) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.server.level.ChunkMap.m_288112_(ChunkMap.java:578) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_6367_(ServerChunkCache.java:541) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_7245_(ServerChunkCache.java:549) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.server.level.ServerChunkCache.m_8466_(ServerChunkCache.java:269) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:758) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02May2025 22:04:53.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSamTex536: Teleported 2 entities to MrSamTex536]
+[02May2025 22:04:54.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PULS309 has made the advancement [Minecraft Comes Alive]
+[02May2025 22:05:02.630] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[02May2025 22:05:02.931] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[02May2025 22:05:18.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> ven
+[02May2025 22:05:33.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> como ves las aldeas estan cambiadas
+[02May2025 22:05:41.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PULS309> mm creo qye el personaje no c guardo
+[02May2025 22:05:48.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PULS309> ay pues si es como mas grande
+[02May2025 22:05:55.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> y hay estatuas
+[02May2025 22:06:33.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> toma
+[02May2025 22:06:36.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> es tuyo
+[02May2025 22:06:51.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> y el cofre
+[02May2025 22:06:55.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PULS309 has made the advancement [No Longer Short-Staffed]
+[02May2025 22:06:59.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PULS309> ooo
+[02May2025 22:07:02.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> ahora eres mago
+[02May2025 22:07:07.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PULS309> lo pusiste tu o ya taba?
+[02May2025 22:07:12.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> lo puse yo
+[02May2025 22:07:17.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> quiero mostrarte los mods
+[02May2025 22:07:22.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PULS309> a pos gracias, esto lanza rayos no?
+[02May2025 22:07:24.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PULS309 has made the advancement [Alex's Mobs]
+[02May2025 22:07:24.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> o al menos la mayoria
+[02May2025 22:07:32.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> pulse

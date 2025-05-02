@@ -157,8 +157,10 @@
       "minecraft:pillager": "2025-05-02 20:12:20 +0000",
       "minecraft:vindicator": "2025-05-02 19:57:51 +0000",
       "minecraft:spider": "2025-05-02 20:23:19 +0000",
+      "minecraft:creeper": "2025-05-02 21:56:38 +0000",
       "minecraft:evoker": "2025-05-02 20:21:16 +0000",
       "minecraft:witch": "2025-05-02 20:13:22 +0000",
+      "minecraft:husk": "2025-05-02 21:59:47 +0000",
       "minecraft:vex": "2025-05-02 20:23:56 +0000",
       "minecraft:zombie": "2025-05-02 20:25:29 +0000"
     },
@@ -943,9 +945,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/deathworm_white_helmet": {
+    "criteria": {
+      "has_item": "2025-05-02 21:59:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_white_leggings": {
+    "criteria": {
+      "has_item": "2025-05-02 21:59:17 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tarantula_hawk": {
+    "criteria": {
+      "killed_by": "2025-05-02 21:56:14 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/deathworm_red_chestplate": {
     "criteria": {
       "has_item": "2025-05-02 21:52:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_white_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-02 21:59:17 +0000"
     },
     "done": true
   },
@@ -958,6 +984,12 @@
   "iceandfire:recipes/combat/deathworm_red_leggings": {
     "criteria": {
       "has_item": "2025-05-02 21:52:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_white_boots": {
+    "criteria": {
+      "has_item": "2025-05-02 21:59:17 +0000"
     },
     "done": true
   },
