@@ -7165,3 +7165,85 @@ java.lang.IllegalArgumentException: No enum constant net.minecraft.world.level.b
 [02May2025 23:17:27.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PULS309: Set the time to 22660]
 [02May2025 23:18:29.020] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02May2025 23:18:29.029] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02May2025 23:19:27.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSamTex536 has reached the goal [New Age Librarian]
+[02May2025 23:19:29.026] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [461bea03-3df6-4ce0-b9e5-90574b5362a0]
+[02May2025 23:19:45.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> eso inmoviliza a los enemigos
+[02May2025 23:19:47.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PULS309> dice que no puedo entender la complejidad del hechizo
+[02May2025 23:19:49.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> es muy util
+[02May2025 23:19:58.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> lol
+[02May2025 23:20:00.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PULS309> hablando en plata, me ha llamado ignorante
+[02May2025 23:20:00.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> vale
+[02May2025 23:20:11.808] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrSamTex536 moved too quickly! -2.9603504195301866,0.32640001296996957,10.257860419610552
+[02May2025 23:20:11.810] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PULS309 moved too quickly! -4.1092020943142415,0.0,-9.355213407833617
+[02May2025 23:20:11.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> rXDDDD
+[02May2025 23:20:11.816] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4581ms or 91 ticks behind
+[02May2025 23:20:13.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> no me empujes
+[02May2025 23:20:15.809] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[02May2025 23:20:33.876] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [805c96ea-7416-33b8-9cae-9288d10c4495]
+[02May2025 23:20:34.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> vale no tenia planeado esto
+[02May2025 23:20:42.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> pero te voy a enseñar a hacer hechizos
+[02May2025 23:20:48.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> sacame de aca
+[02May2025 23:20:58.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> ME AFECTO EN CREARTIVO XDDD
+[02May2025 23:21:07.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PULS309> trololololo lololo lololo
+[02May2025 23:21:10.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> te voy a enseñar a hacer echizos
+[02May2025 23:21:11.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PULS309> h
+[02May2025 23:21:17.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSamTex536 has made the advancement [Tools of the Trade]
+[02May2025 23:21:17.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSamTex536 has completed the challenge [Premium!]
+[02May2025 23:21:25.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> toma tinta tocha
+[02May2025 23:21:37.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PULS309 has made the advancement [Tools of the Trade]
+[02May2025 23:21:37.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PULS309 has completed the challenge [Premium!]
+[02May2025 23:21:40.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> papel
+[02May2025 23:21:54.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> esperate we
+[02May2025 23:21:58.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> esperate we
+[02May2025 23:22:29.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSamTex536 has made the advancement [Into Fire]
+[02May2025 23:22:51.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PULS309 has made the advancement [Into Fire]
+[02May2025 23:23:33.565] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02May2025 23:23:33.573] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02May2025 23:24:52.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> estoy en creativo ajjajaaj
+[02May2025 23:25:08.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> brio relamente usó su expansion de dominio
+[02May2025 23:25:22.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PULS309> tengo el cañon del eclipse
+[02May2025 23:25:49.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> los hechizos se pueden subir de nivel per ocuanto más subas de nivel y mas efectivos son más maná consumen
+[02May2025 23:25:51.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PULS309: Set own game mode to Creative Mode]
+[02May2025 23:27:08.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSamTex536 has completed the challenge [It's Purple!]
+[02May2025 23:27:29.712] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02May2025 23:27:29.712] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02May2025 23:27:29.950] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02May2025 23:27:29.950] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02May2025 23:27:30.210] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02May2025 23:27:30.210] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02May2025 23:27:30.450] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02May2025 23:27:30.450] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02May2025 23:27:30.707] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02May2025 23:27:30.707] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02May2025 23:27:30.949] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02May2025 23:27:30.949] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02May2025 23:27:31.202] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02May2025 23:27:31.202] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02May2025 23:27:31.453] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02May2025 23:27:31.453] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02May2025 23:27:31.702] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02May2025 23:27:31.702] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02May2025 23:27:31.951] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02May2025 23:27:31.951] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02May2025 23:27:32.207] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02May2025 23:27:32.207] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02May2025 23:27:32.451] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02May2025 23:27:32.451] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02May2025 23:27:32.703] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02May2025 23:27:32.703] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02May2025 23:27:32.949] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02May2025 23:27:32.949] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02May2025 23:27:33.203] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02May2025 23:27:33.203] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02May2025 23:27:33.448] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02May2025 23:27:33.448] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02May2025 23:27:33.708] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02May2025 23:27:33.708] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02May2025 23:27:33.954] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02May2025 23:27:33.954] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02May2025 23:27:34.201] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02May2025 23:27:34.201] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02May2025 23:27:35.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> waossss
+[02May2025 23:28:21.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> el yunque es para subir de nivel los hehizos
+[02May2025 23:28:33.571] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02May2025 23:28:33.581] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

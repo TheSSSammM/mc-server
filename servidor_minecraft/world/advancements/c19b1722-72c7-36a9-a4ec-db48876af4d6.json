@@ -187,6 +187,7 @@
       "minecraft:pillager": "2025-05-02 22:16:16 +0000",
       "minecraft:skeleton": "2025-05-02 23:02:23 +0000",
       "minecraft:vindicator": "2025-05-02 22:17:50 +0000",
+      "minecraft:spider": "2025-05-02 23:24:41 +0000",
       "minecraft:creeper": "2025-05-02 22:35:36 +0000",
       "minecraft:husk": "2025-05-02 22:48:49 +0000",
       "minecraft:zombie": "2025-05-02 23:16:16 +0000"
@@ -771,9 +772,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-05-02 23:22:18 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/books": {
+    "criteria": {
+      "has_item": "2025-05-02 23:22:18 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/spell_book_netherite": {
     "criteria": {
       "requirement": "2025-05-02 23:12:49 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-05-02 23:21:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-05-02 23:22:51 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/blueprint": {
+    "criteria": {
+      "has_item": "2025-05-02 23:22:18 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+    "criteria": {
+      "requirement": "2025-05-02 23:21:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-02 23:22:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-05-02 23:22:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-02 23:22:51 +0000"
     },
     "done": true
   },
