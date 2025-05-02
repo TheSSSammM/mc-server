@@ -2440,3 +2440,125 @@ java.lang.IllegalArgumentException: No enum constant net.minecraft.world.level.b
 [02May2025 23:48:24.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PULS309> El wey que salio de la alcantarilla: otra vez ptm pongan tapa a la alcantarilla
 [02May2025 23:48:43.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> algo que no tendremos que hacer si seguimos jugando minecraftesgt
 [02May2025 23:48:48.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSamTex536: Set the time to 1000]
+[02May2025 23:49:23.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSamTex536 has made the advancement [Ice Bucket Challenge]
+[02May2025 23:49:34.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> chequea esto
+[02May2025 23:49:54.508] [Server thread/INFO] [forge.net.mca.MCA/]: Attempting to spawn reaper at BlockPos{x=7724, y=67, z=6848} in minecraft:overworld
+[02May2025 23:49:54.509] [Server thread/INFO] [forge.net.mca.MCA/]: Current time is 2319
+[02May2025 23:50:01.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSamTex536: Set the time to 13000]
+[02May2025 23:50:02.407] [Server thread/INFO] [forge.net.mca.MCA/]: Attempting to spawn reaper at BlockPos{x=7724, y=67, z=6848} in minecraft:overworld
+[02May2025 23:50:02.407] [Server thread/INFO] [forge.net.mca.MCA/]: Current time is 13021
+[02May2025 23:50:02.408] [Server thread/INFO] [forge.net.mca.MCA/]: It is night time, found 0 totems
+[02May2025 23:50:09.280] [Server thread/INFO] [forge.net.mca.MCA/]: Attempting to spawn reaper at BlockPos{x=7724, y=67, z=6848} in minecraft:overworld
+[02May2025 23:50:09.281] [Server thread/INFO] [forge.net.mca.MCA/]: Current time is 13158
+[02May2025 23:50:09.281] [Server thread/INFO] [forge.net.mca.MCA/]: It is night time, found 2 totems
+[02May2025 23:50:16.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSamTex536: Set the weather to clear]
+[02May2025 23:50:20.375] [Server thread/INFO] [forge.net.mca.MCA/]: Attempting to spawn reaper at BlockPos{x=7724, y=67, z=6848} in minecraft:overworld
+[02May2025 23:50:20.375] [Server thread/INFO] [forge.net.mca.MCA/]: Current time is 13380
+[02May2025 23:50:20.375] [Server thread/INFO] [forge.net.mca.MCA/]: It is night time, found 2 totems
+[02May2025 23:50:22.229] [Server thread/INFO] [forge.net.mca.MCA/]: Attempting to spawn reaper at BlockPos{x=7724, y=67, z=6848} in minecraft:overworld
+[02May2025 23:50:22.230] [Server thread/INFO] [forge.net.mca.MCA/]: Current time is 13417
+[02May2025 23:50:22.230] [Server thread/INFO] [forge.net.mca.MCA/]: It is night time, found 2 totems
+[02May2025 23:50:23.166] [Server thread/INFO] [forge.net.mca.MCA/]: Attempting to spawn reaper at BlockPos{x=7724, y=67, z=6848} in minecraft:overworld
+[02May2025 23:50:23.167] [Server thread/INFO] [forge.net.mca.MCA/]: Current time is 13436
+[02May2025 23:50:23.167] [Server thread/INFO] [forge.net.mca.MCA/]: It is night time, found 2 totems
+[02May2025 23:50:25.372] [Server thread/INFO] [forge.net.mca.MCA/]: Attempting to spawn reaper at BlockPos{x=7724, y=67, z=6848} in minecraft:overworld
+[02May2025 23:50:25.372] [Server thread/INFO] [forge.net.mca.MCA/]: Current time is 13480
+[02May2025 23:50:25.372] [Server thread/INFO] [forge.net.mca.MCA/]: It is night time, found 2 totems
+[02May2025 23:50:30.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> emmm
+[02May2025 23:50:48.501] [Server thread/INFO] [forge.net.mca.MCA/]: Attempting to spawn reaper at BlockPos{x=7719, y=67, z=6849} in minecraft:overworld
+[02May2025 23:50:48.501] [Server thread/INFO] [forge.net.mca.MCA/]: Current time is 13943
+[02May2025 23:50:48.501] [Server thread/INFO] [forge.net.mca.MCA/]: It is night time, found 2 totems
+[02May2025 23:50:48.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PULS309> el webo ya no se mueve
+[02May2025 23:50:56.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> no hay lluvia
+[02May2025 23:51:03.049] [Server thread/INFO] [forge.net.mca.MCA/]: Attempting to spawn reaper at BlockPos{x=7719, y=67, z=6849} in minecraft:overworld
+[02May2025 23:51:03.049] [Server thread/INFO] [forge.net.mca.MCA/]: Current time is 14234
+[02May2025 23:51:03.049] [Server thread/INFO] [forge.net.mca.MCA/]: It is night time, found 0 totems
+[02May2025 23:51:06.881] [Server thread/INFO] [forge.net.mca.MCA/]: Attempting to spawn reaper at BlockPos{x=7719, y=67, z=6849} in minecraft:overworld
+[02May2025 23:51:06.881] [Server thread/INFO] [forge.net.mca.MCA/]: Current time is 14310
+[02May2025 23:51:06.881] [Server thread/INFO] [forge.net.mca.MCA/]: It is night time, found 0 totems
+[02May2025 23:51:07.505] [Server thread/INFO] [forge.net.mca.MCA/]: Attempting to spawn reaper at BlockPos{x=7719, y=67, z=6849} in minecraft:overworld
+[02May2025 23:51:07.505] [Server thread/INFO] [forge.net.mca.MCA/]: Current time is 14323
+[02May2025 23:51:07.505] [Server thread/INFO] [forge.net.mca.MCA/]: It is night time, found 0 totems
+[02May2025 23:51:08.049] [Server thread/INFO] [forge.net.mca.MCA/]: Attempting to spawn reaper at BlockPos{x=7719, y=67, z=6849} in minecraft:overworld
+[02May2025 23:51:08.049] [Server thread/INFO] [forge.net.mca.MCA/]: Current time is 14334
+[02May2025 23:51:08.049] [Server thread/INFO] [forge.net.mca.MCA/]: It is night time, found 0 totems
+[02May2025 23:51:08.470] [Server thread/INFO] [forge.net.mca.MCA/]: Attempting to spawn reaper at BlockPos{x=7719, y=67, z=6849} in minecraft:overworld
+[02May2025 23:51:08.470] [Server thread/INFO] [forge.net.mca.MCA/]: Current time is 14342
+[02May2025 23:51:08.471] [Server thread/INFO] [forge.net.mca.MCA/]: It is night time, found 0 totems
+[02May2025 23:51:08.721] [Server thread/INFO] [forge.net.mca.MCA/]: Attempting to spawn reaper at BlockPos{x=7719, y=67, z=6849} in minecraft:overworld
+[02May2025 23:51:08.721] [Server thread/INFO] [forge.net.mca.MCA/]: Current time is 14347
+[02May2025 23:51:08.722] [Server thread/INFO] [forge.net.mca.MCA/]: It is night time, found 0 totems
+[02May2025 23:51:08.973] [Server thread/INFO] [forge.net.mca.MCA/]: Attempting to spawn reaper at BlockPos{x=7719, y=67, z=6849} in minecraft:overworld
+[02May2025 23:51:08.973] [Server thread/INFO] [forge.net.mca.MCA/]: Current time is 14352
+[02May2025 23:51:08.974] [Server thread/INFO] [forge.net.mca.MCA/]: It is night time, found 0 totems
+[02May2025 23:51:09.201] [Server thread/INFO] [forge.net.mca.MCA/]: Attempting to spawn reaper at BlockPos{x=7719, y=67, z=6849} in minecraft:overworld
+[02May2025 23:51:09.201] [Server thread/INFO] [forge.net.mca.MCA/]: Current time is 14357
+[02May2025 23:51:09.201] [Server thread/INFO] [forge.net.mca.MCA/]: It is night time, found 0 totems
+[02May2025 23:51:09.325] [Server thread/INFO] [forge.net.mca.MCA/]: Attempting to spawn reaper at BlockPos{x=7719, y=67, z=6849} in minecraft:overworld
+[02May2025 23:51:09.325] [Server thread/INFO] [forge.net.mca.MCA/]: Current time is 14359
+[02May2025 23:51:09.325] [Server thread/INFO] [forge.net.mca.MCA/]: It is night time, found 0 totems
+[02May2025 23:51:09.499] [Server thread/INFO] [forge.net.mca.MCA/]: Attempting to spawn reaper at BlockPos{x=7719, y=67, z=6849} in minecraft:overworld
+[02May2025 23:51:09.499] [Server thread/INFO] [forge.net.mca.MCA/]: Current time is 14363
+[02May2025 23:51:09.499] [Server thread/INFO] [forge.net.mca.MCA/]: It is night time, found 0 totems
+[02May2025 23:51:09.677] [Server thread/INFO] [forge.net.mca.MCA/]: Attempting to spawn reaper at BlockPos{x=7719, y=67, z=6849} in minecraft:overworld
+[02May2025 23:51:09.677] [Server thread/INFO] [forge.net.mca.MCA/]: Current time is 14366
+[02May2025 23:51:09.677] [Server thread/INFO] [forge.net.mca.MCA/]: It is night time, found 0 totems
+[02May2025 23:51:09.856] [Server thread/INFO] [forge.net.mca.MCA/]: Attempting to spawn reaper at BlockPos{x=7719, y=67, z=6849} in minecraft:overworld
+[02May2025 23:51:09.856] [Server thread/INFO] [forge.net.mca.MCA/]: Current time is 14370
+[02May2025 23:51:09.856] [Server thread/INFO] [forge.net.mca.MCA/]: It is night time, found 0 totems
+[02May2025 23:51:10.053] [Server thread/INFO] [forge.net.mca.MCA/]: Attempting to spawn reaper at BlockPos{x=7719, y=67, z=6849} in minecraft:overworld
+[02May2025 23:51:10.053] [Server thread/INFO] [forge.net.mca.MCA/]: Current time is 14374
+[02May2025 23:51:10.053] [Server thread/INFO] [forge.net.mca.MCA/]: It is night time, found 0 totems
+[02May2025 23:51:11.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PULS309 has made the advancement [Deflation]
+[02May2025 23:51:28.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PULS309> a como en los sims
+[02May2025 23:51:32.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> sis
+[02May2025 23:51:39.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSamTex536: Set own game mode to Survival Mode]
+[02May2025 23:51:55.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PULS309 has made the advancement [Mother of Dragons]
+[02May2025 23:52:25.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PULS309 withered away whilst fighting Skeleton
+[02May2025 23:52:25.904] [Server thread/INFO] [tombstone/]: The player PULS309 has successfully been saved
+[02May2025 23:52:42.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PULS309> podria usar el agujero mejor si no se me pusiera en frente la carapolla de estif
+[02May2025 23:52:47.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PULS309: Teleported PULS309 to MrSamTex536]
+[02May2025 23:52:53.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> xddd
+[02May2025 23:53:59.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSamTex536 was slain by Grim Reaper
+[02May2025 23:53:59.921] [Server thread/INFO] [tombstone/]: The player MrSamTex536 has successfully been saved
+[02May2025 23:54:04.443] [Server thread/ERROR] [net.minecraft.world.level.levelgen.structure.pieces.PiecesContainer/]: Exception loading structure piece with id minecraft:rupo
+java.lang.IllegalArgumentException: No enum constant net.minecraft.world.level.block.Mirror.
+	at java.lang.Enum.valueOf(Enum.java:273) ~[?:?]
+	at net.minecraft.world.level.block.Mirror.valueOf(Mirror.java:11) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.world.level.levelgen.structure.structures.RuinedPortalPiece.m_229165_(RuinedPortalPiece.java:121) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.world.level.levelgen.structure.structures.RuinedPortalPiece.m_229185_(RuinedPortalPiece.java:101) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.world.level.levelgen.structure.TemplateStructurePiece.<init>(TemplateStructurePiece.java:60) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.world.level.levelgen.structure.structures.RuinedPortalPiece.<init>(RuinedPortalPiece.java:101) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.world.level.levelgen.structure.pieces.StructurePieceType$StructureTemplateType.m_207333_(StructurePieceType.java:101) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.world.level.levelgen.structure.pieces.PiecesContainer.m_192753_(PiecesContainer.java:73) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.world.level.levelgen.structure.StructureStart.m_226857_(StructureStart.java:57) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.world.level.chunk.storage.ChunkSerializer.m_188254_(ChunkSerializer.java:454) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.world.level.chunk.storage.ChunkSerializer.m_188230_(ChunkSerializer.java:199) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.server.level.ChunkMap.m_288112_(ChunkMap.java:578) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_6367_(ServerChunkCache.java:541) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_7245_(ServerChunkCache.java:549) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.server.level.ServerChunkCache.m_8466_(ServerChunkCache.java:269) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:758) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02May2025 23:54:04.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSamTex536: Teleported MrSamTex536 to PULS309]
+[02May2025 23:55:27.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PULS309 was slain by Grim Reaper
+[02May2025 23:55:27.807] [Server thread/INFO] [tombstone/]: The player PULS309 has successfully been saved
+[02May2025 23:55:30.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PULS309> a
+[02May2025 23:55:35.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PULS309> broder no te mentire
+[02May2025 23:55:46.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PULS309> me levante a eso de las 9 asi q tengo un pelininin de sueño
+[02May2025 23:55:50.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> dale
+[02May2025 23:55:51.508] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PULS309 was kicked for floating too long!
+[02May2025 23:55:51.552] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PULS309 lost connection: Flying is not enabled on this server
+[02May2025 23:55:51.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PULS309 left the game
+[02May2025 23:55:54.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> a estado bueno
+[02May2025 23:55:56.952] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrSamTex536 lost connection: Disconnected
+[02May2025 23:55:56.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSamTex536 left the game

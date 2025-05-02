@@ -898,6 +898,18 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-05-02 23:51:55 +0000"
+    },
+    "done": true
+  },
+  "cloudstorage:cloudstorage/badloon": {
+    "criteria": {
+      "kill": "2025-05-02 23:51:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-05-02 23:22:51 +0000"
