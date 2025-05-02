@@ -1534,3 +1534,56 @@ java.lang.IllegalArgumentException: No enum constant net.minecraft.world.level.b
 [02May2025 22:07:24.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PULS309 has made the advancement [Alex's Mobs]
 [02May2025 22:07:24.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> o al menos la mayoria
 [02May2025 22:07:32.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> pulse
+[02May2025 22:07:53.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> abre el inventario
+[02May2025 22:08:11.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> ves un botomn arriba
+[02May2025 22:08:12.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PULS309 has made the advancement [Magery]
+[02May2025 22:08:31.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PULS309> hecho
+[02May2025 22:08:37.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> perfect
+[02May2025 22:08:45.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> con R cambias de hechizo
+[02May2025 22:09:03.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PULS309> y se agota o solo tiene cooldown?
+[02May2025 22:09:26.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> hay muchos hechizo pero te hizo un libro con hechizos pa que pruebes pero eso uno se lo tiene que craftear y los hechizos tambien
+[02May2025 22:09:50.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PULS309> aah graciaaaas
+[02May2025 22:09:59.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> tambien quiero que pruebes la nuevas raids
+[02May2025 22:10:04.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSamTex536: Set own game mode to Creative Mode]
+[02May2025 22:10:18.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PULS309> que vengan si tienen bolas
+[02May2025 22:10:26.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PULS309> espera las pussite ya?
+[02May2025 22:11:29.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PULS309> _pero no vino nadie..._
+[02May2025 22:11:37.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> espera esto es lento
+[02May2025 22:11:43.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PULS309 has made the advancement [A Seedy Place]
+[02May2025 22:12:05.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSamTex536: The difficulty has been set to Peaceful]
+[02May2025 22:12:10.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSamTex536: The difficulty has been set to Normal]
+[02May2025 22:13:03.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSamTex536: Teleported MrSamTex536 to PULS309]
+[02May2025 22:13:14.952] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Balloon Salesman'/30742, l='ServerLevel[world]', x=-478.56, y=64.00, z=951.48] died, message: 'Balloon Salesman was slain by Vindicator'
+[02May2025 22:13:20.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSamTex536: Set the time to 1000]
+[02May2025 22:13:28.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSamTex536: Set own game mode to Survival Mode]
+[02May2025 22:13:33.109] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Milan'/24948, l='ServerLevel[world]', x=-528.22, y=69.00, z=904.54] died, message: 'Milan was killed by PULS309's magic missile'
+[02May2025 22:13:33.110] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Milan'/24948, l='ServerLevel[world]', x=-528.22, y=69.00, z=904.54] died: Milan was killed by PULS309's magic missile
+[02May2025 22:13:48.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> por si acaso
+[02May2025 22:14:01.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PULS309> dondee sta el otro?
+[02May2025 22:14:02.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> hay un perro que esta escondido
+[02May2025 22:14:05.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> joputa
+[02May2025 22:14:37.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> no me pegues a mi xddd
+[02May2025 22:14:47.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PULS309> es q me hiciste tp
+[02May2025 22:14:53.451] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/30754, l='ServerLevel[world]', x=-552.58, y=69.94, z=930.98] died, message: 'Toolsmith was shot by Pillager'
+[02May2025 22:15:02.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PULS309> por cierto tu skin es default?
+[02May2025 22:15:04.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> sip
+[02May2025 22:15:16.052] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/30752, l='ServerLevel[world]', x=-597.00, y=64.00, z=935.98] died, message: 'Farmer was shot by Pillager'
+[02May2025 22:15:41.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PULS309> hmm crees q se podrian poner las skins?
+[02May2025 22:15:46.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> claro
+[02May2025 22:15:55.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PULS309> es que hice un pj antes de ir a la clase pero ahora nanai
+[02May2025 22:15:55.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> tengo que poner el server en solo premiuns
+[02May2025 22:16:07.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> uhhh...
+[02May2025 22:16:16.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PULS309 has made the advancement [Knowledge of Death]
+[02May2025 22:16:16.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PULS309 has made the advancement [Ambush]
+[02May2025 22:16:16.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PULS309 has made the advancement [Monster Hunter]
+[02May2025 22:16:22.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> al terminar la invasion reinicio el server y lo veo
+[02May2025 22:16:25.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PULS309 has made the advancement [Voluntary Exile]
+[02May2025 22:16:26.858] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Bohumil'/25030, l='ServerLevel[world]', x=-605.92, y=69.00, z=969.21] died, message: 'Bohumil was shot by Pillager'
+[02May2025 22:16:26.858] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Bohumil'/25030, l='ServerLevel[world]', x=-605.92, y=69.00, z=969.21] died: Bohumil was shot by Pillager
+[02May2025 22:16:40.856] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Čenék'/25029, l='ServerLevel[world]', x=-608.36, y=69.00, z=968.78] died, message: 'Čenék was shot by Pillager'
+[02May2025 22:16:40.857] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Čenék'/25029, l='ServerLevel[world]', x=-608.36, y=69.00, z=968.78] died: Čenék was shot by Pillager
+[02May2025 22:16:47.151] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Filip'/25032, l='ServerLevel[world]', x=-607.66, y=69.00, z=968.36] died, message: 'Filip was shot by Pillager'
+[02May2025 22:16:47.152] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Filip'/25032, l='ServerLevel[world]', x=-607.66, y=69.00, z=968.36] died: Filip was shot by Pillager
+[02May2025 22:16:48.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> a veces funciona y otras no
+[02May2025 22:17:17.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> el man peleando con un canguro xddddd
+[02May2025 22:17:31.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSamTex536 has made the advancement [Not Today, Thank You]

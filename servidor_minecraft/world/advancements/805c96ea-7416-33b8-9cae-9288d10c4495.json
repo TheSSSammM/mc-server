@@ -993,6 +993,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-05-02 22:10:34 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/deathworm_red_helmet": {
     "criteria": {
       "has_item": "2025-05-02 21:52:53 +0000"
