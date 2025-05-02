@@ -641,5 +641,29 @@
     },
     "done": true
   },
+  "cloudstorage:cloudstorage/all_balloon_buddies": {
+    "criteria": {
+      "personality3": "2025-05-02 21:41:18 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-02 21:40:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-02 21:40:59 +0000"
+    },
+    "done": true
+  },
+  "cloudstorage:cloudstorage/balloon_buddy": {
+    "criteria": {
+      "acacia_blossom": "2025-05-02 21:41:18 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

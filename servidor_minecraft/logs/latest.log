@@ -1187,3 +1187,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [02May2025 21:33:15.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> holo
 [02May2025 21:33:28.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSamTex536: Made PULS309 a server operator]
 [02May2025 21:33:32.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> hazme tp
+[02May2025 21:41:13.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSamTex536: Set own game mode to Creative Mode]
+[02May2025 21:41:18.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSamTex536 has made the advancement [A Friend is a Friend till the End of the End]
+[02May2025 21:41:32.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSamTex536: Set own game mode to Survival Mode]
+[02May2025 21:43:22.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSamTex536: Set the time to 1000]
+[02May2025 21:45:34.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSamTex536 has made the advancement [Acquire Hardware]
