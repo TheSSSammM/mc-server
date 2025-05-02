@@ -838,6 +838,12 @@
     },
     "done": true
   },
+  "cloudstorage:cloudstorage/bloviator": {
+    "criteria": {
+      "kill": "2025-05-02 23:45:53 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/ink_legendary": {
     "criteria": {
       "requirement": "2025-05-02 23:21:37 +0000"
