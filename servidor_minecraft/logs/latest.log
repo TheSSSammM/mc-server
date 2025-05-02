@@ -1622,3 +1622,130 @@ java.lang.IllegalArgumentException: No enum constant net.minecraft.world.level.b
 [02May2025 22:27:37.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> siiii
 [02May2025 22:27:42.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> su libro
 [02May2025 22:27:50.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> debe soltar su libro
+[02May2025 22:28:03.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> a coño
+[02May2025 22:28:21.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> tu terremeto hizo desaparecer el libro xdddddddddd
+[02May2025 22:28:26.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PULS309> ª
+[02May2025 22:28:35.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSamTex536: Set own game mode to Creative Mode]
+[02May2025 22:28:58.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSamTex536: Set own game mode to Survival Mode]
+[02May2025 22:29:12.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> haz clicl derecho con la mano pelada a un mob o al suelo
+[02May2025 22:29:33.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PULS309> dice que solo se puede usar una vez por hora
+[02May2025 22:29:35.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PULS309> oopsies
+[02May2025 22:29:41.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> si per o si lo tienes en el inventario se recarga
+[02May2025 22:29:55.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> hay otros 2 bosses más
+[02May2025 22:30:06.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> pero no qwuiero spoilear
+[02May2025 22:30:17.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> porque uno de los dos es mas dificil que este
+[02May2025 22:31:03.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PULS309> oooo waos
+[02May2025 22:31:36.151] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element call_of_yucutan:overgrown_temple took 343 ms
+[02May2025 22:31:48.117] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:48.117] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:48.118] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:48.118] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:48.118] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:48.118] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:48.118] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:48.118] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:48.118] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:48.118] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:48.118] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:48.118] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:48.118] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:48.118] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:48.118] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:48.118] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:48.118] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:48.118] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:48.118] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:48.118] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:48.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSamTex536: Teleported MrSamTex536 to 2336.500000, 69.937500, 688.500000]
+[02May2025 22:31:48.517] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11032ms or 220 ticks behind
+[02May2025 22:31:48.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PULS309> lo unico es que muchas veces al lanzar un hechizo sale la carapolla de steve
+[02May2025 22:31:49.718] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:49.719] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:49.719] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:49.719] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:49.719] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:49.719] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:49.719] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:49.719] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:49.719] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:49.719] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:49.720] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:49.720] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:49.720] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:49.720] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:49.720] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:49.720] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:49.720] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:49.720] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:49.720] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:49.720] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:49.816] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:49.817] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:49.817] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:49.817] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:49.817] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:49.817] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:49.817] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:49.817] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:49.817] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:49.817] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:49.817] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:49.817] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:49.817] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:49.817] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:49.819] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:49.819] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:49.819] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:49.819] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:49.819] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:49.819] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:49.820] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:49.820] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:49.821] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:49.821] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:49.821] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:49.821] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:49.821] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:49.821] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:49.821] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:49.821] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:49.822] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:49.822] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:49.822] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:49.822] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:49.822] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:49.822] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:49.822] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:49.822] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:49.822] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:49.822] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:49.822] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02May2025 22:31:56.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSamTex536: Set own game mode to Creative Mode]
+[02May2025 22:32:06.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> ah si
+[02May2025 22:32:08.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> es un bug
+[02May2025 22:32:13.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> no lo tengas en cuenta
+[02May2025 22:32:23.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSamTex536: Teleported 2 entities to MrSamTex536]
+[02May2025 22:32:29.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> mira esto
+[02May2025 22:32:50.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSamTex536: Set own game mode to Survival Mode]
+[02May2025 22:32:50.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PULS309 has made the advancement [Danger: High Voltage]
+[02May2025 22:32:59.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSamTex536: Teleported MrSamTex536 to PULS309]
+[02May2025 22:33:16.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSamTex536: Set the weather to clear]
+[02May2025 22:33:19.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PULS309 has made the advancement [Wireless Network]
+[02May2025 22:33:20.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSamTex536 has made the advancement [Wireless Network]
+[02May2025 22:33:30.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> un puzzle
+[02May2025 22:34:10.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> hay mas pisos
+[02May2025 22:34:16.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> pero hay que hacer el puzzle
+[02May2025 22:34:17.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSamTex536 has made the advancement [Danger: High Voltage]
+[02May2025 22:34:46.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PULS309> mi teoria era quer si la luz le daba al bloque negro se iria pa arriba
+[02May2025 22:34:55.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> mira
+[02May2025 22:35:05.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> se desbloqueo
+[02May2025 22:35:26.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PULS309> ah mira eso
+[02May2025 22:35:30.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PULS309> los creepers no me explotan
+[02May2025 22:35:37.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> claro
+[02May2025 22:35:40.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> eres felino
+[02May2025 22:36:48.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> gracias pana
+[02May2025 22:36:52.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PULS309> de donde salen tantas?
+[02May2025 22:36:55.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PULS309> nombre pa eso tamos
+[02May2025 22:37:00.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> de creativo xd
+[02May2025 22:37:04.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSamTex536 has made the advancement [Ashes 'n Bones]
+[02May2025 22:37:07.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrSamTex536> aaa
