@@ -6332,3 +6332,31 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_straw_ha
 [08May2025 14:18:08.946] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Castle with trench
 [08May2025 14:21:58.399] [Server thread/INFO] [Easy NPC/]: Opening menu 47ded551-8a8e-4eec-ada9-a9cfa2b10623 for npc 70e6148c-daf5-4126-8ee0-9b2b89bb776d and player ServerPlayer['MrSamTex536'/1371, l='ServerLevel[Castle with trench]', x=2267.22, y=66.00, z=-3315.84] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Kai]}]
 [08May2025 14:22:03.140] [Server thread/INFO] [Easy NPC/]: Opening menu 419e68ad-c1ba-4625-bf83-33967d4e4ac9 for npc 70e6148c-daf5-4126-8ee0-9b2b89bb776d and player ServerPlayer['MrSamTex536'/1371, l='ServerLevel[Castle with trench]', x=2267.22, y=66.00, z=-3315.84] with ConfigurationMenu.DEFAULT_SKIN[translation{key='text.easy_npc.config.default_skin.title', args=[Kai]}]
+[08May2025 14:22:52.801] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08May2025 14:23:08.934] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Castle with trench
+[08May2025 14:23:08.948] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Castle with trench
+[08May2025 14:23:10.737] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08May2025 14:23:11.439] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08May2025 14:23:12.260] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08May2025 14:23:12.910] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08May2025 14:23:13.440] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08May2025 14:23:13.988] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08May2025 14:23:14.888] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08May2025 14:23:15.111] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08May2025 14:23:16.942] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08May2025 14:23:18.540] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08May2025 14:23:19.145] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08May2025 14:23:23.838] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08May2025 14:23:25.094] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08May2025 14:23:45.659] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08May2025 14:23:46.194] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08May2025 14:23:46.560] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08May2025 14:23:47.062] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08May2025 14:23:47.992] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08May2025 14:25:19.870] [Server thread/INFO] [Easy NPC/]: Opening menu f4b60481-d3b2-4f35-be28-5b39885ab4ba for npc 70e6148c-daf5-4126-8ee0-9b2b89bb776d and player ServerPlayer['MrSamTex536'/1371, l='ServerLevel[Castle with trench]', x=2270.37, y=66.00, z=-3318.61] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Kai]}]
+[08May2025 14:25:24.941] [Server thread/INFO] [Easy NPC/]: Opening menu 0b4796ff-2afa-4c6e-8ba0-cd48ee3f9bb1 for npc 70e6148c-daf5-4126-8ee0-9b2b89bb776d and player ServerPlayer['MrSamTex536'/1371, l='ServerLevel[Castle with trench]', x=2270.37, y=66.00, z=-3318.61] with EquipmentConfigurationMenu[translation{key='text.easy_npc.config.equipment.title', args=[Kai]}]
+[08May2025 14:25:42.151] [Server thread/INFO] [Easy NPC/]: Opening menu b9f9cbab-06e9-42e5-a3b6-e963e138a893 for npc 70e6148c-daf5-4126-8ee0-9b2b89bb776d and player ServerPlayer['MrSamTex536'/1371, l='ServerLevel[Castle with trench]', x=2271.00, y=66.00, z=-3339.64] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Kai]}]
+[08May2025 14:25:42.901] [Server thread/INFO] [Easy NPC/]: Opening menu a058a17c-f1c0-4a4a-84d3-3fcebe4c81c6 for npc 70e6148c-daf5-4126-8ee0-9b2b89bb776d and player ServerPlayer['MrSamTex536'/1371, l='ServerLevel[Castle with trench]', x=2270.98, y=66.00, z=-3339.64] with EquipmentConfigurationMenu[translation{key='text.easy_npc.config.equipment.title', args=[Kai]}]
+[08May2025 14:28:08.939] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Castle with trench
+[08May2025 14:28:08.953] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Castle with trench
+[08May2025 14:29:03.390] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
