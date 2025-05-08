@@ -6360,3 +6360,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_straw_ha
 [08May2025 14:28:08.939] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Castle with trench
 [08May2025 14:28:08.953] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Castle with trench
 [08May2025 14:29:03.390] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08May2025 14:33:08.936] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Castle with trench
+[08May2025 14:33:08.949] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Castle with trench
+[08May2025 14:34:38.296] [Server thread/INFO] [Easy NPC/]: Opening menu 2e288d1c-9d87-402f-b337-8216c5288052 for npc 70e6148c-daf5-4126-8ee0-9b2b89bb776d and player ServerPlayer['MrSamTex536'/1371, l='ServerLevel[Castle with trench]', x=2283.39, y=66.00, z=-3339.97] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Kai]}]
+[08May2025 14:35:08.448] [Server thread/INFO] [Easy NPC/]: Opening menu 49811d30-7183-43b5-adaf-8b1322cf9e0e for npc 70e6148c-daf5-4126-8ee0-9b2b89bb776d and player ServerPlayer['MrSamTex536'/1371, l='ServerLevel[Castle with trench]', x=2302.52, y=66.00, z=-3350.60] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Kai]}]
+[08May2025 14:38:08.937] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Castle with trench
+[08May2025 14:38:08.950] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Castle with trench
