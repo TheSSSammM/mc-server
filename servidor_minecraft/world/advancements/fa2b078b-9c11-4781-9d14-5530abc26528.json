@@ -2587,6 +2587,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:witch": "2025-05-08 21:38:23 +0000",
+      "minecraft:endermite": "2025-05-08 23:28:57 +0000",
       "minecraft:zombie": "2025-05-08 16:06:09 +0000"
     },
     "done": false
@@ -2993,9 +2994,27 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:big_boy": {
+    "criteria": {
+      "big_boy_0": "2025-05-08 23:27:57 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:make_inscription_table": {
     "criteria": {
       "inscription_table": "2025-05-08 21:32:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-05-08 23:25:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-05-08 23:25:28 +0000"
     },
     "done": true
   },
@@ -3011,9 +3030,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-05-08 23:25:28 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/staff_artificer": {
     "criteria": {
       "requirement": "2025-05-08 21:31:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-05-08 23:25:28 +0000"
     },
     "done": true
   },
@@ -3026,6 +3057,18 @@
   "irons_spellbooks:irons_spellbooks/spell_book_equip": {
     "criteria": {
       "requirement": "2025-05-08 21:31:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-05-08 23:25:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-05-08 23:25:28 +0000"
     },
     "done": true
   },
