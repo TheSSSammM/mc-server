@@ -500,6 +500,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-05-06 19:28:06 +0000",
+      "minecraft:cherry_grove": "2025-05-08 11:05:29 +0000",
       "minecraft:windswept_hills": "2025-05-06 21:18:19 +0000",
       "minecraft:bamboo_jungle": "2025-05-07 16:40:39 +0000",
       "minecraft:beach": "2025-05-06 20:54:43 +0000",
@@ -508,8 +509,10 @@
       "minecraft:forest": "2025-05-06 19:22:08 +0000",
       "minecraft:lush_caves": "2025-05-06 19:25:17 +0000",
       "minecraft:desert": "2025-05-06 19:27:00 +0000",
+      "minecraft:windswept_forest": "2025-05-08 11:04:47 +0000",
       "minecraft:jungle": "2025-05-06 19:25:20 +0000",
       "minecraft:ocean": "2025-05-06 20:54:42 +0000",
+      "minecraft:meadow": "2025-05-08 11:05:16 +0000",
       "minecraft:plains": "2025-05-06 19:26:50 +0000"
     },
     "done": false
@@ -522,9 +525,15 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-05-08 11:03:52 +0000",
+      "snowblossom_grove": "2025-05-08 11:04:55 +0000",
       "rocky_shrubland": "2025-05-06 21:24:36 +0000",
+      "jacaranda_glade": "2025-05-08 11:06:21 +0000",
       "orchard": "2025-05-06 21:24:39 +0000",
+      "coniferous_forest": "2025-05-08 11:12:49 +0000",
       "rocky_rainforest": "2025-05-07 16:40:41 +0000",
+      "fir_clearing": "2025-05-08 11:16:31 +0000",
+      "prairie": "2025-05-08 11:12:48 +0000",
       "glowing_grotto": "2025-05-06 19:25:00 +0000",
       "rainforest": "2025-05-06 19:24:24 +0000"
     },
@@ -1982,27 +1991,27 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/egg_sandwich": {
+  "minecraft:story/obtain_armor": {
     "criteria": {
-      "has_fried_egg": "2025-05-07 19:23:24 +0000"
+      "iron_chestplate": "2025-05-07 16:53:44 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
-      "armor_trimmed_minecraft:silence_armor_trim_smithing_template_smithing_trim": "2025-05-07 17:00:50 +0000"
-    },
-    "done": false
-  },
-  "mowziesmobs:kill_ferrous_wroughtnaut": {
-    "criteria": {
-      "ferrous_wroughtnaut": "2025-05-07 17:55:46 +0000"
+      "has_iron_chestplate": "2025-05-07 16:53:44 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
-      "has_gunpowder": "2025-05-07 18:28:35 +0000"
+      "has_iron_chestplate": "2025-05-07 16:53:44 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2025-05-07 16:57:48 +0000"
     },
     "done": true
   },
@@ -2012,9 +2021,39 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/roast_chicken_block": {
+  "minecraft:recipes/misc/silence_armor_trim_smithing_template": {
     "criteria": {
-      "has_cooked_chicken": "2025-05-07 17:52:28 +0000"
+      "has_silence_armor_trim_smithing_template": "2025-05-07 16:59:17 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/rift_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-05-07 16:59:19 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/valor_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-05-07 16:59:54 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/spirit_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-05-07 16:59:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
+    "criteria": {
+      "armor_trimmed_minecraft:silence_armor_trim_smithing_template_smithing_trim": "2025-05-07 17:00:50 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/trim_with_any_armor_pattern": {
+    "criteria": {
+      "armor_trimmed_minecraft:silence_armor_trim_smithing_template_smithing_trim": "2025-05-07 17:00:50 +0000"
     },
     "done": true
   },
@@ -2024,15 +2063,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/spyglass": {
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
     "criteria": {
-      "has_amethyst_shard": "2025-05-07 19:46:04 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/apple_pie_from_slices": {
-    "criteria": {
-      "has_apple_pie_slice": "2025-05-07 19:46:36 +0000"
+      "sword": "2025-05-07 17:24:57 +0000"
     },
     "done": true
   },
@@ -2042,9 +2075,118 @@
     },
     "done": true
   },
-  "minecraft:adventure/trim_with_any_armor_pattern": {
+  "irons_spellbooks:irons_spellbooks/ink_root": {
     "criteria": {
-      "armor_trimmed_minecraft:silence_armor_trim_smithing_template_smithing_trim": "2025-05-07 17:00:50 +0000"
+      "requirement": "2025-05-07 17:35:41 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+    "criteria": {
+      "requirement": "2025-05-07 17:35:41 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_root": {
+    "criteria": {
+      "requirement": "2025-05-07 17:38:02 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_blood_staff": {
+    "criteria": {
+      "requirement": "2025-05-07 17:38:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-05-07 17:52:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-05-07 17:52:28 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_ferrous_wroughtnaut": {
+    "criteria": {
+      "ferrous_wroughtnaut": "2025-05-07 17:55:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-05-07 18:21:20 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
+    "criteria": {
+      "has_gunpowder": "2025-05-07 18:28:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-05-07 18:28:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-05-07 18:28:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/egg_sandwich": {
+    "criteria": {
+      "has_fried_egg": "2025-05-07 19:23:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-05-07 19:30:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-05-07 19:30:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-05-07 19:30:15 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:trickor_treat": {
+    "criteria": {
+      "trickor_treat_0": "2025-05-07 19:42:13 +0000",
+      "trickor_treat_8": "2025-05-07 19:42:14 +0000"
+    },
+    "done": false
+  },
+  "cloudstorage:cloudstorage/cotton_candy": {
+    "criteria": {
+      "acacia_blossom": "2025-05-07 19:42:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chocolate_pie_from_slices": {
+    "criteria": {
+      "has_chocolate_pie_slice": "2025-05-07 19:44:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-07 19:46:04 +0000"
     },
     "done": true
   },
@@ -2060,15 +2202,15 @@
     },
     "done": true
   },
-  "minecraft:story/lava_bucket": {
+  "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
-      "lava_bucket": "2025-05-07 18:21:20 +0000"
+      "has_amethyst_shard": "2025-05-07 19:46:04 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_banner": {
+  "farmersdelight:recipes/food/apple_pie_from_slices": {
     "criteria": {
-      "has_red_wool": "2025-05-07 19:30:15 +0000"
+      "has_apple_pie_slice": "2025-05-07 19:46:36 +0000"
     },
     "done": true
   },
@@ -2078,136 +2220,171 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/silence_armor_trim_smithing_template": {
+  "iceandfire:recipes/misc/dragon_bone_wall": {
     "criteria": {
-      "has_silence_armor_trim_smithing_template": "2025-05-07 16:59:17 +0000"
+      "has_item": "2025-05-08 11:08:46 +0000"
     },
     "done": true
   },
-  "netherexp:recipes/misc/valor_armor_trim_smithing_template": {
+  "iceandfire:recipes/combat/armor_green_leggings": {
     "criteria": {
-      "has_coast_armor_trim_smithing_template": "2025-05-07 16:59:54 +0000"
+      "has_item": "2025-05-08 11:08:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/firework_rocket_simple": {
+  "iceandfire:recipes/combat/armor_red_chestplate": {
     "criteria": {
-      "has_gunpowder": "2025-05-07 18:28:35 +0000"
+      "has_item": "2025-05-08 11:16:21 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_bed": {
+  "iceandfire:recipes/misc/dragon_flute": {
     "criteria": {
-      "has_red_wool": "2025-05-07 19:30:15 +0000"
+      "has_item": "2025-05-08 11:08:46 +0000"
     },
     "done": true
   },
-  "minecraft:story/obtain_armor": {
+  "iceandfire:recipes/combat/armor_green_helmet": {
     "criteria": {
-      "iron_chestplate": "2025-05-07 16:53:44 +0000"
+      "has_item": "2025-05-08 11:08:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+  "iceandfire:recipes/building_blocks/ash": {
     "criteria": {
-      "has_iron_chestplate": "2025-05-07 16:53:44 +0000"
+      "has_item": "2025-05-08 11:08:13 +0000"
     },
     "done": true
   },
-  "netherexp:recipes/misc/rift_armor_trim_smithing_template": {
+  "iceandfire:iceandfire/kill_if_dragon": {
     "criteria": {
-      "has_coast_armor_trim_smithing_template": "2025-05-07 16:59:19 +0000"
+      "killed_fire_dragon": "2025-05-08 11:07:33 +0000"
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/ink_root": {
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
     "criteria": {
-      "requirement": "2025-05-07 17:35:41 +0000"
+      "has_item": "2025-05-08 11:08:47 +0000"
     },
     "done": true
   },
-  "born_in_chaos_v1:trickor_treat": {
+  "iceandfire:recipes/misc/nest": {
     "criteria": {
-      "trickor_treat_0": "2025-05-07 19:42:13 +0000",
-      "trickor_treat_8": "2025-05-07 19:42:14 +0000"
-    },
-    "done": false
-  },
-  "iceandfire:iceandfire/dragonbone_flaming_sword": {
-    "criteria": {
-      "sword": "2025-05-07 17:24:57 +0000"
+      "has_item": "2025-05-08 11:08:46 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/chocolate_pie_from_slices": {
+  "iceandfire:recipes/combat/dragonbone_bow": {
     "criteria": {
-      "has_chocolate_pie_slice": "2025-05-07 19:44:30 +0000"
+      "has_item": "2025-05-08 11:08:46 +0000"
     },
     "done": true
   },
-  "cloudstorage:cloudstorage/cotton_candy": {
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
     "criteria": {
-      "acacia_blossom": "2025-05-07 19:42:19 +0000"
+      "has_dragonbone": "2025-05-08 11:08:46 +0000"
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+  "iceandfire:recipes/combat/armor_red_leggings": {
     "criteria": {
-      "requirement": "2025-05-07 17:35:41 +0000"
+      "has_item": "2025-05-08 11:16:21 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_carpet": {
+  "iceandfire:recipes/tools/dragonbone_hoe": {
     "criteria": {
-      "has_red_wool": "2025-05-07 19:30:15 +0000"
+      "has_item": "2025-05-08 11:08:46 +0000"
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/staff_root": {
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
     "criteria": {
-      "requirement": "2025-05-07 17:38:02 +0000"
+      "has_pink_petals": "2025-05-08 11:05:40 +0000"
     },
     "done": true
   },
-  "netherexp:recipes/misc/spirit_armor_trim_smithing_template": {
+  "iceandfire:recipes/tools/dragonbone_shovel": {
     "criteria": {
-      "has_coast_armor_trim_smithing_template": "2025-05-07 16:59:55 +0000"
+      "has_item": "2025-05-08 11:08:46 +0000"
     },
     "done": true
   },
-  "born_in_chaos_v1:exorcism": {
+  "alexsmobs:alexsmobs/sunbird_blessing": {
     "criteria": {
-      "exorcism_0": "2025-05-07 16:57:48 +0000"
+      "all_effects": "2025-05-08 11:06:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/amethyst_block": {
+  "iceandfire:recipes/combat/armor_green_chestplate": {
     "criteria": {
-      "has_amethyst_shard": "2025-05-07 19:46:04 +0000"
+      "has_item": "2025-05-08 11:08:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+  "iceandfire:recipes/tools/dragonbone_axe": {
     "criteria": {
-      "has_iron_chestplate": "2025-05-07 16:53:44 +0000"
+      "has_item": "2025-05-08 11:08:46 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/chicken_sandwich": {
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
     "criteria": {
-      "has_cooked_chicken": "2025-05-07 17:52:28 +0000"
+      "has_item": "2025-05-08 11:08:46 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/tnt": {
+  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
     "criteria": {
-      "has_gunpowder": "2025-05-07 18:28:35 +0000"
+      "has_dragonscales_green": "2025-05-08 11:08:47 +0000"
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/staff_blood_staff": {
+  "iceandfire:recipes/combat/armor_red_helmet": {
     "criteria": {
-      "requirement": "2025-05-07 17:38:02 +0000"
+      "has_item": "2025-05-08 11:16:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
+    "criteria": {
+      "has_dragonscales_red": "2025-05-08 11:16:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_boots": {
+    "criteria": {
+      "has_item": "2025-05-08 11:16:21 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-05-08 11:12:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2025-05-08 11:08:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_boots": {
+    "criteria": {
+      "has_item": "2025-05-08 11:08:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2025-05-08 11:08:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2025-05-08 11:08:47 +0000"
     },
     "done": true
   },
