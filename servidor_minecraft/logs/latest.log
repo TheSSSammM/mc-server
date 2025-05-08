@@ -1666,3 +1666,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_straw_ha
 [08May2025 15:47:48.764] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/26435, l='ServerLevel[Castle with trench]', x=0.00, y=0.00, z=0.00] ...
 [08May2025 15:47:48.764] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/26435, l='ServerLevel[Castle with trench]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
 [08May2025 15:47:48.764] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['entity.easy_npc.humanoid'/26435, l='ServerLevel[Castle with trench]', x=2449.50, y=68.00, z=-3264.50].
+[08May2025 15:53:10.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSamTex536: Set the time to 13000]
+[08May2025 15:55:24.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSamTex536 has made the advancement [Acquire Hardware]
+[08May2025 15:59:03.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSamTex536: Set own game mode to Survival Mode]
+[08May2025 15:59:29.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSamTex536: Set own game mode to Creative Mode]
+[08May2025 16:00:42.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSamTex536: Set own game mode to Survival Mode]
+[08May2025 16:00:53.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSamTex536: Set own game mode to Creative Mode]
