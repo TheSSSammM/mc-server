@@ -7731,3 +7731,33 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_straw_ha
 [08May2025 17:03:45.393] [Server thread/INFO] [Easy NPC/]: Opening menu 6ad1de94-4584-46f8-b8e2-1aa9a5411d96 for npc 487e9808-da2c-47c8-95ca-b1de244e1413 and player ServerPlayer['MrSamTex536'/47177, l='ServerLevel[Castle with trench]', x=2393.47, y=70.00, z=-3301.07] with DialogMenuHandler{displayName=translation{key='entity.easy_npc.humanoid', args=[]}}
 [08May2025 17:03:48.241] [Server thread/INFO] [Easy NPC/]: Opening menu 97eda3ec-4070-4813-addf-0cb6ccbe9299 for npc 875b4e13-f421-414c-8d5f-55afe35a20fa and player ServerPlayer['MrSamTex536'/47177, l='ServerLevel[Castle with trench]', x=2393.46, y=70.00, z=-3301.07] with DialogMenuHandler{displayName=translation{key='entity.easy_npc.humanoid_slim', args=[]}}
 [08May2025 17:03:50.489] [Server thread/INFO] [Easy NPC/]: Opening menu d229275b-9738-496b-b314-0c7304219887 for npc 1f094966-f137-455d-816a-af6c5f088d2c and player ServerPlayer['MrSamTex536'/47177, l='ServerLevel[Castle with trench]', x=2390.78, y=70.00, z=-3299.76] with DialogMenuHandler{displayName=translation{key='entity.easy_npc.humanoid', args=[]}}
+[08May2025 17:03:55.156] [Server thread/INFO] [Easy NPC/]: Opening menu f1574c7b-2e3b-430c-886a-a0f69fd3d63d for npc 9c5ff586-59f9-45fb-a6ae-88c64308975c and player ServerPlayer['MrSamTex536'/47177, l='ServerLevel[Castle with trench]', x=2387.47, y=69.06, z=-3303.08] with DialogMenuHandler{displayName=literal{Kobeni}[style={color=#FFFFFF}]}
+[08May2025 17:05:16.095] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ian'/47178, l='ServerLevel[Castle with trench]', x=2458.52, y=70.00, z=-3364.41] died, message: 'Ian was slain by MrSamTex536'
+[08May2025 17:05:16.100] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Ian'/47178, l='ServerLevel[Castle with trench]', x=2458.52, y=70.00, z=-3364.41] died: Ian was slain by MrSamTex536
+[08May2025 17:05:21.141] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08May2025 17:07:15.196] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08May2025 17:08:08.920] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Castle with trench
+[08May2025 17:08:08.932] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Castle with trench
+[08May2025 17:08:52.340] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08May2025 17:08:52.790] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08May2025 17:09:01.892] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08May2025 17:09:02.288] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08May2025 17:09:02.539] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08May2025 17:09:03.390] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08May2025 17:09:03.689] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08May2025 17:09:04.541] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08May2025 17:10:56.691] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08May2025 17:11:02.540] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08May2025 17:11:05.845] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08May2025 17:11:09.494] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08May2025 17:11:25.139] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08May2025 17:11:28.041] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08May2025 17:11:33.243] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08May2025 17:11:34.791] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08May2025 17:11:36.993] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08May2025 17:11:54.341] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08May2025 17:12:43.243] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08May2025 17:13:08.927] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Castle with trench
+[08May2025 17:13:08.940] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Castle with trench
+[08May2025 17:13:12.689] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[08May2025 17:13:12.990] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
