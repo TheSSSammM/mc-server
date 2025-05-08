@@ -2586,6 +2586,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:witch": "2025-05-08 21:38:23 +0000",
       "minecraft:zombie": "2025-05-08 16:06:09 +0000"
     },
     "done": false
