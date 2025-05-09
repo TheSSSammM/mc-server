@@ -1922,3 +1922,6 @@ java.lang.IllegalArgumentException: No enum constant net.minecraft.world.level.b
 [09May2025 10:51:46.017] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@c1ee45d, net.minecraft.world.item.trading.MerchantOffer@28d1bc8b] for Pig['MR. Pipo'/24145, l='ServerLevel[Castle with trench]', x=2395.50, y=70.00, z=-3241.50]
 [09May2025 10:51:58.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSamTex536: Teleported MrSamTex536 to 4178.500000, 236.500000, -13182.500000]
 [09May2025 10:52:06.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSamTex536 has made the advancement [New Horizons]
+[09May2025 10:55:36.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSamTex536: Set own game mode to Survival Mode]
+[09May2025 10:56:55.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSamTex536: Set own game mode to Creative Mode]
+[09May2025 11:03:39.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSamTex536: Set the time to 1000]

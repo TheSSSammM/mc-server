@@ -3080,6 +3080,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-05-09 10:53:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-05-09 10:53:48 +0000"
+    },
+    "done": true
+  },
+  "cloudstorage:cloudstorage/loot_balloon": {
+    "criteria": {
+      "open_chest": "2025-05-09 10:52:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2025-05-09 10:10:38 +0000"
