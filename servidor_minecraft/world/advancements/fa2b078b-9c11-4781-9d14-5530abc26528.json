@@ -2587,6 +2587,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-05-09 15:10:32 +0000",
       "minecraft:creeper": "2025-05-09 10:25:52 +0000",
       "minecraft:phantom": "2025-05-09 14:45:09 +0000",
       "minecraft:witch": "2025-05-08 21:38:23 +0000",
@@ -3870,6 +3871,18 @@
   "mca:recipes/decorations/black_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-05-09 14:56:40 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_wood": {
+    "criteria": {
+      "has_log": "2025-05-09 15:16:46 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_planks": {
+    "criteria": {
+      "has_logs": "2025-05-09 15:16:46 +0000"
     },
     "done": true
   },
