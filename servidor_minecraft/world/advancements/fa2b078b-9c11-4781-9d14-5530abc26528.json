@@ -3656,6 +3656,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-09 14:23:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-05-09 13:26:30 +0000"
@@ -3683,6 +3689,12 @@
   "witherstormmod:recipes/tools/phasometer": {
     "criteria": {
       "has_spyglass": "2025-05-09 13:54:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-09 14:25:02 +0000"
     },
     "done": true
   },
