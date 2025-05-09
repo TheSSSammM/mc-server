@@ -6435,3 +6435,169 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_straw_ha
 [09May2025 10:14:12.387] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/8915, l='ServerLevel[Castle with trench]', x=0.00, y=0.00, z=0.00] ...
 [09May2025 10:14:12.387] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/8915, l='ServerLevel[Castle with trench]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
 [09May2025 10:14:12.388] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['entity.easy_npc.humanoid'/8915, l='ServerLevel[Castle with trench]', x=2474.50, y=70.00, z=-3196.50].
+[09May2025 10:14:31.013] [Server thread/INFO] [Easy NPC/]: Opening menu 87c1abc3-466c-49ad-8428-badb0dcc7add for npc 8e3b4a99-c4f4-4e9f-91b4-b18351b690fe and player ServerPlayer['MrSamTex536'/1387, l='ServerLevel[Castle with trench]', x=2438.79, y=65.00, z=-3257.54] with DialogMenuHandler{displayName=literal{A garra mela}[style={color=#FFFFFF}]}
+[09May2025 10:14:34.008] [Server thread/INFO] [Easy NPC/]: Opening menu 0e785d1d-98d8-432c-bf2e-b0f5895eb10b for npc 8e3b4a99-c4f4-4e9f-91b4-b18351b690fe and player ServerPlayer['MrSamTex536'/1387, l='ServerLevel[Castle with trench]', x=2438.79, y=65.00, z=-3257.54] with DialogMenuHandler{displayName=literal{A garra mela}[style={color=#FFFFFF}]}
+[09May2025 10:14:39.960] [Server thread/INFO] [Easy NPC/]: Opening menu 0c65883f-f570-48c1-b978-eb0fe4c4fdb7 for npc 80c70fab-3cab-4a97-a4d3-9a8eeff76efc and player ServerPlayer['MrSamTex536'/1387, l='ServerLevel[Castle with trench]', x=2447.20, y=68.00, z=-3265.18] with DialogMenuHandler{displayName=translation{key='entity.easy_npc.humanoid', args=[]}}
+[09May2025 10:15:31.563] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Castle with trench
+[09May2025 10:15:31.579] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Castle with trench
+[09May2025 10:17:15.258] [Worker-Main-1/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterdungeons.mixins.json into net.minecraft.server.level.WorldGenRegion
+[09May2025 10:17:15.259] [Worker-Main-1/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[09May2025 10:17:15.259] [Worker-Main-1/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterfortresses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[09May2025 10:17:15.260] [Worker-Main-1/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[09May2025 10:17:15.260] [Worker-Main-1/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterjungletemples.mixins.json into net.minecraft.server.level.WorldGenRegion
+[09May2025 10:17:15.262] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[09May2025 10:17:15.262] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[09May2025 10:17:15.262] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[09May2025 10:17:15.262] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[09May2025 10:17:15.262] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[09May2025 10:17:15.262] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[09May2025 10:17:15.262] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[09May2025 10:17:15.262] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[09May2025 10:17:15.262] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[09May2025 10:17:15.262] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[09May2025 10:17:15.262] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[09May2025 10:17:15.583] [Worker-Main-3/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[09May2025 10:17:15.586] [Worker-Main-3/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[09May2025 10:17:15.587] [Worker-Main-3/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[09May2025 10:17:15.587] [Worker-Main-3/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[09May2025 10:17:15.600] [Worker-Main-3/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[09May2025 10:17:15.601] [Worker-Main-3/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[09May2025 10:17:19.671] [Worker-Main-1/DEBUG] [mixin/]: Mixing IMixinStructurePiecesBuilder from witherstormmod.mixins.json into net.minecraft.world.level.levelgen.structure.pieces.StructurePiecesBuilder
+[09May2025 10:17:19.692] [Server thread/ERROR] [net.minecraft.world.level.levelgen.structure.pieces.PiecesContainer/]: Exception loading structure piece with id minecraft:rupo
+java.lang.IllegalArgumentException: No enum constant net.minecraft.world.level.block.Mirror.
+	at java.lang.Enum.valueOf(Enum.java:273) ~[?:?]
+	at net.minecraft.world.level.block.Mirror.valueOf(Mirror.java:11) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at net.minecraft.world.level.levelgen.structure.structures.RuinedPortalPiece.m_229165_(RuinedPortalPiece.java:121) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at net.minecraft.world.level.levelgen.structure.structures.RuinedPortalPiece.m_229185_(RuinedPortalPiece.java:101) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at net.minecraft.world.level.levelgen.structure.TemplateStructurePiece.<init>(TemplateStructurePiece.java:60) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at net.minecraft.world.level.levelgen.structure.structures.RuinedPortalPiece.<init>(RuinedPortalPiece.java:101) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at net.minecraft.world.level.levelgen.structure.pieces.StructurePieceType$StructureTemplateType.m_207333_(StructurePieceType.java:101) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at net.minecraft.world.level.levelgen.structure.pieces.PiecesContainer.m_192753_(PiecesContainer.java:73) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at net.minecraft.world.level.levelgen.structure.StructureStart.m_226857_(StructureStart.java:57) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at net.minecraft.world.level.chunk.storage.ChunkSerializer.m_188254_(ChunkSerializer.java:454) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at net.minecraft.world.level.chunk.storage.ChunkSerializer.m_188230_(ChunkSerializer.java:199) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at net.minecraft.server.level.ChunkMap.m_288112_(ChunkMap.java:578) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_6367_(ServerChunkCache.java:541) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_7245_(ServerChunkCache.java:549) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at net.minecraft.server.level.ServerChunkCache.m_8466_(ServerChunkCache.java:269) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:758) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[09May2025 10:17:21.532] [Worker-Main-3/DEBUG] [mixin/]: Mixing IMixinJigsawPlacement from witherstormmod.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement
+[09May2025 10:17:21.532] [Worker-Main-3/DEBUG] [mixin/]: Renaming @Invoker method invokeAddPieces(Lnet/minecraft/world/level/levelgen/RandomState;IZLnet/minecraft/world/level/chunk/ChunkGenerator;Lnet/minecraft/world/level/levelgen/structure/templatesystem/StructureTemplateManager;Lnet/minecraft/world/level/LevelHeightAccessor;Lnet/minecraft/util/RandomSource;Lnet/minecraft/core/Registry;Lnet/minecraft/world/level/levelgen/structure/PoolElementStructurePiece;Ljava/util/List;Lnet/minecraft/world/phys/shapes/VoxelShape;)V to invokeAddPieces_$md$fa1199$0 in witherstormmod.mixins.json:IMixinJigsawPlacement
+[09May2025 10:17:29.569] [Worker-Main-3/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[09May2025 10:19:10.285] [Server thread/ERROR] [net.minecraft.world.level.levelgen.structure.pieces.PiecesContainer/]: Exception loading structure piece with id minecraft:rupo
+java.lang.IllegalArgumentException: No enum constant net.minecraft.world.level.block.Mirror.
+	at java.lang.Enum.valueOf(Enum.java:273) ~[?:?]
+	at net.minecraft.world.level.block.Mirror.valueOf(Mirror.java:11) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at net.minecraft.world.level.levelgen.structure.structures.RuinedPortalPiece.m_229165_(RuinedPortalPiece.java:121) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at net.minecraft.world.level.levelgen.structure.structures.RuinedPortalPiece.m_229185_(RuinedPortalPiece.java:101) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at net.minecraft.world.level.levelgen.structure.TemplateStructurePiece.<init>(TemplateStructurePiece.java:60) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at net.minecraft.world.level.levelgen.structure.structures.RuinedPortalPiece.<init>(RuinedPortalPiece.java:101) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at net.minecraft.world.level.levelgen.structure.pieces.StructurePieceType$StructureTemplateType.m_207333_(StructurePieceType.java:101) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at net.minecraft.world.level.levelgen.structure.pieces.PiecesContainer.m_192753_(PiecesContainer.java:73) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at net.minecraft.world.level.levelgen.structure.StructureStart.m_226857_(StructureStart.java:57) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at net.minecraft.world.level.chunk.storage.ChunkSerializer.m_188254_(ChunkSerializer.java:454) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at net.minecraft.world.level.chunk.storage.ChunkSerializer.m_188230_(ChunkSerializer.java:199) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at net.minecraft.server.level.ChunkMap.m_288112_(ChunkMap.java:578) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_6367_(ServerChunkCache.java:541) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_7245_(ServerChunkCache.java:549) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at net.minecraft.server.level.ServerChunkCache.m_8466_(ServerChunkCache.java:269) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:758) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[09May2025 10:20:06.175] [Server thread/ERROR] [net.minecraft.world.level.levelgen.structure.pieces.PiecesContainer/]: Exception loading structure piece with id minecraft:rupo
+java.lang.IllegalArgumentException: No enum constant net.minecraft.world.level.block.Mirror.
+	at java.lang.Enum.valueOf(Enum.java:273) ~[?:?]
+	at net.minecraft.world.level.block.Mirror.valueOf(Mirror.java:11) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at net.minecraft.world.level.levelgen.structure.structures.RuinedPortalPiece.m_229165_(RuinedPortalPiece.java:121) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at net.minecraft.world.level.levelgen.structure.structures.RuinedPortalPiece.m_229185_(RuinedPortalPiece.java:101) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at net.minecraft.world.level.levelgen.structure.TemplateStructurePiece.<init>(TemplateStructurePiece.java:60) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at net.minecraft.world.level.levelgen.structure.structures.RuinedPortalPiece.<init>(RuinedPortalPiece.java:101) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at net.minecraft.world.level.levelgen.structure.pieces.StructurePieceType$StructureTemplateType.m_207333_(StructurePieceType.java:101) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at net.minecraft.world.level.levelgen.structure.pieces.PiecesContainer.m_192753_(PiecesContainer.java:73) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at net.minecraft.world.level.levelgen.structure.StructureStart.m_226857_(StructureStart.java:57) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at net.minecraft.world.level.chunk.storage.ChunkSerializer.m_188254_(ChunkSerializer.java:454) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at net.minecraft.world.level.chunk.storage.ChunkSerializer.m_188230_(ChunkSerializer.java:199) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at net.minecraft.server.level.ChunkMap.m_288112_(ChunkMap.java:578) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_6367_(ServerChunkCache.java:541) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_7245_(ServerChunkCache.java:549) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at net.minecraft.server.level.ServerChunkCache.m_8466_(ServerChunkCache.java:269) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:758) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23239!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[09May2025 10:20:31.561] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Castle with trench
+[09May2025 10:20:31.574] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Castle with trench
+[09May2025 10:20:35.174] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/13597, l='ServerLevel[Castle with trench]', x=0.00, y=0.00, z=0.00] ...
+[09May2025 10:20:35.175] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/13597, l='ServerLevel[Castle with trench]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[09May2025 10:20:35.175] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['entity.easy_npc.humanoid'/13597, l='ServerLevel[Castle with trench]', x=2449.50, y=68.00, z=-3264.50].
+[09May2025 10:20:36.074] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for HumanoidSlim['entity.easy_npc.humanoid_slim'/13665, l='ServerLevel[Castle with trench]', x=0.00, y=0.00, z=0.00] ...
+[09May2025 10:20:36.074] [Server thread/INFO] [Easy NPC/]: Register default handler for HumanoidSlim['entity.easy_npc.humanoid_slim'/13665, l='ServerLevel[Castle with trench]', x=0.00, y=0.00, z=0.00] with variant ALEX ...
+[09May2025 10:20:36.075] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for HumanoidSlim['A garra mela'/13665, l='ServerLevel[Castle with trench]', x=2437.50, y=65.00, z=-3257.50].
+[09May2025 10:20:37.437] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/13757, l='ServerLevel[Castle with trench]', x=0.00, y=0.00, z=0.00] ...
+[09May2025 10:20:37.437] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/13757, l='ServerLevel[Castle with trench]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[09May2025 10:20:37.437] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['Transeunte'/13757, l='ServerLevel[Castle with trench]', x=2400.50, y=70.00, z=-3270.50].
+[09May2025 10:20:38.685] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for HumanoidSlim['entity.easy_npc.humanoid_slim'/13824, l='ServerLevel[Castle with trench]', x=0.00, y=0.00, z=0.00] ...
+[09May2025 10:20:38.686] [Server thread/INFO] [Easy NPC/]: Register default handler for HumanoidSlim['entity.easy_npc.humanoid_slim'/13824, l='ServerLevel[Castle with trench]', x=0.00, y=0.00, z=0.00] with variant ALEX ...
+[09May2025 10:20:38.686] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for HumanoidSlim['entity.easy_npc.humanoid_slim'/13824, l='ServerLevel[Castle with trench]', x=2394.50, y=69.00, z=-3298.50].
+[09May2025 10:20:38.687] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/13825, l='ServerLevel[Castle with trench]', x=0.00, y=0.00, z=0.00] ...
+[09May2025 10:20:38.687] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/13825, l='ServerLevel[Castle with trench]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[09May2025 10:20:38.687] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['entity.easy_npc.humanoid'/13825, l='ServerLevel[Castle with trench]', x=2395.50, y=69.00, z=-3300.50].
+[09May2025 10:20:38.688] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/13826, l='ServerLevel[Castle with trench]', x=0.00, y=0.00, z=0.00] ...
+[09May2025 10:20:38.688] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/13826, l='ServerLevel[Castle with trench]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[09May2025 10:20:38.688] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['Kobeni'/13826, l='ServerLevel[Castle with trench]', x=2385.50, y=69.06, z=-3302.50].
+[09May2025 10:20:38.689] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/13827, l='ServerLevel[Castle with trench]', x=0.00, y=0.00, z=0.00] ...
+[09May2025 10:20:38.689] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/13827, l='ServerLevel[Castle with trench]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[09May2025 10:20:38.689] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['entity.easy_npc.humanoid'/13827, l='ServerLevel[Castle with trench]', x=2388.50, y=69.00, z=-3300.50].
+[09May2025 10:20:38.723] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Pig['entity.easy_npc.pig'/13839, l='ServerLevel[Castle with trench]', x=0.00, y=0.00, z=0.00] ...
+[09May2025 10:20:38.723] [Server thread/INFO] [Easy NPC/]: Register default handler for Pig['entity.easy_npc.pig'/13839, l='ServerLevel[Castle with trench]', x=0.00, y=0.00, z=0.00] with variant DEFAULT ...
+[09May2025 10:20:38.724] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Pig['MR. Pipo'/13839, l='ServerLevel[Castle with trench]', x=2395.50, y=70.00, z=-3241.50].
+[09May2025 10:20:38.724] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@20d6da4f, net.minecraft.world.item.trading.MerchantOffer@735971d2] for Pig['MR. Pipo'/13839, l='ServerLevel[Castle with trench]', x=2395.50, y=70.00, z=-3241.50]
+[09May2025 10:20:39.915] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/13911, l='ServerLevel[Castle with trench]', x=0.00, y=0.00, z=0.00] ...
+[09May2025 10:20:39.915] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/13911, l='ServerLevel[Castle with trench]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[09May2025 10:20:39.915] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['entity.easy_npc.humanoid'/13911, l='ServerLevel[Castle with trench]', x=2474.50, y=70.00, z=-3196.50].
+[09May2025 10:20:44.372] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/13987, l='ServerLevel[Castle with trench]', x=0.00, y=0.00, z=0.00] ...
+[09May2025 10:20:44.373] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/13987, l='ServerLevel[Castle with trench]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[09May2025 10:20:44.373] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['entity.easy_npc.humanoid'/13987, l='ServerLevel[Castle with trench]', x=2474.50, y=70.00, z=-3196.50].
+[09May2025 10:20:48.180] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for HumanoidSlim['entity.easy_npc.humanoid_slim'/14152, l='ServerLevel[Castle with trench]', x=0.00, y=0.00, z=0.00] ...
+[09May2025 10:20:48.181] [Server thread/INFO] [Easy NPC/]: Register default handler for HumanoidSlim['entity.easy_npc.humanoid_slim'/14152, l='ServerLevel[Castle with trench]', x=0.00, y=0.00, z=0.00] with variant ALEX ...
+[09May2025 10:20:48.181] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for HumanoidSlim['Vendedora'/14152, l='ServerLevel[Castle with trench]', x=2454.50, y=70.00, z=-3183.50].
+[09May2025 10:20:48.182] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@524665cd, net.minecraft.world.item.trading.MerchantOffer@245f8ab5, net.minecraft.world.item.trading.MerchantOffer@219a5a9d, net.minecraft.world.item.trading.MerchantOffer@63b84eea, net.minecraft.world.item.trading.MerchantOffer@231275d, net.minecraft.world.item.trading.MerchantOffer@5ae31f8c, net.minecraft.world.item.trading.MerchantOffer@295ee8ff] for HumanoidSlim['Vendedora'/14152, l='ServerLevel[Castle with trench]', x=2454.50, y=70.00, z=-3183.50]
+[09May2025 10:20:48.182] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/14153, l='ServerLevel[Castle with trench]', x=0.00, y=0.00, z=0.00] ...
+[09May2025 10:20:48.182] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/14153, l='ServerLevel[Castle with trench]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[09May2025 10:20:48.182] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['Pescadero'/14153, l='ServerLevel[Castle with trench]', x=2454.50, y=70.00, z=-3176.50].
+[09May2025 10:20:48.183] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@b3d4524, net.minecraft.world.item.trading.MerchantOffer@39753526, net.minecraft.world.item.trading.MerchantOffer@23636172, net.minecraft.world.item.trading.MerchantOffer@1906ac95, net.minecraft.world.item.trading.MerchantOffer@78f3cef4, net.minecraft.world.item.trading.MerchantOffer@68bf18c9, net.minecraft.world.item.trading.MerchantOffer@506f9c5d] for Humanoid['Pescadero'/14153, l='ServerLevel[Castle with trench]', x=2454.50, y=70.00, z=-3176.50]
+[09May2025 10:20:54.426] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/14290, l='ServerLevel[Castle with trench]', x=0.00, y=0.00, z=0.00] ...
+[09May2025 10:20:54.426] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/14290, l='ServerLevel[Castle with trench]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[09May2025 10:20:54.427] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['Rob'/14290, l='ServerLevel[Castle with trench]', x=2304.50, y=66.00, z=-3242.50].
+[09May2025 10:21:00.838] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/14394, l='ServerLevel[Castle with trench]', x=0.00, y=0.00, z=0.00] ...
+[09May2025 10:21:00.838] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/14394, l='ServerLevel[Castle with trench]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[09May2025 10:21:00.839] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['Kai'/14394, l='ServerLevel[Castle with trench]', x=2259.58, y=66.00, z=-3298.63].
+[09May2025 10:21:53.391] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 10:23:01.327] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/15559, l='ServerLevel[Castle with trench]', x=0.00, y=0.00, z=0.00] ...
+[09May2025 10:23:01.327] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/15559, l='ServerLevel[Castle with trench]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[09May2025 10:23:01.327] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['entity.easy_npc.humanoid'/15559, l='ServerLevel[Castle with trench]', x=2474.50, y=70.00, z=-3196.50].
