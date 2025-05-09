@@ -1523,3 +1523,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_straw_ha
 [09May2025 14:03:26.361] [Server thread/INFO] [Easy NPC/]: Opening menu 6fc173b9-d967-439d-94ab-5f5824bba6bd for npc f18961da-fe14-4957-9dbb-98356046faef and player ServerPlayer['MrSamTex536'/1302, l='ServerLevel[Castle with trench]', x=4140.20, y=112.00, z=-13188.27] with ConfigurationMenu.YES_NO_DIALOG[translation{key='text.easy_npc.config.yes_no_dialog.title', args=[Templario]}]
 [09May2025 14:25:02.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSamTex536 has made the advancement [Who You Gonna Call?]
 [09May2025 14:27:04.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSamTex536: Gave 1 [Command Block] to MrSamTex536]
+[09May2025 14:36:26.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSamTex536 has made the advancement [Diamonds!]
