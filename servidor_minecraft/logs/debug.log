@@ -8900,3 +8900,195 @@ java.lang.IllegalArgumentException: No enum constant net.minecraft.world.level.b
 [09May2025 12:15:38.404] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
 [09May2025 12:15:39.106] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
 [09May2025 12:15:40.257] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 12:18:59.417] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tiurda7sgg9e]: started parsing
+[09May2025 12:18:59.417] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tiurda7sgg9e]: Consuming argument `stone_brick_slab`
+[09May2025 12:18:59.418] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tiurda7sgg9e]: Finished looking at arguments. Finalizing command.
+[09May2025 12:18:59.418] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1x1znztzdtfr2]: started parsing
+[09May2025 12:18:59.418] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1x1znztzdtfr2]: Consuming argument `stone_brick_slab`
+[09May2025 12:18:59.418] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1x1znztzdtfr2]: Finished looking at arguments. Finalizing command.
+[09May2025 12:19:00.014] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04nmlw3mj323i]: started parsing
+[09May2025 12:19:00.014] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04nmlw3mj323i]: Consuming argument `sand`
+[09May2025 12:19:00.014] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04nmlw3mj323i]: Finished looking at arguments. Finalizing command.
+[09May2025 12:19:00.014] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0s6qdf8i0u25i]: started parsing
+[09May2025 12:19:00.014] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0s6qdf8i0u25i]: Consuming argument `sand`
+[09May2025 12:19:00.014] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0s6qdf8i0u25i]: Finished looking at arguments. Finalizing command.
+[09May2025 12:19:00.334] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11ufpoxsdmzog]: started parsing
+[09May2025 12:19:00.334] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11ufpoxsdmzog]: Consuming argument `sand`
+[09May2025 12:19:00.334] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11ufpoxsdmzog]: Finished looking at arguments. Finalizing command.
+[09May2025 12:19:00.334] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jof3grwavulk]: started parsing
+[09May2025 12:19:00.334] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jof3grwavulk]: Consuming argument `sand`
+[09May2025 12:19:00.334] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jof3grwavulk]: Finished looking at arguments. Finalizing command.
+[09May2025 12:19:01.407] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1oouapcmeu2z5]: started parsing
+[09May2025 12:19:01.407] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1oouapcmeu2z5]: Finished looking at arguments. Finalizing command.
+[09May2025 12:19:07.060] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ctioapct8ccq]: started parsing
+[09May2025 12:19:07.060] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ctioapct8ccq]: Finished looking at arguments. Finalizing command.
+[09May2025 12:19:12.373] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1scc32z3uwgc8]: started parsing
+[09May2025 12:19:12.373] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1scc32z3uwgc8]: Finished looking at arguments. Finalizing command.
+[09May2025 12:19:18.210] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 12:19:18.406] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 12:19:18.703] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 12:19:19.057] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 12:19:19.255] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 12:19:19.453] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 12:19:19.704] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 12:19:20.504] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 12:19:20.855] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 12:19:21.255] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 12:19:21.540] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 12:19:21.907] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 12:19:22.141] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 12:19:22.340] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 12:19:22.606] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 12:19:22.791] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 12:19:22.991] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 12:19:24.155] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 12:19:24.355] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 12:19:24.552] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 12:19:24.755] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 12:19:24.953] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 12:19:25.258] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 12:19:25.454] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 12:19:25.902] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 12:19:26.257] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 12:19:26.455] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 12:19:27.058] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 12:19:27.704] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 12:19:27.953] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 12:19:28.188] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 12:19:28.358] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 12:19:28.707] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 12:19:29.055] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 12:19:29.509] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 12:19:29.703] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 12:19:29.952] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 12:19:30.253] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 12:19:30.908] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 12:19:31.256] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 12:19:31.556] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 12:19:31.955] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 12:19:32.108] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 12:19:33.056] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 12:19:33.305] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 12:19:33.705] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 12:19:33.904] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 12:19:34.406] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 12:19:34.856] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 12:19:35.054] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 12:19:35.304] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 12:19:35.555] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 12:19:36.107] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 12:19:36.255] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 12:19:43.805] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 12:19:44.056] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 12:19:48.228] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0utk5ougo1que]: started parsing
+[09May2025 12:19:48.228] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0utk5ougo1que]: Consuming argument `stone_brick_slab`
+[09May2025 12:19:48.228] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0utk5ougo1que]: Finished looking at arguments. Finalizing command.
+[09May2025 12:19:48.229] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0b15vomnezj88]: started parsing
+[09May2025 12:19:48.229] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0b15vomnezj88]: Consuming argument `stone_brick_slab`
+[09May2025 12:19:48.229] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0b15vomnezj88]: Finished looking at arguments. Finalizing command.
+[09May2025 12:19:49.132] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07annvn994g5d]: started parsing
+[09May2025 12:19:49.132] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07annvn994g5d]: Consuming argument `sand`
+[09May2025 12:19:49.132] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07annvn994g5d]: Finished looking at arguments. Finalizing command.
+[09May2025 12:19:49.133] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10qxxtr2nlvey]: started parsing
+[09May2025 12:19:49.133] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10qxxtr2nlvey]: Consuming argument `sand`
+[09May2025 12:19:49.133] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10qxxtr2nlvey]: Finished looking at arguments. Finalizing command.
+[09May2025 12:19:49.556] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xkkov6tvu1du]: started parsing
+[09May2025 12:19:49.556] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xkkov6tvu1du]: Consuming argument `san`
+[09May2025 12:19:50.070] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mc8zsdp9iemq]: started parsing
+[09May2025 12:19:50.070] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mc8zsdp9iemq]: Consuming argument `sa`
+[09May2025 12:19:50.106] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bfby0kvbx1jx]: started parsing
+[09May2025 12:19:50.106] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bfby0kvbx1jx]: Consuming argument `s`
+[09May2025 12:19:50.131] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1oi7flfmy8dwu]: started parsing
+[09May2025 12:19:50.131] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1oi7flfmy8dwu]: Consuming argument ``
+[09May2025 12:19:51.804] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0npvi5hgks018]: started parsing
+[09May2025 12:19:51.804] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0npvi5hgks018]: Consuming argument ``
+[09May2025 12:19:53.205] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [083ucdg0jf6fo]: started parsing
+[09May2025 12:19:53.205] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [083ucdg0jf6fo]: Consuming argument `g`
+[09May2025 12:19:53.372] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rxsbithhbsph]: started parsing
+[09May2025 12:19:53.372] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rxsbithhbsph]: Consuming argument `gr`
+[09May2025 12:19:53.706] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fmois8v0bowq]: started parsing
+[09May2025 12:19:53.706] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fmois8v0bowq]: Consuming argument `gra`
+[09May2025 12:19:53.772] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mhfzlozyf0ya]: started parsing
+[09May2025 12:19:53.772] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mhfzlozyf0ya]: Consuming argument `gras`
+[09May2025 12:19:53.956] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0l7c9jk9afrsk]: started parsing
+[09May2025 12:19:53.956] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0l7c9jk9afrsk]: Consuming argument `grass`
+[09May2025 12:19:53.956] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0l7c9jk9afrsk]: Finished looking at arguments. Finalizing command.
+[09May2025 12:19:55.076] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0886zfuh4nopb]: started parsing
+[09May2025 12:19:55.076] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0886zfuh4nopb]: Consuming argument `gras`
+[09May2025 12:19:55.932] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xikurp0vipjd]: started parsing
+[09May2025 12:19:55.932] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xikurp0vipjd]: Consuming argument `grass_block`
+[09May2025 12:19:55.932] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xikurp0vipjd]: Finished looking at arguments. Finalizing command.
+[09May2025 12:20:31.543] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Castle with trench
+[09May2025 12:20:31.556] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Castle with trench
+[09May2025 12:22:02.706] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrSamTex536 lost connection: Disconnected
+[09May2025 12:22:02.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSamTex536 left the game
+[09May2025 12:22:02.710] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: good bye MrSamTex536
+[09May2025 12:22:02.710] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: remove synced player fa2b078b-9c11-4781-9d14-5530abc26528
+[09May2025 12:22:14.610] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: wait
+[09May2025 12:22:14.610] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: Disconnect from file db: 'world'
+[09May2025 12:22:14.610] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: stop skin loader
+[09May2025 12:22:14.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[09May2025 12:22:14.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[09May2025 12:22:14.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[09May2025 12:22:14.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Castle with trench]'/minecraft:overworld
+[09May2025 12:22:14.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Castle with trench]'/minecraft:the_end
+[09May2025 12:22:14.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Castle with trench]'/witherstormmod:bowels
+[09May2025 12:22:14.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Castle with trench]'/minecraft:the_nether
+[09May2025 12:22:14.829] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Castle with trench
+[09May2025 12:22:14.840] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Castle with trench
+[09May2025 12:22:14.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09May2025 12:22:14.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09May2025 12:22:14.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (bowels): All chunks are saved
+[09May2025 12:22:14.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09May2025 12:22:14.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[09May2025 12:22:14.878] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.boss_randomizer from Raids to prevent a post-mod-removal crash
+[09May2025 12:22:14.878] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.igniter from Raids to prevent a post-mod-removal crash
+[09May2025 12:22:14.878] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.engineer from Raids to prevent a post-mod-removal crash
+[09May2025 12:22:14.878] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.twittollager from Raids to prevent a post-mod-removal crash
+[09May2025 12:22:14.878] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.magispeller from Raids to prevent a post-mod-removal crash
+[09May2025 12:22:14.878] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.spiritcaller from Raids to prevent a post-mod-removal crash
+[09May2025 12:22:14.878] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.crocofang from Raids to prevent a post-mod-removal crash
+[09May2025 12:22:14.878] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.absorber from Raids to prevent a post-mod-removal crash
+[09May2025 12:22:14.878] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.preserver from Raids to prevent a post-mod-removal crash
+[09May2025 12:22:14.878] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.freakager from Raids to prevent a post-mod-removal crash
+[09May2025 12:22:14.878] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_freakager from Raids to prevent a post-mod-removal crash
+[09May2025 12:22:14.878] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_magispeller from Raids to prevent a post-mod-removal crash
+[09May2025 12:22:14.920] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.boss_randomizer from Raids to prevent a post-mod-removal crash
+[09May2025 12:22:14.920] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.igniter from Raids to prevent a post-mod-removal crash
+[09May2025 12:22:14.920] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.engineer from Raids to prevent a post-mod-removal crash
+[09May2025 12:22:14.920] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.twittollager from Raids to prevent a post-mod-removal crash
+[09May2025 12:22:14.920] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.magispeller from Raids to prevent a post-mod-removal crash
+[09May2025 12:22:14.920] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.spiritcaller from Raids to prevent a post-mod-removal crash
+[09May2025 12:22:14.920] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.crocofang from Raids to prevent a post-mod-removal crash
+[09May2025 12:22:14.920] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.absorber from Raids to prevent a post-mod-removal crash
+[09May2025 12:22:14.920] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.preserver from Raids to prevent a post-mod-removal crash
+[09May2025 12:22:14.920] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.freakager from Raids to prevent a post-mod-removal crash
+[09May2025 12:22:14.920] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_freakager from Raids to prevent a post-mod-removal crash
+[09May2025 12:22:14.920] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_magispeller from Raids to prevent a post-mod-removal crash
+[09May2025 12:22:14.921] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.boss_randomizer from Raids to prevent a post-mod-removal crash
+[09May2025 12:22:14.921] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.igniter from Raids to prevent a post-mod-removal crash
+[09May2025 12:22:14.921] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.engineer from Raids to prevent a post-mod-removal crash
+[09May2025 12:22:14.922] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.twittollager from Raids to prevent a post-mod-removal crash
+[09May2025 12:22:14.922] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.magispeller from Raids to prevent a post-mod-removal crash
+[09May2025 12:22:14.922] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.spiritcaller from Raids to prevent a post-mod-removal crash
+[09May2025 12:22:14.922] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.crocofang from Raids to prevent a post-mod-removal crash
+[09May2025 12:22:14.922] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.absorber from Raids to prevent a post-mod-removal crash
+[09May2025 12:22:14.922] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.preserver from Raids to prevent a post-mod-removal crash
+[09May2025 12:22:14.922] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.freakager from Raids to prevent a post-mod-removal crash
+[09May2025 12:22:14.922] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_freakager from Raids to prevent a post-mod-removal crash
+[09May2025 12:22:14.922] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_magispeller from Raids to prevent a post-mod-removal crash
+[09May2025 12:22:14.922] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.boss_randomizer from Raids to prevent a post-mod-removal crash
+[09May2025 12:22:14.923] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.igniter from Raids to prevent a post-mod-removal crash
+[09May2025 12:22:14.923] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.engineer from Raids to prevent a post-mod-removal crash
+[09May2025 12:22:14.923] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.twittollager from Raids to prevent a post-mod-removal crash
+[09May2025 12:22:14.923] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.magispeller from Raids to prevent a post-mod-removal crash
+[09May2025 12:22:14.923] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.spiritcaller from Raids to prevent a post-mod-removal crash
+[09May2025 12:22:14.923] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.crocofang from Raids to prevent a post-mod-removal crash
+[09May2025 12:22:14.923] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.absorber from Raids to prevent a post-mod-removal crash
+[09May2025 12:22:14.923] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.preserver from Raids to prevent a post-mod-removal crash
+[09May2025 12:22:14.923] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.freakager from Raids to prevent a post-mod-removal crash
+[09May2025 12:22:14.923] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_freakager from Raids to prevent a post-mod-removal crash
+[09May2025 12:22:14.923] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_magispeller from Raids to prevent a post-mod-removal crash
+[09May2025 12:22:14.925] [Server thread/INFO] [Calio/]: Removing Dynamic Registries for: net.minecraft.server.dedicated.DedicatedServer@26eb67b5
+[09May2025 12:22:14.925] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: bye
+[09May2025 12:22:14.925] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
