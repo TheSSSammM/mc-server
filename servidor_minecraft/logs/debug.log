@@ -6452,3 +6452,311 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_straw_ha
 [09May2025 14:52:17.727] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
 [09May2025 14:52:18.627] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
 [09May2025 14:52:26.353] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:52:39.518] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:53:09.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrSamTex536 has made the advancement [Life turned out to be a comedy]
+[09May2025 14:53:23.075] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:53:23.775] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:53:37.979] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:53:38.404] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:53:41.324] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Castle with trench
+[09May2025 14:53:41.337] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Castle with trench
+[09May2025 14:53:46.302] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:53:46.503] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:53:52.415] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:53:53.258] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:53:53.667] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:54:20.467] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:54:20.801] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:54:21.102] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:54:21.768] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:54:22.118] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:54:23.070] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:54:23.520] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:54:23.998] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:54:24.571] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:54:24.971] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:54:27.998] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:54:35.905] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0w1cybuz1q382]: started parsing
+[09May2025 14:54:35.905] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0w1cybuz1q382]: Consuming argument `dark_oak_planks`
+[09May2025 14:54:35.905] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0w1cybuz1q382]: Finished looking at arguments. Finalizing command.
+[09May2025 14:54:35.906] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bkhitgu4p606]: started parsing
+[09May2025 14:54:35.906] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bkhitgu4p606]: Consuming argument `dark_oak_planks`
+[09May2025 14:54:35.906] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bkhitgu4p606]: Finished looking at arguments. Finalizing command.
+[09May2025 14:54:38.258] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16j36i8xhxvsb]: started parsing
+[09May2025 14:54:38.258] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16j36i8xhxvsb]: Consuming argument `dark_oak_plank`
+[09May2025 14:54:38.562] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wrabz62ovn83]: started parsing
+[09May2025 14:54:38.562] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wrabz62ovn83]: Consuming argument `dark_oak_plan`
+[09May2025 14:54:39.076] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1coh2os8f0tt1]: started parsing
+[09May2025 14:54:39.076] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1coh2os8f0tt1]: Consuming argument `dark_oak_pla`
+[09May2025 14:54:39.105] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0oh59km3xvfmq]: started parsing
+[09May2025 14:54:39.105] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0oh59km3xvfmq]: Consuming argument `dark_oak_pl`
+[09May2025 14:54:39.155] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xakxlrlgucwc]: started parsing
+[09May2025 14:54:39.156] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xakxlrlgucwc]: Consuming argument `dark_oak_p`
+[09May2025 14:54:39.167] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1d8f1vda1744e]: started parsing
+[09May2025 14:54:39.167] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1d8f1vda1744e]: Consuming argument `dark_oak_`
+[09May2025 14:54:39.204] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0weinuac2zqev]: started parsing
+[09May2025 14:54:39.204] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0weinuac2zqev]: Consuming argument `dark_oak`
+[09May2025 14:54:39.229] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09c7glbs7dqkq]: started parsing
+[09May2025 14:54:39.229] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09c7glbs7dqkq]: Consuming argument `dark_oa`
+[09May2025 14:54:39.262] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pn02gktx0a6q]: started parsing
+[09May2025 14:54:39.262] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pn02gktx0a6q]: Consuming argument `dark_o`
+[09May2025 14:54:39.306] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0q5wlnp4qaq7d]: started parsing
+[09May2025 14:54:39.306] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0q5wlnp4qaq7d]: Consuming argument `dark_`
+[09May2025 14:54:39.359] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vv29opi4xw3j]: started parsing
+[09May2025 14:54:39.359] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vv29opi4xw3j]: Consuming argument `dark`
+[09May2025 14:54:39.365] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vrds16pp2big]: started parsing
+[09May2025 14:54:39.365] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vrds16pp2big]: Consuming argument `dar`
+[09May2025 14:54:39.407] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06z246c54cseq]: started parsing
+[09May2025 14:54:39.407] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06z246c54cseq]: Consuming argument `da`
+[09May2025 14:54:39.427] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1okac856uoik9]: started parsing
+[09May2025 14:54:39.427] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1okac856uoik9]: Consuming argument `d`
+[09May2025 14:54:39.459] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14tnk60k3eb5z]: started parsing
+[09May2025 14:54:39.459] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14tnk60k3eb5z]: Consuming argument ``
+[09May2025 14:54:41.331] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13setlgc2rkqr]: started parsing
+[09May2025 14:54:41.331] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13setlgc2rkqr]: Finished looking at arguments. Finalizing command.
+[09May2025 14:54:55.098] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:54:55.322] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:54:55.623] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:55:29.616] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vqbyaee40iot]: started parsing
+[09May2025 14:55:29.616] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vqbyaee40iot]: Consuming argument ``
+[09May2025 14:55:29.952] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16j9rbhpe02pt]: started parsing
+[09May2025 14:55:29.952] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16j9rbhpe02pt]: Consuming argument `f`
+[09May2025 14:55:30.128] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sukpekpa7g5c]: started parsing
+[09May2025 14:55:30.128] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sukpekpa7g5c]: Consuming argument `fi`
+[09May2025 14:55:30.306] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1x56lecvyel7j]: started parsing
+[09May2025 14:55:30.306] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1x56lecvyel7j]: Consuming argument `fir`
+[09May2025 14:55:31.056] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0y1k3x86vw1fl]: started parsing
+[09May2025 14:55:31.056] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0y1k3x86vw1fl]: Consuming argument `fir`
+[09May2025 14:55:32.205] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lx5h26ah58z4]: started parsing
+[09May2025 14:55:32.205] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lx5h26ah58z4]: Consuming argument `fir`
+[09May2025 14:56:04.520] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04kuu4baw4y72]: started parsing
+[09May2025 14:56:04.520] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04kuu4baw4y72]: Consuming argument `fi`
+[09May2025 14:56:05.529] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1n3y8z9uajfkr]: started parsing
+[09May2025 14:56:05.529] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1n3y8z9uajfkr]: Consuming argument `f`
+[09May2025 14:56:11.153] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ejdwfmfr1hnm]: started parsing
+[09May2025 14:56:11.154] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ejdwfmfr1hnm]: Consuming argument ``
+[09May2025 14:56:12.156] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mtgpd4r102g1]: started parsing
+[09May2025 14:56:12.156] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mtgpd4r102g1]: Consuming argument `p`
+[09May2025 14:56:12.308] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tz3ckmk8cygn]: started parsing
+[09May2025 14:56:12.308] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tz3ckmk8cygn]: Consuming argument `pl`
+[09May2025 14:56:12.379] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hu6m9eo6sdaz]: started parsing
+[09May2025 14:56:12.379] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hu6m9eo6sdaz]: Consuming argument `pla`
+[09May2025 14:56:13.800] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0usd4vrklou0n]: started parsing
+[09May2025 14:56:13.800] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0usd4vrklou0n]: Consuming argument `pl`
+[09May2025 14:56:14.255] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10rb9g4yrkba2]: started parsing
+[09May2025 14:56:14.256] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10rb9g4yrkba2]: Consuming argument `p`
+[09May2025 14:56:16.201] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0owany7qlvcdk]: started parsing
+[09May2025 14:56:16.201] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0owany7qlvcdk]: Consuming argument ``
+[09May2025 14:56:19.181] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0l03ugdbqngw5]: started parsing
+[09May2025 14:56:19.181] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0l03ugdbqngw5]: Consuming argument `m`
+[09May2025 14:56:19.319] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1s1q8kvqwwyyy]: started parsing
+[09May2025 14:56:19.319] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1s1q8kvqwwyyy]: Consuming argument `mi`
+[09May2025 14:56:19.719] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07kk95g09fbkc]: started parsing
+[09May2025 14:56:19.719] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07kk95g09fbkc]: Consuming argument `min`
+[09May2025 14:56:20.711] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19ve880cejh9i]: started parsing
+[09May2025 14:56:20.711] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19ve880cejh9i]: Consuming argument `minecraft:`
+[09May2025 14:56:21.615] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uc6qtchl406r]: started parsing
+[09May2025 14:56:21.615] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uc6qtchl406r]: Consuming argument `minecraft:`
+[09May2025 14:56:41.950] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:56:42.248] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:56:42.502] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:56:42.673] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:56:42.973] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:56:43.174] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:56:43.753] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:56:48.463] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10mpixan9tikz]: started parsing
+[09May2025 14:56:48.463] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10mpixan9tikz]: Consuming argument `dark_oak_planks`
+[09May2025 14:56:48.463] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10mpixan9tikz]: Finished looking at arguments. Finalizing command.
+[09May2025 14:56:48.463] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1s0wfqv97v4oh]: started parsing
+[09May2025 14:56:48.463] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1s0wfqv97v4oh]: Consuming argument `dark_oak_planks`
+[09May2025 14:56:48.463] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1s0wfqv97v4oh]: Finished looking at arguments. Finalizing command.
+[09May2025 14:56:49.575] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gqekvd049415]: started parsing
+[09May2025 14:56:49.575] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gqekvd049415]: Consuming argument `dark_oak_planks`
+[09May2025 14:56:49.575] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gqekvd049415]: Finished looking at arguments. Finalizing command.
+[09May2025 14:57:05.756] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:57:06.024] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:57:06.224] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:57:06.475] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:57:06.676] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:57:07.059] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:57:07.510] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:57:07.911] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:57:16.853] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:57:17.750] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:57:19.298] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:57:19.563] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:57:19.856] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:57:20.015] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:57:20.215] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:57:20.415] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:57:20.653] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:57:22.117] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:57:22.367] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:57:22.567] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:57:22.717] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:57:22.950] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:57:23.202] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:57:23.450] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:57:24.154] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:57:24.355] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:57:24.550] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:57:25.252] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:57:25.570] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:57:25.920] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:57:28.129] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:57:28.398] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:57:31.853] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:57:32.204] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:57:38.699] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:57:44.749] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:57:44.922] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:57:45.425] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:57:46.565] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:57:46.815] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:57:47.015] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:57:47.300] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:57:48.015] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:57:48.251] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:57:48.566] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:57:48.916] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:57:49.248] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:57:49.517] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:57:51.220] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:57:51.571] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:57:57.360] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:57:57.761] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:57:58.849] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:57:59.162] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:58:09.220] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:58:09.421] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:58:28.409] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:58:39.719] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:58:40.769] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:58:41.315] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Castle with trench
+[09May2025 14:58:41.331] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Castle with trench
+[09May2025 14:58:41.434] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:58:43.551] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:58:49.555] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:58:50.201] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:58:50.712] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:58:59.473] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:59:01.254] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:59:02.475] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:59:06.100] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:59:07.215] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:59:08.103] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:59:22.059] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:59:23.559] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:59:24.800] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:59:26.599] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:59:27.614] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:59:28.415] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:59:29.165] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:59:30.050] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:59:30.717] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:59:34.507] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:59:35.370] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:59:36.001] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:59:36.650] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:59:37.250] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:59:37.953] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:59:38.473] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:59:39.151] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:59:39.700] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:59:42.762] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:59:43.363] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:59:44.148] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:59:46.119] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:59:46.670] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:59:47.370] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 15:00:31.898] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1okkfqt8w4956]: started parsing
+[09May2025 15:00:31.898] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1okkfqt8w4956]: Consuming argument `dark_oak_planks`
+[09May2025 15:00:31.898] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1okkfqt8w4956]: Finished looking at arguments. Finalizing command.
+[09May2025 15:00:31.899] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ug3dyhutrpw2]: started parsing
+[09May2025 15:00:31.899] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ug3dyhutrpw2]: Consuming argument `dark_oak_planks`
+[09May2025 15:00:31.899] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ug3dyhutrpw2]: Finished looking at arguments. Finalizing command.
+[09May2025 15:00:32.648] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00x47i0m3m937]: started parsing
+[09May2025 15:00:32.648] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00x47i0m3m937]: Consuming argument `dark_oak_plank`
+[09May2025 15:00:33.154] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jr8tzsznqbqk]: started parsing
+[09May2025 15:00:33.154] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jr8tzsznqbqk]: Consuming argument `dark_oak_plan`
+[09May2025 15:00:33.174] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [078xxsavixgop]: started parsing
+[09May2025 15:00:33.174] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [078xxsavixgop]: Consuming argument `dark_oak_pla`
+[09May2025 15:00:33.205] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dha1xzqc13ck]: started parsing
+[09May2025 15:00:33.205] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dha1xzqc13ck]: Consuming argument `dark_oak_pl`
+[09May2025 15:00:33.250] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07lwj36jymnbd]: started parsing
+[09May2025 15:00:33.250] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07lwj36jymnbd]: Consuming argument `dark_oak_p`
+[09May2025 15:00:33.266] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16vfsdzowvu7g]: started parsing
+[09May2025 15:00:33.266] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16vfsdzowvu7g]: Consuming argument `dark_oak_`
+[09May2025 15:00:33.314] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19xydvrfzsn32]: started parsing
+[09May2025 15:00:33.314] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19xydvrfzsn32]: Consuming argument `dark_oak`
+[09May2025 15:00:33.349] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00gfh5kyitiv9]: started parsing
+[09May2025 15:00:33.349] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00gfh5kyitiv9]: Consuming argument `dark_oa`
+[09May2025 15:00:33.374] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tj3drv59y8j4]: started parsing
+[09May2025 15:00:33.374] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tj3drv59y8j4]: Consuming argument `dark_o`
+[09May2025 15:00:33.405] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ldm1vijg92jv]: started parsing
+[09May2025 15:00:33.405] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ldm1vijg92jv]: Consuming argument `dark_`
+[09May2025 15:00:33.453] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [045v8y0lsi7jt]: started parsing
+[09May2025 15:00:33.453] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [045v8y0lsi7jt]: Consuming argument `dark`
+[09May2025 15:00:33.649] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02gi0okqbqbef]: started parsing
+[09May2025 15:00:33.649] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02gi0okqbqbef]: Consuming argument `dar`
+[09May2025 15:00:33.873] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rrgd4r88o230]: started parsing
+[09May2025 15:00:33.873] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rrgd4r88o230]: Consuming argument `da`
+[09May2025 15:00:34.153] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09lhvk05zo089]: started parsing
+[09May2025 15:00:34.153] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09lhvk05zo089]: Consuming argument `d`
+[09May2025 15:00:34.848] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lzob16uyyo9w]: started parsing
+[09May2025 15:00:34.848] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lzob16uyyo9w]: Consuming argument ``
+[09May2025 15:00:36.705] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1n4qu8xhubwe3]: started parsing
+[09May2025 15:00:36.706] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1n4qu8xhubwe3]: Consuming argument `s`
+[09May2025 15:00:36.961] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10ljk691e5xrb]: started parsing
+[09May2025 15:00:36.962] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10ljk691e5xrb]: Consuming argument `sp`
+[09May2025 15:00:37.151] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0yvxyfbpvzomb]: started parsing
+[09May2025 15:00:37.151] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0yvxyfbpvzomb]: Consuming argument `spr`
+[09May2025 15:00:37.257] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06gte1mhetodw]: started parsing
+[09May2025 15:00:37.257] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06gte1mhetodw]: Consuming argument `spre`
+[09May2025 15:00:38.361] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ht7uifaflobj]: started parsing
+[09May2025 15:00:38.361] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ht7uifaflobj]: Consuming argument `spr`
+[09May2025 15:00:40.549] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1b7s0pu3apjv3]: started parsing
+[09May2025 15:00:40.549] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1b7s0pu3apjv3]: Consuming argument `spruce_saplin`
+[09May2025 15:00:40.726] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07bml2dg4ejhp]: started parsing
+[09May2025 15:00:40.726] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07bml2dg4ejhp]: Consuming argument `spruce_sapli`
+[09May2025 15:00:40.907] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0agiad46vw2sa]: started parsing
+[09May2025 15:00:40.907] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0agiad46vw2sa]: Consuming argument `spruce_sapl`
+[09May2025 15:00:41.065] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [076hyo2q24w13]: started parsing
+[09May2025 15:00:41.065] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [076hyo2q24w13]: Consuming argument `spruce_sap`
+[09May2025 15:00:41.253] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15gkrmq4gf02b]: started parsing
+[09May2025 15:00:41.253] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15gkrmq4gf02b]: Consuming argument `spruce_sa`
+[09May2025 15:00:41.409] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0m82uf5nwx34i]: started parsing
+[09May2025 15:00:41.409] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0m82uf5nwx34i]: Consuming argument `spruce_s`
+[09May2025 15:00:41.853] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1a432y1max3ku]: started parsing
+[09May2025 15:00:41.853] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1a432y1max3ku]: Consuming argument `spruce_`
+[09May2025 15:00:42.429] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1llkguj8sjncs]: started parsing
+[09May2025 15:00:42.429] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1llkguj8sjncs]: Consuming argument `spruce_p`
+[09May2025 15:00:42.749] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10jsbb6kejbjl]: started parsing
+[09May2025 15:00:42.749] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10jsbb6kejbjl]: Consuming argument `spruce_pl`
+[09May2025 15:00:43.898] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zt93dgjo6dvb]: started parsing
+[09May2025 15:00:43.898] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zt93dgjo6dvb]: Consuming argument `spruce_planks`
+[09May2025 15:00:43.899] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zt93dgjo6dvb]: Finished looking at arguments. Finalizing command.
+[09May2025 15:00:47.103] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 15:00:47.372] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 15:00:47.674] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 15:00:47.922] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 15:00:48.122] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 15:00:48.348] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 15:00:48.706] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 15:00:49.100] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 15:00:49.301] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 15:00:49.523] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 15:00:52.153] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 15:00:52.409] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 15:00:52.610] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 15:01:15.102] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 15:01:19.872] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 15:01:28.115] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 15:01:28.454] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 15:02:26.318] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 15:02:26.569] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 15:02:26.849] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 15:02:27.156] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 15:02:27.698] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 15:02:27.970] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 15:02:28.219] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
