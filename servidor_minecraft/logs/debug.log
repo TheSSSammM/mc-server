@@ -8005,3 +8005,97 @@ java.lang.IllegalArgumentException: No enum constant net.minecraft.world.level.b
 [09May2025 11:25:12.682] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ecwmfzphf06b]: started parsing
 [09May2025 11:25:12.682] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ecwmfzphf06b]: Consuming argument `dark_oak_planks`
 [09May2025 11:25:12.683] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ecwmfzphf06b]: Finished looking at arguments. Finalizing command.
+[09May2025 11:25:31.548] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Castle with trench
+[09May2025 11:25:31.562] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Castle with trench
+[09May2025 11:26:56.689] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:26:58.009] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:27:00.155] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:27:00.354] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:27:00.603] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:27:00.853] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:27:08.390] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:27:53.104] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:27:58.509] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:27:58.840] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:27:59.054] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:27:59.506] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:28:00.907] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:28:01.107] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:28:01.307] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:28:01.555] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:28:02.505] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:28:02.753] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:28:03.210] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:28:03.554] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:28:05.706] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:28:05.907] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:28:06.160] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:28:06.337] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:28:07.487] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:28:07.737] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:28:07.957] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:28:08.160] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:28:08.788] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:28:09.088] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:28:09.289] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:28:09.489] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:28:10.790] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:28:10.990] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:28:11.240] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:28:11.690] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:28:27.505] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:28:46.309] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:30:31.538] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Castle with trench
+[09May2025 11:30:31.552] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Castle with trench
+[09May2025 11:31:07.307] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:31:14.690] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:31:14.990] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:31:15.253] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:31:15.440] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:31:31.460] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:31:31.688] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:31:32.039] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:31:32.390] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:31:41.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MrSamTex536: Set the time to 1000]
+[09May2025 11:32:08.258] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:32:08.556] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:32:08.853] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:32:09.107] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:32:11.661] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:32:11.957] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:32:18.357] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:32:18.653] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:32:18.983] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:32:19.306] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:32:50.456] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:33:11.840] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:33:12.291] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:33:12.807] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:33:23.253] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:33:23.609] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:33:24.056] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:33:28.653] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:33:29.057] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:33:29.484] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:33:31.012] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:33:31.286] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:33:35.287] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:33:35.604] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:33:36.888] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:33:38.409] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:33:50.306] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:33:56.853] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:33:57.603] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:33:57.788] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:34:06.504] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:34:07.007] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:34:08.409] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:34:08.959] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:34:13.110] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:34:18.789] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:34:21.412] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:35:11.208] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:35:11.605] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:35:11.903] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 11:35:31.539] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Castle with trench
+[09May2025 11:35:31.553] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Castle with trench
