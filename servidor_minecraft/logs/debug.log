@@ -7652,3 +7652,116 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_straw_ha
 [09May2025 13:57:43.802] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
 [09May2025 13:57:44.603] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
 [09May2025 13:58:43.648] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 13:59:58.049] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:00:11.299] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Villager['Default (None)'/13914, l='ServerLevel[Castle with trench]', x=0.00, y=0.00, z=0.00] ...
+[09May2025 14:00:11.300] [Server thread/INFO] [Easy NPC/]: Register default handler for Villager['Default (None)'/13914, l='ServerLevel[Castle with trench]', x=0.00, y=0.00, z=0.00] with variant DEFAULT ...
+[09May2025 14:00:11.300] [Server thread/INFO] [Easy NPC/]: Finalize spawn for Villager['Default (None)'/13914, l='ServerLevel[Castle with trench]', x=4142.50, y=112.06, z=-13187.50] ...
+[09May2025 14:00:11.301] [Server thread/INFO] [Easy NPC/]: Register default action interaction events for Villager['Default (None)'/13914, l='ServerLevel[Castle with trench]', x=4142.50, y=112.06, z=-13187.50] ...
+[09May2025 14:00:14.301] [Server thread/INFO] [Easy NPC/]: Opening menu 1471f154-2117-414c-b932-59766c6da80e for npc f18961da-fe14-4957-9dbb-98356046faef and player ServerPlayer['MrSamTex536'/1302, l='ServerLevel[Castle with trench]', x=4139.66, y=112.00, z=-13187.46] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Default (None)]}]
+[09May2025 14:00:15.450] [Server thread/INFO] [Easy NPC/]: Opening menu a52df09b-c88b-4741-a938-d9e6f7a1a793 for npc f18961da-fe14-4957-9dbb-98356046faef and player ServerPlayer['MrSamTex536'/1302, l='ServerLevel[Castle with trench]', x=4139.66, y=112.00, z=-13187.46] with ConfigurationMenu.DEFAULT_SKIN[translation{key='text.easy_npc.config.default_skin.title', args=[Default (None)]}]
+[09May2025 14:00:17.654] [Server thread/INFO] [Easy NPC/]: Opening menu b138012d-f697-42aa-b83c-909bd87ba0a7 for npc f18961da-fe14-4957-9dbb-98356046faef and player ServerPlayer['MrSamTex536'/1302, l='ServerLevel[Castle with trench]', x=4139.66, y=112.00, z=-13187.46] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Default (None)]}]
+[09May2025 14:00:18.654] [Server thread/INFO] [Easy NPC/]: Opening menu d8520ee0-577b-4041-a239-11461f4138a6 for npc f18961da-fe14-4957-9dbb-98356046faef and player ServerPlayer['MrSamTex536'/1302, l='ServerLevel[Castle with trench]', x=4139.66, y=112.00, z=-13187.46] with ConfigurationMenu.DEFAULT_SKIN[translation{key='text.easy_npc.config.default_skin.title', args=[Default (None)]}]
+[09May2025 14:00:37.702] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Castle with trench
+[09May2025 14:00:37.717] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Castle with trench
+[09May2025 14:00:43.750] [Server thread/INFO] [Easy NPC/]: Opening menu 80333d52-d089-4f88-ae4f-709ef95fd497 for npc f18961da-fe14-4957-9dbb-98356046faef and player ServerPlayer['MrSamTex536'/1302, l='ServerLevel[Castle with trench]', x=4139.66, y=112.00, z=-13187.46] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Default (None)]}]
+[09May2025 14:00:45.652] [Server thread/INFO] [Easy NPC/]: Opening menu 35a84bd2-71f0-4411-96f8-687b109f570d for npc f18961da-fe14-4957-9dbb-98356046faef and player ServerPlayer['MrSamTex536'/1302, l='ServerLevel[Castle with trench]', x=4139.66, y=112.00, z=-13187.46] with EquipmentConfigurationMenu[translation{key='text.easy_npc.config.equipment.title', args=[Default (None)]}]
+[09May2025 14:00:48.898] [Server thread/INFO] [Easy NPC/]: Opening menu 1610ec17-9598-4e3f-ab8f-29ac335fffc6 for npc f18961da-fe14-4957-9dbb-98356046faef and player ServerPlayer['MrSamTex536'/1302, l='ServerLevel[Castle with trench]', x=4139.95, y=112.00, z=-13187.43] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Default (None)]}]
+[09May2025 14:00:52.549] [Server thread/INFO] [Easy NPC/]: Opening menu 22552a60-91da-4fcb-a4b4-2451a3f3c309 for npc f18961da-fe14-4957-9dbb-98356046faef and player ServerPlayer['MrSamTex536'/1302, l='ServerLevel[Castle with trench]', x=4139.95, y=112.00, z=-13187.43] with ConfigurationMenu.DEFAULT_SKIN[translation{key='text.easy_npc.config.default_skin.title', args=[Default (None)]}]
+[09May2025 14:00:54.248] [Server thread/INFO] [Easy NPC/]: Opening menu b9524da3-bb00-4985-8fec-b990ec72911f for npc f18961da-fe14-4957-9dbb-98356046faef and player ServerPlayer['MrSamTex536'/1302, l='ServerLevel[Castle with trench]', x=4139.95, y=112.00, z=-13187.43] with ConfigurationMenu.URL_SKIN[translation{key='text.easy_npc.config.url_skin.title', args=[Default (None)]}]
+[09May2025 14:00:55.017] [Server thread/INFO] [Easy NPC/]: Opening menu cbe04945-0cce-4e72-8868-75229861c04a for npc f18961da-fe14-4957-9dbb-98356046faef and player ServerPlayer['MrSamTex536'/1302, l='ServerLevel[Castle with trench]', x=4139.95, y=112.00, z=-13187.43] with ConfigurationMenu.CUSTOM_SKIN[translation{key='text.easy_npc.config.custom_skin.title', args=[Default (None)]}]
+[09May2025 14:01:08.798] [Server thread/INFO] [Easy NPC/]: Opening menu 0dd12fa8-cae5-442b-8603-870b4b4c8c59 for npc f18961da-fe14-4957-9dbb-98356046faef and player ServerPlayer['MrSamTex536'/1302, l='ServerLevel[Castle with trench]', x=4140.30, y=112.00, z=-13187.36] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Default (None)]}]
+[09May2025 14:01:13.100] [Server thread/INFO] [Easy NPC/]: Opening menu b8121959-22ce-44da-b2d6-dd36beea76d2 for npc f18961da-fe14-4957-9dbb-98356046faef and player ServerPlayer['MrSamTex536'/1302, l='ServerLevel[Castle with trench]', x=4140.30, y=112.00, z=-13187.36] with ConfigurationMenu.DEFAULT_MODEL[translation{key='text.easy_npc.config.default_model.title', args=[Default (None)]}]
+[09May2025 14:01:14.753] [Server thread/INFO] [Easy NPC/]: Opening menu 4ecd7b66-b8ec-4da7-8973-c52c111337d3 for npc f18961da-fe14-4957-9dbb-98356046faef and player ServerPlayer['MrSamTex536'/1302, l='ServerLevel[Castle with trench]', x=4140.30, y=112.00, z=-13187.36] with ConfigurationMenu.CUSTOM_MODEL[translation{key='text.easy_npc.config.custom_model.title', args=[Default (None)]}]
+[09May2025 14:01:18.303] [Server thread/INFO] [Easy NPC/]: Opening menu 09a340fc-f867-41e2-8149-d0e5c891e48e for npc f18961da-fe14-4957-9dbb-98356046faef and player ServerPlayer['MrSamTex536'/1302, l='ServerLevel[Castle with trench]', x=4140.30, y=112.00, z=-13187.36] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Default (None)]}]
+[09May2025 14:01:19.300] [Server thread/INFO] [Easy NPC/]: Opening menu c98da76e-6c3d-46eb-86f7-35da1240f48b for npc f18961da-fe14-4957-9dbb-98356046faef and player ServerPlayer['MrSamTex536'/1302, l='ServerLevel[Castle with trench]', x=4140.30, y=112.00, z=-13187.36] with ConfigurationMenu.CUSTOM_SKIN[translation{key='text.easy_npc.config.custom_skin.title', args=[Default (None)]}]
+[09May2025 14:01:20.651] [Server thread/INFO] [Easy NPC/]: Opening menu e83b26de-341a-4c7a-b4dc-b7ade0d7d0cd for npc f18961da-fe14-4957-9dbb-98356046faef and player ServerPlayer['MrSamTex536'/1302, l='ServerLevel[Castle with trench]', x=4140.30, y=112.00, z=-13187.36] with ConfigurationMenu.DEFAULT_SKIN[translation{key='text.easy_npc.config.default_skin.title', args=[Default (None)]}]
+[09May2025 14:01:40.204] [Server thread/INFO] [Easy NPC/]: Opening menu 08fa0533-940f-4071-a4ba-e5f1a269de8c for npc f18961da-fe14-4957-9dbb-98356046faef and player ServerPlayer['MrSamTex536'/1302, l='ServerLevel[Castle with trench]', x=4140.37, y=112.00, z=-13187.43] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Jungle (Nitwit)]}]
+[09May2025 14:01:40.405] [Server thread/INFO] [Easy NPC/]: Opening menu db27dc0f-2456-4b2f-be36-50a62824af73 for npc f18961da-fe14-4957-9dbb-98356046faef and player ServerPlayer['MrSamTex536'/1302, l='ServerLevel[Castle with trench]', x=4140.37, y=112.00, z=-13187.43] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Jungle (Nitwit)]}]
+[09May2025 14:02:06.350] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:02:07.150] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:02:21.898] [Server thread/INFO] [Easy NPC/]: Opening menu 8b79d675-1991-4c3b-8d09-5d79d8993a37 for npc f18961da-fe14-4957-9dbb-98356046faef and player ServerPlayer['MrSamTex536'/1302, l='ServerLevel[Castle with trench]', x=4140.60, y=112.00, z=-13186.90] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Jungle (Nitwit)]}]
+[09May2025 14:02:39.271] [Server thread/INFO] [Easy NPC/]: Opening menu 7829d71d-3409-48d0-bf04-e565c42fd373 for npc f18961da-fe14-4957-9dbb-98356046faef and player ServerPlayer['MrSamTex536'/1302, l='ServerLevel[Castle with trench]', x=4140.60, y=112.00, z=-13186.90] with ConfigurationMenu.ABILITIES_ATTRIBUTE[translation{key='text.easy_npc.config.abilities_attribute.title', args=[Templario]}]
+[09May2025 14:02:40.500] [Server thread/INFO] [Easy NPC/]: Opening menu 6a7c3556-7bf3-4bf3-90f6-c3e77f317144 for npc f18961da-fe14-4957-9dbb-98356046faef and player ServerPlayer['MrSamTex536'/1302, l='ServerLevel[Castle with trench]', x=4140.60, y=112.00, z=-13186.90] with ConfigurationMenu.BASE_ATTRIBUTE[translation{key='text.easy_npc.config.base_attribute.title', args=[Templario]}]
+[09May2025 14:02:50.803] [Server thread/INFO] [Easy NPC/]: Opening menu c7cc200a-34ac-4bae-8494-1dbc9f7b4f9c for npc f18961da-fe14-4957-9dbb-98356046faef and player ServerPlayer['MrSamTex536'/1302, l='ServerLevel[Castle with trench]', x=4140.60, y=112.00, z=-13186.90] with ConfigurationMenu.ABILITIES_ATTRIBUTE[translation{key='text.easy_npc.config.abilities_attribute.title', args=[Templario]}]
+[09May2025 14:03:09.898] [Server thread/INFO] [Easy NPC/]: Opening menu b4e6af31-c55c-41d6-a851-51d0df652bf5 for npc f18961da-fe14-4957-9dbb-98356046faef and player ServerPlayer['MrSamTex536'/1302, l='ServerLevel[Castle with trench]', x=4139.88, y=112.00, z=-13187.94] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Templario]}]
+[09May2025 14:03:17.849] [Server thread/INFO] [Easy NPC/]: Opening menu b3ac99da-83b1-4f3c-a2e0-573e2138d836 for npc f18961da-fe14-4957-9dbb-98356046faef and player ServerPlayer['MrSamTex536'/1302, l='ServerLevel[Castle with trench]', x=4140.18, y=112.00, z=-13188.27] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Templario]}]
+[09May2025 14:03:19.451] [Server thread/INFO] [Easy NPC/]: Opening menu d0266586-fdc2-4354-b994-4be75e068e17 for npc f18961da-fe14-4957-9dbb-98356046faef and player ServerPlayer['MrSamTex536'/1302, l='ServerLevel[Castle with trench]', x=4140.20, y=112.00, z=-13188.27] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Templario]}]
+[09May2025 14:03:21.452] [Server thread/INFO] [Easy NPC/]: Opening menu e8c0a962-8139-4e2e-9cc4-db9b4e15d78c for npc f18961da-fe14-4957-9dbb-98356046faef and player ServerPlayer['MrSamTex536'/1302, l='ServerLevel[Castle with trench]', x=4140.20, y=112.00, z=-13188.27] with EquipmentConfigurationMenu[translation{key='text.easy_npc.config.equipment.title', args=[Templario]}]
+[09May2025 14:03:23.055] [Server thread/INFO] [Easy NPC/]: Opening menu 2282a146-94c9-4ac9-8ad2-3168a32f226a for npc f18961da-fe14-4957-9dbb-98356046faef and player ServerPlayer['MrSamTex536'/1302, l='ServerLevel[Castle with trench]', x=4140.20, y=112.00, z=-13188.27] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Templario]}]
+[09May2025 14:03:24.106] [Server thread/INFO] [Easy NPC/]: Opening menu 302048d8-28c6-447a-b922-5e5deddcf5d3 for npc f18961da-fe14-4957-9dbb-98356046faef and player ServerPlayer['MrSamTex536'/1302, l='ServerLevel[Castle with trench]', x=4140.20, y=112.00, z=-13188.27] with ConfigurationMenu.NONE_DIALOG[translation{key='text.easy_npc.config.none_dialog.title', args=[Templario]}]
+[09May2025 14:03:25.206] [Server thread/INFO] [Easy NPC/]: Opening menu da7e1e80-8a3d-42b8-8347-ac0464bd03b9 for npc f18961da-fe14-4957-9dbb-98356046faef and player ServerPlayer['MrSamTex536'/1302, l='ServerLevel[Castle with trench]', x=4140.20, y=112.00, z=-13188.27] with ConfigurationMenu.BASIC_DIALOG[translation{key='text.easy_npc.config.basic_dialog.title', args=[Templario]}]
+[09May2025 14:03:26.361] [Server thread/INFO] [Easy NPC/]: Opening menu 6fc173b9-d967-439d-94ab-5f5824bba6bd for npc f18961da-fe14-4957-9dbb-98356046faef and player ServerPlayer['MrSamTex536'/1302, l='ServerLevel[Castle with trench]', x=4140.20, y=112.00, z=-13188.27] with ConfigurationMenu.YES_NO_DIALOG[translation{key='text.easy_npc.config.yes_no_dialog.title', args=[Templario]}]
+[09May2025 14:05:18.651] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:05:18.901] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:05:22.052] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:05:22.355] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:05:37.691] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Castle with trench
+[09May2025 14:05:37.705] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Castle with trench
+[09May2025 14:05:44.754] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:05:45.747] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:05:46.097] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:05:46.402] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:05:47.849] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:05:48.450] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:05:48.852] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:05:56.397] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:06:02.150] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:06:04.052] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:06:04.350] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:06:28.651] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:06:31.199] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:06:31.852] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:06:53.498] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:07:15.753] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:07:16.951] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:07:18.253] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:07:35.147] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:07:35.800] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:07:36.151] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:07:36.500] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:07:36.830] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:07:37.046] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:07:37.300] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:07:37.747] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:07:37.949] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:07:38.501] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:07:38.850] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:07:39.051] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:07:39.400] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:07:39.747] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:07:39.999] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:07:40.348] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:07:40.996] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:07:41.497] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:07:41.846] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:07:42.010] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:07:42.650] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:07:43.648] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:07:46.276] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:07:54.451] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:08:13.601] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:08:13.952] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:08:14.399] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:08:28.698] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:08:28.949] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:08:29.250] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:08:29.550] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:08:29.899] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:08:30.148] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:08:30.357] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:08:30.548] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:08:30.750] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:08:31.250] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:08:31.552] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:08:31.899] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:08:46.099] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:08:46.701] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:08:47.098] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:08:47.653] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:08:50.858] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:09:08.601] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:09:14.500] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:09:16.305] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:09:17.400] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:09:24.853] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[09May2025 14:09:29.750] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
